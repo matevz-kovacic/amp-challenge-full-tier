@@ -1,0 +1,10 @@
+{
+  "comparisons": 3944800,
+  "exact_float64_equality": true,
+  "top_max_reference_ratio": 0.6923076923076923,
+  "Levenshtein_version": "0.27.3",
+  "replacement": "rapidfuzz.distance.Indel.normalized_similarity",
+  "official_threshold": "strictly greater than 0.8 rejects; equality passes",
+  "library_output_sha256": "c7fe0d42580856f9531afe8be20dca22e6f275dbe466eba0f3dcffcb239ef0a3",
+  "top_output_sha256": "31cb2b9b81c89dd2a261cb5bbf7aeb208924577b1f5e2fd61c9c9b33ebfa3273"
+}

@@ -1,6 +1,6 @@
 {
   "schema": "amp-full-tier-v1.1",
-  "updated_utc": "2026-09-08T18:12:47.908033+00:00",
+  "updated_utc": "2026-09-08T18:20:10.761662+00:00",
   "own_license": "MIT",
   "reference_policy": "Pinned upstream acquisition, not mirrored",
   "files": {
@@ -116,6 +116,10 @@
       "sha256": "ddee9e8af5ee2984879c0c1fec4efdfd9ccaaa16ecdac2ed9bc8f58319cf9a9b",
       "bytes": 789
     },
+    "RELEASE_NOTES.md": {
+      "sha256": "713282849f158d8da7b79e61d9fda40fd8be9886aea9f88372f59f0c3861fd2b",
+      "bytes": 902
+    },
     "replay_manifest.json": {
       "sha256": "28fed9f252775d6615de60eb29a333078ca5116d58f7b4d69de08f2e07b4b5e9",
       "bytes": 14961
@@ -125,8 +129,8 @@
       "bytes": 6828
     },
     "REVIEWER_DRY_RUN.md": {
-      "sha256": "058c671136811001e85a7b7aed3f5da4c895ea7da87d2cd8f8c16111eab15995",
-      "bytes": 1033
+      "sha256": "a4bf912104d32829a2b8e7fae1ccf07bc782afdda325a1cea7868fccbc7bbf24",
+      "bytes": 2885
     },
     "RUNS_AND_CONSOLIDATION.md": {
       "sha256": "3bea220db3b077b9272e19d6939de91b81b87d2386d45216564df93c145029da",
@@ -492,6 +496,10 @@
       "sha256": "9619ab9834b8bf2862972cf81cb61f90f2aee6559f1684334982c679998d13f1",
       "bytes": 6308
     },
+    "tests/test_public_release.py": {
+      "sha256": "ca7ebf7a66192870d13bab3850bdd028ca7165c9c2066580ddb73e631aae8c0c",
+      "bytes": 2794
+    },
     "THIRD_PARTY_NOTICES.md": {
       "sha256": "d65ea897f7b0ce66d6d113436fab6b91219e6f50dcbdb1959d1fe52324f06389",
       "bytes": 1664
@@ -528,6 +536,22 @@
       "sha256": "f8a495f1a44650c7a97d53d9efef2d88b733595ff3513a1493e8088f0c73b6a0",
       "bytes": 911
     },
+    "validation/linux-transcript.txt": {
+      "sha256": "8d8c104d21dfe20164a9f66ec50af96991a57a3358d2397b03bf1d35bfaa02ae",
+      "bytes": 5753
+    },
+    "validation/linux.json": {
+      "sha256": "ed29e24c451c4afa4bce8d28a5564f4c19b13d79b76225f7ee0a24af426cb1b0",
+      "bytes": 6778
+    },
+    "validation/public-release-tests.json": {
+      "sha256": "adcb6850d573f7c1c8e9d81c124431d41d8c66cb09855df112c6b34a69197ce6",
+      "bytes": 380
+    },
+    "validation/ratio-equivalence.json": {
+      "sha256": "4ab4ea5ca4858fe36227e622648e2ad0bda4d93830979f995071903552549b29",
+      "bytes": 478
+    },
     "validation/supporting_checks.json": {
       "sha256": "821996fd7b69f31f1e8707e7d4fe19d4e8c55624c0ff293aaf87b2fb402ed5cc",
       "bytes": 526
@@ -535,6 +559,14 @@
     "validation/top100_reference_similarity.csv": {
       "sha256": "4053acdee31c27412e9fef7ccb655f44968b8c549ff077df8eed8db7ed67b59f",
       "bytes": 8438
+    },
+    "validation/windows-transcript.txt": {
+      "sha256": "c1ea8093337b527a628a120417c611af2d277cf845341f68b205656dd9ebc863",
+      "bytes": 4735
+    },
+    "validation/windows.json": {
+      "sha256": "2b159dc39c6b346026f0cf84886bda10b25ad77ea993607c7842573590f07bbb",
+      "bytes": 4134
     }
   },
   "output_sha256": {

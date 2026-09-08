@@ -1,0 +1,57 @@
+[1] Cloning <local-repository> → <local-checkout-or-reference>
+[2] Installing dependencies
+[3] Generating library
+Running: uv run --no-sync generate
+Obtaining the pinned public organizer reference; no candidates are transmitted.
+[1/3] Regenerating all ten source libraries from code, weights and fixed seeds.
+run-01: 50,000 generated; ordered sequence SHA-256 144d91814a216169d31f64a588a8b8b26424e3f34fbfcc624c91a172563357df; PASS
+run-02: 50,000 generated; ordered sequence SHA-256 3770a3c298fb250e09738881b9546a60e882d3f21d4c65c5eb7db00bdf33076c; PASS
+run-03: 50,000 generated; ordered sequence SHA-256 a59b623997eb4560ecc97914f97b1b580c065d29b8c5353b7fd712c9d52319a8; PASS
+run-04: 50,000 generated; ordered sequence SHA-256 a731d36ed085d3bcb331b487afda82f9b9bc81fcb4daf7f7f435ebc200248324; PASS
+run-05: 50,000 generated; ordered sequence SHA-256 7d4e594c234f6a83da868b84430679e7c1d149b5f823edb68789976bffaefe27; PASS
+run-06: 50,000 generated; ordered sequence SHA-256 d42712ea91fdf14399cb514cf70df415563c3907c3eb9b71cd6ec0f7316a77e5; PASS
+run-07: 50,000 generated; ordered sequence SHA-256 65fe570edfe1650b6560a82b5b70e66d1b7bc40d31b7d372f422235216ade781; PASS
+run-08: 50,000 generated; ordered sequence SHA-256 55175e5398a8685a257fe91e7bf7f066de12e4e0ae7d471570de8fdf2e9bfe21; PASS
+run-09: 50,000 generated; ordered sequence SHA-256 55c1e5cf9d9ab064898f09a9406849b0f0a19781a407d9e94d7ead5b467c11f4; PASS
+run-10: 50,000 generated; ordered sequence SHA-256 45fc4d43d132c2afac1659b4c281400fa219265da22d802d20adcf094ff828d0; PASS
+Pooled 500,000 source records into 499,998 distinct N-to-C identities.
+[2/3] Recomputing common-panel Borda ranks, MMR and proportional cluster selection from frozen scores.
+All 499,998 consensus scores and ranks match the frozen ranking.
+MMR, proportional selection and both artifact bytes match.
+[3/3] Checking the final files with the disclosed BSD-derived sequence checks using equivalent normalized-indel similarity.
+library.fasta SHA-256 c7fe0d42580856f9531afe8be20dca22e6f275dbe466eba0f3dcffcb239ef0a3
+top.fasta SHA-256 31cb2b9b81c89dd2a261cb5bbf7aeb208924577b1f5e2fd61c9c9b33ebfa3273
+PASS: 50,000 unique eligible library members; ranked top 100; fixed submitted bytes reproduced.
+[4] Verifying full library
+[5] Verifying top list
+[6] Checking library overlap with <local-checkout-or-reference>\source_methods\run-01\assets\antibacterial.fasta
+[7] Checking top similarity with <local-checkout-or-reference>\source_methods\run-01\assets\antibacterial.fasta
+[8] Checking reproducibility
+Running: uv run --no-sync generate
+[1/3] Regenerating all ten source libraries from code, weights and fixed seeds.
+run-01: 50,000 generated; ordered sequence SHA-256 144d91814a216169d31f64a588a8b8b26424e3f34fbfcc624c91a172563357df; PASS
+run-02: 50,000 generated; ordered sequence SHA-256 3770a3c298fb250e09738881b9546a60e882d3f21d4c65c5eb7db00bdf33076c; PASS
+run-03: 50,000 generated; ordered sequence SHA-256 a59b623997eb4560ecc97914f97b1b580c065d29b8c5353b7fd712c9d52319a8; PASS
+run-04: 50,000 generated; ordered sequence SHA-256 a731d36ed085d3bcb331b487afda82f9b9bc81fcb4daf7f7f435ebc200248324; PASS
+run-05: 50,000 generated; ordered sequence SHA-256 7d4e594c234f6a83da868b84430679e7c1d149b5f823edb68789976bffaefe27; PASS
+run-06: 50,000 generated; ordered sequence SHA-256 d42712ea91fdf14399cb514cf70df415563c3907c3eb9b71cd6ec0f7316a77e5; PASS
+run-07: 50,000 generated; ordered sequence SHA-256 65fe570edfe1650b6560a82b5b70e66d1b7bc40d31b7d372f422235216ade781; PASS
+run-08: 50,000 generated; ordered sequence SHA-256 55175e5398a8685a257fe91e7bf7f066de12e4e0ae7d471570de8fdf2e9bfe21; PASS
+run-09: 50,000 generated; ordered sequence SHA-256 55c1e5cf9d9ab064898f09a9406849b0f0a19781a407d9e94d7ead5b467c11f4; PASS
+run-10: 50,000 generated; ordered sequence SHA-256 45fc4d43d132c2afac1659b4c281400fa219265da22d802d20adcf094ff828d0; PASS
+Pooled 500,000 source records into 499,998 distinct N-to-C identities.
+[2/3] Recomputing common-panel Borda ranks, MMR and proportional cluster selection from frozen scores.
+All 499,998 consensus scores and ranks match the frozen ranking.
+MMR, proportional selection and both artifact bytes match.
+[3/3] Checking the final files with the disclosed BSD-derived sequence checks using equivalent normalized-indel similarity.
+library.fasta SHA-256 c7fe0d42580856f9531afe8be20dca22e6f275dbe466eba0f3dcffcb239ef0a3
+top.fasta SHA-256 31cb2b9b81c89dd2a261cb5bbf7aeb208924577b1f5e2fd61c9c9b33ebfa3273
+PASS: 50,000 unique eligible library members; ranked top 100; fixed submitted bytes reproduced.
+
+All checks passed. Submission is valid!
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.148s
+
+OK
+No GPL Levenshtein in default runtime: PASS

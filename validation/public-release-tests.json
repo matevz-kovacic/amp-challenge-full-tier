@@ -1,0 +1,11 @@
+{
+  "platform": "Windows Python 3.12.3",
+  "command": "python tests/test_public_release.py",
+  "tests_run": 3,
+  "passed": true,
+  "scope": [
+    "Exact normalized-indel 0.8 boundary versus separate unit-edit diversity",
+    "Normal N-to-C reversal is not reference identity",
+    "Offline reference override, local cache, hash mismatch rejection before network"
+  ]
+}

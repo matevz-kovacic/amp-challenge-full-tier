@@ -1,0 +1,108 @@
+{
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python": "3.12.3",
+  "uv": "0.8.15",
+  "tested_commit": "a18834ddcf2e3fa0d849cff10f28bdd6ad1a4c58",
+  "exit_code": 0,
+  "wall_seconds": 115.37521149986424,
+  "scope": "Untouched full organizer CLI: fresh Git clone, plain uv sync, generate twice, official checks and byte comparison. Validator interpreter is a separate pre-existing environment.",
+  "default_reference_override_used": false,
+  "dependency_cache_reused": true,
+  "generation": {
+    "entry_point": "uv run generate",
+    "source_pools": [
+      {
+        "run": "run-01",
+        "count": 50000,
+        "ordered_sequence_sha256": "144d91814a216169d31f64a588a8b8b26424e3f34fbfcc624c91a172563357df",
+        "wall_seconds": 6.989644199842587
+      },
+      {
+        "run": "run-02",
+        "count": 50000,
+        "ordered_sequence_sha256": "3770a3c298fb250e09738881b9546a60e882d3f21d4c65c5eb7db00bdf33076c",
+        "wall_seconds": 4.674424599856138
+      },
+      {
+        "run": "run-03",
+        "count": 50000,
+        "ordered_sequence_sha256": "a59b623997eb4560ecc97914f97b1b580c065d29b8c5353b7fd712c9d52319a8",
+        "wall_seconds": 2.0198679000604898
+      },
+      {
+        "run": "run-04",
+        "count": 50000,
+        "ordered_sequence_sha256": "a731d36ed085d3bcb331b487afda82f9b9bc81fcb4daf7f7f435ebc200248324",
+        "wall_seconds": 1.17705489997752
+      },
+      {
+        "run": "run-05",
+        "count": 50000,
+        "ordered_sequence_sha256": "7d4e594c234f6a83da868b84430679e7c1d149b5f823edb68789976bffaefe27",
+        "wall_seconds": 0.6220191000029445
+      },
+      {
+        "run": "run-06",
+        "count": 50000,
+        "ordered_sequence_sha256": "d42712ea91fdf14399cb514cf70df415563c3907c3eb9b71cd6ec0f7316a77e5",
+        "wall_seconds": 6.860806799959391
+      },
+      {
+        "run": "run-07",
+        "count": 50000,
+        "ordered_sequence_sha256": "65fe570edfe1650b6560a82b5b70e66d1b7bc40d31b7d372f422235216ade781",
+        "wall_seconds": 11.661717099836096
+      },
+      {
+        "run": "run-08",
+        "count": 50000,
+        "ordered_sequence_sha256": "55175e5398a8685a257fe91e7bf7f066de12e4e0ae7d471570de8fdf2e9bfe21",
+        "wall_seconds": 0.6555218999274075
+      },
+      {
+        "run": "run-09",
+        "count": 50000,
+        "ordered_sequence_sha256": "55c1e5cf9d9ab064898f09a9406849b0f0a19781a407d9e94d7ead5b467c11f4",
+        "wall_seconds": 1.3363766998518258
+      },
+      {
+        "run": "run-10",
+        "count": 50000,
+        "ordered_sequence_sha256": "45fc4d43d132c2afac1659b4c281400fa219265da22d802d20adcf094ff828d0",
+        "wall_seconds": 5.714717899914831
+      }
+    ],
+    "source_records": 500000,
+    "unique_comparison_population": 499998,
+    "common_score_table_population_matches_regenerated_pools": true,
+    "ranking_and_assembly_recomputed": true,
+    "predictor_inference_repeated": false,
+    "model_training_performed": false,
+    "clustering_refitted": false,
+    "read_saved_source_candidate_output_fastas": false,
+    "source_pool_exports_requested": false,
+    "output_sha256": {
+      "library": "c7fe0d42580856f9531afe8be20dca22e6f275dbe466eba0f3dcffcb239ef0a3",
+      "top": "31cb2b9b81c89dd2a261cb5bbf7aeb208924577b1f5e2fd61c9c9b33ebfa3273"
+    },
+    "reference_acquisition": {
+      "source": "verified_local_cache",
+      "sha256": "cbbeac64ba95746d87961e8ad9dd0849ae8058d15a300b2e7f6990730ca521e9",
+      "public_url": "https://raw.githubusercontent.com/szczurek-lab/amp-challenge-2027/5c8a5d8e2551c8cf572d3d3bfcfe7633b109d91e/data/antibacterial.fasta",
+      "candidate_data_transmitted": false
+    },
+    "validation": {
+      "library_unique_count": 50000,
+      "top_unique_count": 100,
+      "top_is_library_subset": true,
+      "official_sequence_and_reference_checks": "PASS"
+    },
+    "wall_seconds": 49.26786390016787
+  },
+  "output_sha256": {
+    "library": "c7fe0d42580856f9531afe8be20dca22e6f275dbe466eba0f3dcffcb239ef0a3",
+    "top": "31cb2b9b81c89dd2a261cb5bbf7aeb208924577b1f5e2fd61c9c9b33ebfa3273"
+  },
+  "selection_tests_passed": true,
+  "no_gpl_dependency_in_default_environment": true
+}
