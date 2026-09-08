@@ -1,0 +1,9 @@
+{
+  "configuration_sha256": "6deaca33e593d39cc936c02305899cf1b0cf30f652c47ec933d44150184e1f13",
+  "generator_text_sha256": "9619ab9834b8bf2862972cf81cb61f90f2aee6559f1684334982c679998d13f1",
+  "excluded_library": [],
+  "excluded_top": [],
+  "reference_sha256": "cbbeac64ba95746d87961e8ad9dd0849ae8058d15a300b2e7f6990730ca521e9",
+  "scope": "only the pinned default generator/configuration stream; not a universal novelty oracle",
+  "reference_use": "offline mandatory exclusion screening, not model training"
+}

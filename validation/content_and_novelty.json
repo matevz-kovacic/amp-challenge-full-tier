@@ -1,0 +1,19 @@
+{
+  "library_count": 50000,
+  "top_count": 100,
+  "top_is_subset": true,
+  "canonical_alphabet_and_length_checks": "PASS via unmodified organizer CLI",
+  "declared_chemistry": "linear L, free N/free C, unmodified; physical chemistry not measured",
+  "duplicate_sequences": 0,
+  "reverse_pairs_in_final_library": 0,
+  "palindromes_in_final_library": 0,
+  "exact_public_matches_forward_or_reversed": {
+    "organizer_reference_39448": 0,
+    "DRAMP_comparable_7795": 0
+  },
+  "top_max_reference_ratio_forward": 0.6923076923076923,
+  "top_max_reference_ratio_reversed_diagnostic": 0.6486486486486487,
+  "official_rejection_rule": "Levenshtein.ratio > 0.8; forward N-to-C only",
+  "public_coverage": "Pinned organizer reference plus canonical comparable DRAMP Figshare v2 snapshot; not every public repository",
+  "original_audit_report_sha256": "31e3adc7761589a46212696690e165a9bce0d5b22f55a1e97a5700c74e14a5af"
+}

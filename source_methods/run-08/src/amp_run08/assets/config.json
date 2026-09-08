@@ -1,0 +1,11 @@
+{
+  "seed": 20260908,
+  "library_count": 50000,
+  "model_kind": "hmm",
+  "cysteine_emission": "conditioned absent",
+  "asset_sha256": {
+    "model.json": "814250afb8387de4049dc78ee697cc878ab0fb767398e9226a438f69ab664ddb",
+    "excluded_sequence_sha256.txt": "87de81afef82d6cd75b5dddf74c7845770596f01af8596434b7b9b98987370f9",
+    "selection.json": "419b4ae47bfe3fa6c66371a9277c8126f86147127829d91afa4edbb8f7950fa1"
+  }
+}

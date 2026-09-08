@@ -1,0 +1,35 @@
+{
+  "population": 499998,
+  "active_evaluators": [
+    "hemo_logistic",
+    "hemo_trees",
+    "physicochemical_desirability"
+  ],
+  "omitted": [],
+  "family_weights": {
+    "hemolysis_HemoPI2": 0.5,
+    "physicochemical_preference": 0.5
+  },
+  "median_leader_overlap": {
+    "50": {
+      "overlap": 0,
+      "requested_k": 50
+    },
+    "100": {
+      "overlap": 0,
+      "requested_k": 100
+    },
+    "1000": {
+      "overlap": 0,
+      "requested_k": 1000
+    },
+    "10000": {
+      "overlap": 662,
+      "requested_k": 10000
+    }
+  },
+  "ranking_sha256": "25002a4c95fe600737edef02b3231ed57db8b6a6f87c8b3cfbbbe36528419f4d",
+  "rank_cache_sha256": "5a8fd060931f25a7e5ed0112ca9132fae76c1fd121d0ce9c0707d47bc9f45f6a",
+  "panel_config_sha256": "7d6ff10a0c34532a13d52a8b415f8fdc90436e04ea3bf72e8adf9d1b705f4b43",
+  "raw_scores_sha256": "445d8c2ff14680f44471ce16707a4a7354604671ba5a515f91a1873a9627b118"
+}

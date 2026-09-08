@@ -1,0 +1,10 @@
+{
+  "seed": 0,
+  "library_size": 50000,
+  "top_size": 100,
+  "kinds": [
+    "markov",
+    "mutation"
+  ],
+  "max_proposals_per_operator": 1000000
+}

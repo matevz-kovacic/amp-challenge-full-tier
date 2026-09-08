@@ -1,0 +1,13 @@
+{
+  "schema": "amp-run05-generator-v1",
+  "seed": 50317,
+  "family": "composition",
+  "count": 50000,
+  "length_min": 18,
+  "length_max": 30,
+  "rank_method": "hash_control",
+  "top_count": 100,
+  "selected_indices": null,
+  "max_proposals": 2000000,
+  "composition_weights": {"A": 12, "C": 0, "D": 2, "E": 2, "F": 5, "G": 7, "H": 1, "I": 8, "K": 16, "L": 12, "M": 2, "N": 3, "P": 1, "Q": 3, "R": 10, "S": 4, "T": 3, "V": 8, "W": 2, "Y": 2}
+}

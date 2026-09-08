@@ -1,0 +1,102 @@
+{
+  "dramp": {
+    "url": "https://api.figshare.com/v2/articles/27233508/versions/2",
+    "status": "retrieved",
+    "metadata": {
+      "title": "Peptides data of DRAMP database",
+      "doi": "10.6084/m9.figshare.27233508.v2",
+      "license": {
+        "value": 1,
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "url_public_html": "https://figshare.com/articles/dataset/Peptide_data_of_DRAMP_database/27233508/2"
+    }
+  },
+  "hemopi2": {
+    "url": "https://zenodo.org/api/records/14676712",
+    "status": "retrieved",
+    "metadata": {
+      "title": "Prediction of Hemolytic Peptides and their Hemolytic Concentration",
+      "doi": "10.5281/zenodo.14676712",
+      "license": {
+        "id": "cc-by-4.0"
+      },
+      "access_right": "open"
+    }
+  },
+  "historical_article": {
+    "url": "https://api.crossref.org/works/10.1016/j.celbio.2025.100183",
+    "status": "retrieved",
+    "metadata": {
+      "title": [
+        "Generative latent diffusion language modeling yields anti-infective synthetic peptides"
+      ],
+      "DOI": "10.1016/j.celbio.2025.100183",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2025-10-01T00:00:00Z",
+            "timestamp": 1759276800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2025-10-01T00:00:00Z",
+            "timestamp": 1759276800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                7,
+                30
+              ]
+            ],
+            "date-time": "2025-07-30T00:00:00Z",
+            "timestamp": 1753833600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S3050562325001746?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S3050562325001746?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    }
+  }
+}

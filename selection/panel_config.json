@@ -1,0 +1,102 @@
+{
+  "schema": "consolidation-panel-v1",
+  "frozen_at_utc": "2026-09-08T14:18:34.284296+00:00",
+  "evidence_class": "MIXED_PREDICTIVE_HEURISTIC",
+  "quality_interpretation": "Internal ordinal hemolysis-risk/plausibility preference; no activity, MIC, HC50, selectivity or official qualification estimate.",
+  "comparison_population": "All hard-library-eligible exact N-to-C/chemistry identities from all ten complete final libraries; lexical input order.",
+  "library_panel_id": "common-full-v1",
+  "shortlist_panel_id": "common-full-v1 (same values, same full comparison population; no re-ranking on shortlist)",
+  "evaluators": [
+    {
+      "id": "hemo_logistic",
+      "family": "hemolysis_HemoPI2",
+      "direction": "minimize",
+      "kind": "prediction",
+      "endpoint": "Published strong-hemolysis label (HC50 <=100 uM), mixed mammalian assay contexts",
+      "units": "uncalibrated class-1 probability",
+      "transform": "none",
+      "implementation": "hemolysis_code.features; logistic.predict_proba(features[:,:24])[:,1]",
+      "checkpoint": "hemolysis_models:logistic",
+      "configuration": "StandardScaler; LogisticRegression C=1 max_iter=2000 random_state=31",
+      "optimized_against": [
+        "run-08 shortlist via probability mean <=0.2"
+      ],
+      "validation": "hemolysis_validation; independent homology-filtered n=100; ensemble AUROC 0.748, CI 0.655..0.843; component evidence also retained",
+      "shared_dependencies": "Same HemoPI2 labels and overlapping descriptors as hemo_trees; not independent biological evidence"
+    },
+    {
+      "id": "hemo_trees",
+      "family": "hemolysis_HemoPI2",
+      "direction": "minimize",
+      "kind": "prediction",
+      "endpoint": "Same published strong-hemolysis label",
+      "units": "uncalibrated class-1 probability",
+      "transform": "none",
+      "implementation": "hemolysis_code.features; ExtraTrees.predict_proba(features)[:,1]",
+      "checkpoint": "hemolysis_models:ExtraTrees",
+      "configuration": "300 trees, min_samples_leaf=5, max_features=0.7, random_state=31; prediction n_jobs=1 for reproducible reduction",
+      "optimized_against": [
+        "run-08 shortlist via probability mean <=0.2"
+      ],
+      "validation": "hemolysis_validation; component AUROC 0.7596 in homology-filtered n=100",
+      "shared_dependencies": "Same labels as hemo_logistic and run02 ESM hemolysis; do not count ensemble mean again"
+    },
+    {
+      "id": "physicochemical_desirability",
+      "family": "physicochemical_preference",
+      "direction": "maximize",
+      "kind": "HEURISTIC",
+      "endpoint": "Fixed plausibility preference only",
+      "units": "negative squared standardized deviations; arbitrary",
+      "transform": "none",
+      "implementation": "desirability_code.desirability(descriptors(sequence))",
+      "checkpoint": null,
+      "configuration": "Targets hydrophobic fraction .45/scale .14, charge fraction .20/.13, length 21/10, binary 100-degree hydrophobic moment .20/.18; source formula unchanged",
+      "optimized_against": [
+        "run-06 shortlist"
+      ],
+      "validation": "No established efficacy, toxicity or synthesis validation; historical audit inconclusive",
+      "shared_dependencies": "Length/composition overlaps risk descriptors; family separation is a declared endpoint/preference distinction, not independence"
+    }
+  ],
+  "aggregation": {
+    "method": "weighted Borda/mean rank",
+    "ties": "average ranks; aggregate ties normalized sequence lexicographic",
+    "borda": "(N-rank)/(N-1); N=1 uses 1 for nonconstant values; constants globally omitted",
+    "family_weights": "equal over usable families",
+    "within_family": "mean of per-evaluator Borda; identical evaluator copies collapsed globally",
+    "missingness": "error on any nonfinite compared score; retry inference once; persistent failure requires global declared panel revision, never per-candidate omission",
+    "median_diagnostic": "Median of active evaluator ordinal ranks; lexical ties; no default switch"
+  },
+  "scoring": {
+    "batch_size": 4096,
+    "threads": 1,
+    "cache_validation_fixture_count": 64,
+    "no_richer_panel": true,
+    "richer_screen": null
+  },
+  "identity": {
+    "normalization": "strip each FASTA line, skip blank lines, join wrapped lines and uppercase ordinary sequence text; explicit chemistry preserved, incompatible or unresolved notation rejected",
+    "orientation": "N-to-C; never reverse canonicalize",
+    "chemistry": "linear canonical L residues, free unmodified termini; based on source disclosure, not measured",
+    "reference_overlap": "exact normalized N-to-C string only"
+  },
+  "original_pin_hashes": {
+    "common_protocol": "509e7e3b7cf8d9905ae9b1e3d31c2727e7a45622140bfb27ed763d05396f091f",
+    "reference": "cbbeac64ba95746d87961e8ad9dd0849ae8058d15a300b2e7f6990730ca521e9",
+    "official_validator": "3f2eb1bd61200abfccf07d86e9c226d57f3d12abcf25715af1d90f41531942cf",
+    "official_lock": "a77af20de1b79fa240e2e6695aa2c0f00153a3c87be5db8e569fe606036d563d",
+    "hemolysis_code": "8d498ef00aeef7be8c7c8f08541124e79834abd163d78e6bcfb92591bf0e5045",
+    "hemolysis_models": "265dadd4af8384aed10b57a5ac2bc9f01cc25bced88dfde564dde6bdfde34838",
+    "hemolysis_validation": "391c73a0b0bddb7835667e537066818c3d48008723e8c5a8adc02696e069d56b",
+    "hemolysis_cache": "d75810da5dba94cc03cc22b610f5dee2e3ae39644176f10c02515cd22a565648",
+    "hemolysis_cache_sequences": "574973fa03069b696b67af1d45c4556804c60a7691c6b507564584dfdedde427",
+    "desirability_code": "7ca8a5ed7b3dfc43fa9454415c86da3c579a607b41a36943c21352840f6c25f4",
+    "seqme_base": "abbb28ea937b5f3d528313a5cdb886ee94e6bccafc27323739cf4744e6ad683f",
+    "seqme_diversity": "ab619c9a16854983ee798fe847888d14bd251c3f055e4bcd33e871a97f5d7e1d",
+    "seqme_uniqueness": "6a5cab2bbb57cfa69505a2159fedcb47403323d5382b3b64a2034c49520e2721",
+    "seqme_novelty": "3c6093b0d69cd3c1543d284ae590416e175b06ed1c6bbec869c92d8e5ed4e0f5"
+  },
+  "packaged_model": "selection/models/hemolysis.joblib",
+  "packaged_feature_code": "selection/models/features.py (pure function extracted without edits)"
+}

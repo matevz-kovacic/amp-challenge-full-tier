@@ -1,0 +1,67 @@
+{
+  "rows": [
+    {
+      "run": "run-01",
+      "input": 50000,
+      "library_selected": 2305,
+      "top100_selected": 0
+    },
+    {
+      "run": "run-02",
+      "input": 50000,
+      "library_selected": 8957,
+      "top100_selected": 17
+    },
+    {
+      "run": "run-03",
+      "input": 50000,
+      "library_selected": 4643,
+      "top100_selected": 2
+    },
+    {
+      "run": "run-04",
+      "input": 50000,
+      "library_selected": 4584,
+      "top100_selected": 1
+    },
+    {
+      "run": "run-05",
+      "input": 50000,
+      "library_selected": 3332,
+      "top100_selected": 4
+    },
+    {
+      "run": "run-06",
+      "input": 50000,
+      "library_selected": 7134,
+      "top100_selected": 27
+    },
+    {
+      "run": "run-07",
+      "input": 50000,
+      "library_selected": 3166,
+      "top100_selected": 0
+    },
+    {
+      "run": "run-08",
+      "input": 50000,
+      "library_selected": 4518,
+      "top100_selected": 7
+    },
+    {
+      "run": "run-09",
+      "input": 50000,
+      "library_selected": 6172,
+      "top100_selected": 33
+    },
+    {
+      "run": "run-10",
+      "input": 50000,
+      "library_selected": 5189,
+      "top100_selected": 9
+    }
+  ],
+  "counts_are_provenance_not_quotas": true,
+  "multi_source_candidates_count_for_each_source": true,
+  "prior_shortlisted_top100": 3
+}

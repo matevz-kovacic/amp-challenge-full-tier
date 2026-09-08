@@ -1,0 +1,22 @@
+{
+  "hemolysis_model_training.json": {
+    "sha256": "ba2b2237698b1de4589b2a7f9c8b19e12e7dd30c28941c5003661a00f0d275a6",
+    "bytes": 153778,
+    "license": "CC-BY-4.0"
+  },
+  "hemopi2_cross_val_dataset.csv": {
+    "sha256": "7bdaf3ede499d1eda2712585d2e52d7700f3f138776d1a0a46e2ca88e8152da0",
+    "bytes": 41446,
+    "license": "CC-BY-4.0"
+  },
+  "hemopi2_independent_dataset.csv": {
+    "sha256": "500013c2244219762ff3ff4a03401c7419790c83d0ef0c3aeebfdbea426b3eb5",
+    "bytes": 10432,
+    "license": "CC-BY-4.0"
+  },
+  "run08_hmm_training.json": {
+    "sha256": "371fb4d141bb9787f6143a5ba88a25491471cbbd555fd7a44424274efe1d55d0",
+    "bytes": 27929,
+    "license": "CC-BY-4.0"
+  }
+}

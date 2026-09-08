@@ -1,0 +1,187 @@
+{
+  "development_n": 1526,
+  "development_prevalence": 0.46657929226736566,
+  "original_independent": {
+    "n": 382,
+    "positives": 179,
+    "negatives": 203,
+    "n_components": 269,
+    "models": {
+      "logistic": {
+        "AUROC": 0.7564603572116575,
+        "average_precision": 0.7047490345026434,
+        "Brier": 0.20074893556681736
+      },
+      "ExtraTrees": {
+        "AUROC": 0.8674629165863994,
+        "average_precision": 0.8578330221073909,
+        "Brier": 0.15240232799559242
+      },
+      "ensemble": {
+        "AUROC": 0.8449789470787351,
+        "average_precision": 0.8321263876879444,
+        "Brier": 0.16684403105983506
+      }
+    },
+    "constant_baseline": {
+      "AUROC": 0.5,
+      "average_precision": 0.468586387434555,
+      "Brier": 0.2490172133765982
+    },
+    "ensemble_AUROC_component_bootstrap_95_ci": [
+      0.7988318020762271,
+      0.8846702883024186
+    ],
+    "probability_le_0_2_subgroup": {
+      "n": 50,
+      "strong_hemolysis_labels": 2,
+      "observed_fraction": 0.04,
+      "Wilson_95_ci": [
+        0.011038884327619805,
+        0.1346009068750702
+      ]
+    },
+    "ensemble_calibration_bins": [
+      {
+        "interval": [
+          0.0,
+          0.2
+        ],
+        "n": 50,
+        "mean_prediction": 0.14907637633649626,
+        "observed_fraction": 0.04
+      },
+      {
+        "interval": [
+          0.2,
+          0.4
+        ],
+        "n": 122,
+        "mean_prediction": 0.29970612860898904,
+        "observed_fraction": 0.2459016393442623
+      },
+      {
+        "interval": [
+          0.4,
+          0.6000000000000001
+        ],
+        "n": 98,
+        "mean_prediction": 0.5020457118116725,
+        "observed_fraction": 0.5510204081632653
+      },
+      {
+        "interval": [
+          0.6000000000000001,
+          0.8
+        ],
+        "n": 83,
+        "mean_prediction": 0.6973141426594681,
+        "observed_fraction": 0.7831325301204819
+      },
+      {
+        "interval": [
+          0.8,
+          1.0
+        ],
+        "n": 29,
+        "mean_prediction": 0.8420298920560751,
+        "observed_fraction": 0.9655172413793104
+      }
+    ]
+  },
+  "homology_filtered_transfer": {
+    "n": 100,
+    "positives": 52,
+    "negatives": 48,
+    "n_components": 94,
+    "models": {
+      "logistic": {
+        "AUROC": 0.7123397435897436,
+        "average_precision": 0.7130655934109987,
+        "Brier": 0.22446328369156607
+      },
+      "ExtraTrees": {
+        "AUROC": 0.7596153846153846,
+        "average_precision": 0.7505652580258645,
+        "Brier": 0.20437111029700442
+      },
+      "ensemble": {
+        "AUROC": 0.7479967948717949,
+        "average_precision": 0.7687874851411247,
+        "Brier": 0.20677138304344428
+      }
+    },
+    "constant_baseline": {
+      "AUROC": 0.5,
+      "average_precision": 0.52,
+      "Brier": 0.2524537720146555
+    },
+    "ensemble_AUROC_component_bootstrap_95_ci": [
+      0.6553979566849867,
+      0.8432103152483588
+    ],
+    "probability_le_0_2_subgroup": {
+      "n": 8,
+      "strong_hemolysis_labels": 1,
+      "observed_fraction": 0.125,
+      "Wilson_95_ci": [
+        0.02241749145005667,
+        0.4708881822128535
+      ]
+    },
+    "ensemble_calibration_bins": [
+      {
+        "interval": [
+          0.0,
+          0.2
+        ],
+        "n": 8,
+        "mean_prediction": 0.14153620107074133,
+        "observed_fraction": 0.125
+      },
+      {
+        "interval": [
+          0.2,
+          0.4
+        ],
+        "n": 27,
+        "mean_prediction": 0.30617904900556037,
+        "observed_fraction": 0.3333333333333333
+      },
+      {
+        "interval": [
+          0.4,
+          0.6000000000000001
+        ],
+        "n": 37,
+        "mean_prediction": 0.5008222359116123,
+        "observed_fraction": 0.5405405405405406
+      },
+      {
+        "interval": [
+          0.6000000000000001,
+          0.8
+        ],
+        "n": 28,
+        "mean_prediction": 0.7056181990685787,
+        "observed_fraction": 0.7857142857142857
+      },
+      {
+        "interval": [
+          0.8,
+          1.0
+        ],
+        "n": 0,
+        "mean_prediction": null,
+        "observed_fraction": null
+      }
+    ]
+  },
+  "models_sha256": "265dadd4af8384aed10b57a5ac2bc9f01cc25bced88dfde564dde6bdfde34838",
+  "selection_history": "Fixed models and equal ensemble; no holdout hyperparameter selection. Independent results now consumed, not an untouched future holdout.",
+  "limitations": [
+    "Published labels mix mammalian RBC/chemistry contexts; no numeric human HC50 or clinical-safety inference.",
+    "No paired antibacterial/selectivity validation; all generated-sequence predictions extrapolate.",
+    "Predictors share development labels/features; agreement is correlated, not independent biological replication."
+  ]
+}

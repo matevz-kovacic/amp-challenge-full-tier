@@ -1,0 +1,11 @@
+{
+  "device": "cpu",
+  "library_size": 50000,
+  "numeric_threads": 2,
+  "protocol_id": "run02-structural-probes-v2",
+  "protocol_sha256": "9c1c373edb0b02f37efc9c16d41f8e05f6a0619503f12db3ea883d20ae367406",
+  "regime": "mixture",
+  "seed": 20260908,
+  "top_size": 100,
+  "tree_prediction_jobs": 1
+}

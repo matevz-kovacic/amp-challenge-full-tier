@@ -1,0 +1,7 @@
+{
+  "seed": 271828,
+  "library_size": 50000,
+  "top_size": 100,
+  "families": ["helix", "turn", "iid", "proline"],
+  "internal_similarity_max": 0.72
+}

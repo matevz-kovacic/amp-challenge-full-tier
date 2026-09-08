@@ -1,0 +1,10684 @@
+[
+  {
+    "sequence": "AAAKAALNAVLVGANA",
+    "label": 1,
+    "source_rows": [
+      1029
+    ]
+  },
+  {
+    "sequence": "AAGLAMLFLGILSAAGSTMGARA",
+    "label": 1,
+    "source_rows": [
+      1413
+    ]
+  },
+  {
+    "sequence": "AAHHIIGGLFSAGKAIHRLIRRRRR",
+    "label": 1,
+    "source_rows": [
+      426
+    ]
+  },
+  {
+    "sequence": "AAKKGCWTVSIPPKPCF",
+    "label": 0,
+    "source_rows": [
+      1162
+    ]
+  },
+  {
+    "sequence": "AARRAARRAARR",
+    "label": 0,
+    "source_rows": [
+      216
+    ]
+  },
+  {
+    "sequence": "ACYCRRRFCVCVGR",
+    "label": 1,
+    "source_rows": [
+      341
+    ]
+  },
+  {
+    "sequence": "AFALIAGALYRIFHRR",
+    "label": 0,
+    "source_rows": [
+      1357
+    ]
+  },
+  {
+    "sequence": "AFGMALKLLKKVL",
+    "label": 0,
+    "source_rows": [
+      438
+    ]
+  },
+  {
+    "sequence": "AFLYRLTRQIRPWWRWLYKW",
+    "label": 1,
+    "source_rows": [
+      792
+    ]
+  },
+  {
+    "sequence": "AGGKRIVKRIKKFLRGAGGKRIVKRIKKFLRG",
+    "label": 1,
+    "source_rows": [
+      1126
+    ]
+  },
+  {
+    "sequence": "AGGKRIVQRIKDFLRGAGGKRIVQRIKDFLRG",
+    "label": 1,
+    "source_rows": [
+      320
+    ]
+  },
+  {
+    "sequence": "AGLQFPVGRVHRLLRK",
+    "label": 0,
+    "source_rows": [
+      416
+    ]
+  },
+  {
+    "sequence": "AGTKDWLNKAKDFIKEKGLGILSAAANAAIN",
+    "label": 0,
+    "source_rows": [
+      332
+    ]
+  },
+  {
+    "sequence": "AGTKEWLNKAKDFIKEKGLEMLSAAANAALN",
+    "label": 0,
+    "source_rows": [
+      1102
+    ]
+  },
+  {
+    "sequence": "AGTKEWLNKAKDFIKEKGLGMLRAAANAALN",
+    "label": 0,
+    "source_rows": [
+      43
+    ]
+  },
+  {
+    "sequence": "AGTKEWLNKAKDFIKEKGLGMLSAAANAALN",
+    "label": 0,
+    "source_rows": [
+      1501
+    ]
+  },
+  {
+    "sequence": "AGTKEWLNKAKDFIKEKGPGMLSAAANAALN",
+    "label": 0,
+    "source_rows": [
+      1435
+    ]
+  },
+  {
+    "sequence": "AGWKEWLNKAKDFIKEKGLGMLSAAANAALN",
+    "label": 0,
+    "source_rows": [
+      811
+    ]
+  },
+  {
+    "sequence": "AIGSILGALAKGLPTLISWIKNR",
+    "label": 1,
+    "source_rows": [
+      414
+    ]
+  },
+  {
+    "sequence": "AILTTLANWARKFL",
+    "label": 1,
+    "source_rows": [
+      1168
+    ]
+  },
+  {
+    "sequence": "AIPFIFIWRLLRKG",
+    "label": 1,
+    "source_rows": [
+      500
+    ]
+  },
+  {
+    "sequence": "AKKVFKRLEKLFSKIWNWK",
+    "label": 0,
+    "source_rows": [
+      248
+    ]
+  },
+  {
+    "sequence": "AKKVFKRLPKLPSKIWNWK",
+    "label": 0,
+    "source_rows": [
+      853
+    ]
+  },
+  {
+    "sequence": "AKRHHGYKRKFH",
+    "label": 0,
+    "source_rows": [
+      755
+    ]
+  },
+  {
+    "sequence": "AKRHHGYKRKFHAKRHHGYKRKFH",
+    "label": 0,
+    "source_rows": [
+      392
+    ]
+  },
+  {
+    "sequence": "AKRHHGYKRKFHAKRHHGYKRKFHAKRHHGYKRKFH",
+    "label": 0,
+    "source_rows": [
+      31
+    ]
+  },
+  {
+    "sequence": "AKVVKKLTKGVAGLLK",
+    "label": 0,
+    "source_rows": [
+      558
+    ]
+  },
+  {
+    "sequence": "AKVVKKLTKGVAKLLK",
+    "label": 0,
+    "source_rows": [
+      1534
+    ]
+  },
+  {
+    "sequence": "AKVVNKLTGGVAGLLK",
+    "label": 0,
+    "source_rows": [
+      684
+    ]
+  },
+  {
+    "sequence": "AKVVNKLTGKVAGLLK",
+    "label": 0,
+    "source_rows": [
+      774
+    ]
+  },
+  {
+    "sequence": "AKVVNKLTKGVAKLLK",
+    "label": 0,
+    "source_rows": [
+      857
+    ]
+  },
+  {
+    "sequence": "AKVVNKLTKKVAKLLK",
+    "label": 0,
+    "source_rows": [
+      943
+    ]
+  },
+  {
+    "sequence": "ALHKTMLKKLGTMAL",
+    "label": 0,
+    "source_rows": [
+      64
+    ]
+  },
+  {
+    "sequence": "ALLKTMLKKLGTMAL",
+    "label": 0,
+    "source_rows": [
+      832
+    ]
+  },
+  {
+    "sequence": "ALWDTLLKKVLKAAAKAALDAVLVGANA",
+    "label": 1,
+    "source_rows": [
+      358
+    ]
+  },
+  {
+    "sequence": "ALWKDILKNAGKAALNEINQIVQ",
+    "label": 0,
+    "source_rows": [
+      1205
+    ]
+  },
+  {
+    "sequence": "ALWKDILKNLLKAALNEINQIVQ",
+    "label": 1,
+    "source_rows": [
+      694
+    ]
+  },
+  {
+    "sequence": "ALWKDLLKNVGKAAGKAVLNKVTDMVNQ",
+    "label": 0,
+    "source_rows": [
+      421
+    ]
+  },
+  {
+    "sequence": "ALWKNMLKGIGKLAGKAALGAVKKLVGAES",
+    "label": 1,
+    "source_rows": [
+      591
+    ]
+  },
+  {
+    "sequence": "ALWKSILKNVGKAAGKAVLNAVTDMVNQ",
+    "label": 0,
+    "source_rows": [
+      1067
+    ]
+  },
+  {
+    "sequence": "ALWKSLLKNVGKA",
+    "label": 0,
+    "source_rows": [
+      1372
+    ]
+  },
+  {
+    "sequence": "ALWKSLLKNVGKAAGKAALNAVTDMVNQ",
+    "label": 0,
+    "source_rows": [
+      1201
+    ]
+  },
+  {
+    "sequence": "ALWKTLLKHVGKAAGKAALNAVTDMVNQ",
+    "label": 0,
+    "source_rows": [
+      214
+    ]
+  },
+  {
+    "sequence": "ALWKTLLKKV",
+    "label": 1,
+    "source_rows": [
+      60
+    ]
+  },
+  {
+    "sequence": "ALWKTLLKKVLKA",
+    "label": 1,
+    "source_rows": [
+      403
+    ]
+  },
+  {
+    "sequence": "ALWKTLLKKVLKAAA",
+    "label": 1,
+    "source_rows": [
+      580
+    ]
+  },
+  {
+    "sequence": "ALWKTLLKKVLKAAAK",
+    "label": 1,
+    "source_rows": [
+      130
+    ]
+  },
+  {
+    "sequence": "ALWKTLLKKVLKAAAKAALKAVLVGANA",
+    "label": 1,
+    "source_rows": [
+      497
+    ]
+  },
+  {
+    "sequence": "ALWKTLLKKVLKAAAKAALNAVLVGANA",
+    "label": 1,
+    "source_rows": [
+      689
+    ]
+  },
+  {
+    "sequence": "ALWKTLLKNVGKAAGKAVLNAVTDMVNQ",
+    "label": 1,
+    "source_rows": [
+      715
+    ]
+  },
+  {
+    "sequence": "ALWKTMLKKLGT",
+    "label": 0,
+    "source_rows": [
+      412
+    ]
+  },
+  {
+    "sequence": "ALWKTMLKKLGTM",
+    "label": 0,
+    "source_rows": [
+      1238
+    ]
+  },
+  {
+    "sequence": "ALWKTMLKKLGTMALHAGK",
+    "label": 0,
+    "source_rows": [
+      1510
+    ]
+  },
+  {
+    "sequence": "ALWKTMLKKLGTMALHAGKAALGAAADTI",
+    "label": 0,
+    "source_rows": [
+      1110
+    ]
+  },
+  {
+    "sequence": "ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ",
+    "label": 1,
+    "source_rows": [
+      1387
+    ]
+  },
+  {
+    "sequence": "ALWMTLLKKVLK",
+    "label": 1,
+    "source_rows": [
+      1359
+    ]
+  },
+  {
+    "sequence": "ALWMTLLKKVLKA",
+    "label": 1,
+    "source_rows": [
+      1473
+    ]
+  },
+  {
+    "sequence": "ALWMTLLKKVLKAAAK",
+    "label": 1,
+    "source_rows": [
+      468
+    ]
+  },
+  {
+    "sequence": "ALWMTLLKKVLKAAAKAALKAVLVGANA",
+    "label": 1,
+    "source_rows": [
+      289
+    ]
+  },
+  {
+    "sequence": "ALWMTLLKKVLKAAAKAALN",
+    "label": 1,
+    "source_rows": [
+      129
+    ]
+  },
+  {
+    "sequence": "ALWMTLLKKVLKAAAKAALNAVLVGANA",
+    "label": 1,
+    "source_rows": [
+      740
+    ]
+  },
+  {
+    "sequence": "ALWTTMLKKLGKMALHAGKAALGAAADTI",
+    "label": 0,
+    "source_rows": [
+      418
+    ]
+  },
+  {
+    "sequence": "ALYKTMLKKLGTMAL",
+    "label": 0,
+    "source_rows": [
+      465
+    ]
+  },
+  {
+    "sequence": "AMTLRKRKFAWYVLSSSLKWLIKKAKKIGVQVCGFE",
+    "label": 1,
+    "source_rows": [
+      1078
+    ]
+  },
+  {
+    "sequence": "AMTSRKRKFVWYVLSSSLKWLIKKAKKIGVQVCGFE",
+    "label": 1,
+    "source_rows": [
+      681
+    ]
+  },
+  {
+    "sequence": "AQWFAIQHISLNPPRSTIAMRAINNYRWR",
+    "label": 1,
+    "source_rows": [
+      407
+    ]
+  },
+  {
+    "sequence": "AQWFAIQHISLNPPRSTIAMRAINNYRWRSKNQNTFLR",
+    "label": 1,
+    "source_rows": [
+      96
+    ]
+  },
+  {
+    "sequence": "ASVVKKLTKGVAGLLK",
+    "label": 0,
+    "source_rows": [
+      360
+    ]
+  },
+  {
+    "sequence": "ASVVKKLTKGVAKLLK",
+    "label": 0,
+    "source_rows": [
+      58
+    ]
+  },
+  {
+    "sequence": "ASVVKKLTKKVAGLLK",
+    "label": 0,
+    "source_rows": [
+      1007
+    ]
+  },
+  {
+    "sequence": "ASVVKKWTKGWAKLLK",
+    "label": 0,
+    "source_rows": [
+      630
+    ]
+  },
+  {
+    "sequence": "ASVVKKWWKGWWKLLK",
+    "label": 1,
+    "source_rows": [
+      680
+    ]
+  },
+  {
+    "sequence": "ASVVKWLTKWVAKLLK",
+    "label": 1,
+    "source_rows": [
+      436
+    ]
+  },
+  {
+    "sequence": "ASVVKWLWKWVWKLLK",
+    "label": 1,
+    "source_rows": [
+      808
+    ]
+  },
+  {
+    "sequence": "ASVVKWWTKWWAKLLK",
+    "label": 1,
+    "source_rows": [
+      642
+    ]
+  },
+  {
+    "sequence": "ASVVKWWWKWWWKLLK",
+    "label": 1,
+    "source_rows": [
+      306
+    ]
+  },
+  {
+    "sequence": "ASVVNKLTGKVAGLLK",
+    "label": 0,
+    "source_rows": [
+      1408
+    ]
+  },
+  {
+    "sequence": "ASVVNKLTKKVAKLLK",
+    "label": 0,
+    "source_rows": [
+      876
+    ]
+  },
+  {
+    "sequence": "AVDLAKIANKVLSSLF",
+    "label": 0,
+    "source_rows": [
+      816
+    ]
+  },
+  {
+    "sequence": "AVGIGALFLGFLGAAGSTMGARS",
+    "label": 1,
+    "source_rows": [
+      44
+    ]
+  },
+  {
+    "sequence": "CFKFKFKFGSGFKFKFKFC",
+    "label": 1,
+    "source_rows": [
+      1171
+    ]
+  },
+  {
+    "sequence": "CGKKPWWWKCKL",
+    "label": 0,
+    "source_rows": [
+      1069
+    ]
+  },
+  {
+    "sequence": "CGKKWWGWKCKL",
+    "label": 0,
+    "source_rows": [
+      843
+    ]
+  },
+  {
+    "sequence": "CGRRPWWWRCRL",
+    "label": 0,
+    "source_rows": [
+      1452
+    ]
+  },
+  {
+    "sequence": "CGRRWGWWRCRL",
+    "label": 0,
+    "source_rows": [
+      977
+    ]
+  },
+  {
+    "sequence": "CGRRWWGWRCRL",
+    "label": 0,
+    "source_rows": [
+      924
+    ]
+  },
+  {
+    "sequence": "CIGAVLKVLTTGLPALISWIKRKRQQC",
+    "label": 1,
+    "source_rows": [
+      677
+    ]
+  },
+  {
+    "sequence": "CKKIGAVLKVLTTGLPALISWIKRKRQQKKC",
+    "label": 1,
+    "source_rows": [
+      304
+    ]
+  },
+  {
+    "sequence": "CLLKKLLKKLLKKC",
+    "label": 1,
+    "source_rows": [
+      470
+    ]
+  },
+  {
+    "sequence": "CLNLKALLAVAKKILC",
+    "label": 1,
+    "source_rows": [
+      498
+    ]
+  },
+  {
+    "sequence": "CRWGRWLRKIRRWRPK",
+    "label": 1,
+    "source_rows": [
+      272
+    ]
+  },
+  {
+    "sequence": "CVKVKVKVGSGVKVKVKVC",
+    "label": 0,
+    "source_rows": [
+      195
+    ]
+  },
+  {
+    "sequence": "CVKVRVKVGSGVKVRVKVC",
+    "label": 0,
+    "source_rows": [
+      4
+    ]
+  },
+  {
+    "sequence": "CVKVSVKVGSGVKVSVKVC",
+    "label": 0,
+    "source_rows": [
+      776
+    ]
+  },
+  {
+    "sequence": "CWKWKWKWGSGWKWKWKWC",
+    "label": 1,
+    "source_rows": [
+      171
+    ]
+  },
+  {
+    "sequence": "DAACAAHCLWR",
+    "label": 0,
+    "source_rows": [
+      745
+    ]
+  },
+  {
+    "sequence": "DIFGAIWPLALGALKNLIK",
+    "label": 1,
+    "source_rows": [
+      411
+    ]
+  },
+  {
+    "sequence": "DLFKQLQRLFLGILYCLYKIW",
+    "label": 0,
+    "source_rows": [
+      226
+    ]
+  },
+  {
+    "sequence": "DLWNSIKDMAAAAGRAALNAVTGMVNQ",
+    "label": 0,
+    "source_rows": [
+      1302
+    ]
+  },
+  {
+    "sequence": "DSMGAVKLAKLLIDKMKCEVTKAC",
+    "label": 0,
+    "source_rows": [
+      1508
+    ]
+  },
+  {
+    "sequence": "ENFFKEIERAGQRIRDAIISAAPAVETLAQAQKIIKGGD",
+    "label": 0,
+    "source_rows": [
+      1397
+    ]
+  },
+  {
+    "sequence": "ENFFKRIRRAGKRIRDAIISAAPAVETLAQAQKIIKGGD",
+    "label": 0,
+    "source_rows": [
+      714
+    ]
+  },
+  {
+    "sequence": "FAKALAKLAKKLL",
+    "label": 0,
+    "source_rows": [
+      760
+    ]
+  },
+  {
+    "sequence": "FAKFLAKFLKKAL",
+    "label": 1,
+    "source_rows": [
+      796
+    ]
+  },
+  {
+    "sequence": "FAKKALKALKKL",
+    "label": 0,
+    "source_rows": [
+      408
+    ]
+  },
+  {
+    "sequence": "FAKKFAKKFKKFAKKFAKFAFAF",
+    "label": 1,
+    "source_rows": [
+      528
+    ]
+  },
+  {
+    "sequence": "FAKKLAKALL",
+    "label": 0,
+    "source_rows": [
+      85
+    ]
+  },
+  {
+    "sequence": "FAKKLAKKLAKAAL",
+    "label": 0,
+    "source_rows": [
+      174
+    ]
+  },
+  {
+    "sequence": "FAKKLAKKLAKAL",
+    "label": 0,
+    "source_rows": [
+      179
+    ]
+  },
+  {
+    "sequence": "FAKKLAKKLAKLAL",
+    "label": 0,
+    "source_rows": [
+      163
+    ]
+  },
+  {
+    "sequence": "FAKKLAKKLAKLL",
+    "label": 0,
+    "source_rows": [
+      1306
+    ]
+  },
+  {
+    "sequence": "FAKKLAKKLKKLAKKLAK",
+    "label": 0,
+    "source_rows": [
+      234
+    ]
+  },
+  {
+    "sequence": "FAKKLAKKLKKLAKKLAKLALAL",
+    "label": 1,
+    "source_rows": [
+      1073
+    ]
+  },
+  {
+    "sequence": "FAKKLAKKLKKLAKKLAKLALALKALALKAL",
+    "label": 1,
+    "source_rows": [
+      461
+    ]
+  },
+  {
+    "sequence": "FAKKLAKKLKKLAKKLIGAVLKV",
+    "label": 1,
+    "source_rows": [
+      425
+    ]
+  },
+  {
+    "sequence": "FAKKLAKKLKKLAKLALAK",
+    "label": 1,
+    "source_rows": [
+      351
+    ]
+  },
+  {
+    "sequence": "FAKKLAKKLKKLAKLALAL",
+    "label": 0,
+    "source_rows": [
+      877
+    ]
+  },
+  {
+    "sequence": "FAKKLAKKLL",
+    "label": 0,
+    "source_rows": [
+      1209
+    ]
+  },
+  {
+    "sequence": "FAKKLAKLAKKALAL",
+    "label": 0,
+    "source_rows": [
+      256
+    ]
+  },
+  {
+    "sequence": "FAKKLAKLAKKLAKAL",
+    "label": 0,
+    "source_rows": [
+      395
+    ]
+  },
+  {
+    "sequence": "FAKKLAKLAKKLAKLALAL",
+    "label": 1,
+    "source_rows": [
+      874
+    ]
+  },
+  {
+    "sequence": "FAKKLAKLAKKLLAL",
+    "label": 0,
+    "source_rows": [
+      1311
+    ]
+  },
+  {
+    "sequence": "FAKKLAKLALKLAKL",
+    "label": 1,
+    "source_rows": [
+      1226
+    ]
+  },
+  {
+    "sequence": "FAKKLKKLAKKL",
+    "label": 0,
+    "source_rows": [
+      1117
+    ]
+  },
+  {
+    "sequence": "FAKKLKKLAKLAKKL",
+    "label": 0,
+    "source_rows": [
+      197
+    ]
+  },
+  {
+    "sequence": "FAKKLLAKALKL",
+    "label": 0,
+    "source_rows": [
+      952
+    ]
+  },
+  {
+    "sequence": "FAKLAKKLL",
+    "label": 1,
+    "source_rows": [
+      505
+    ]
+  },
+  {
+    "sequence": "FAKLFAKAFKKAL",
+    "label": 0,
+    "source_rows": [
+      265
+    ]
+  },
+  {
+    "sequence": "FAKLFAKLAKKFAL",
+    "label": 0,
+    "source_rows": [
+      19
+    ]
+  },
+  {
+    "sequence": "FAKLLAKAFKKAL",
+    "label": 0,
+    "source_rows": [
+      167
+    ]
+  },
+  {
+    "sequence": "FAKLLAKALKKFAL",
+    "label": 0,
+    "source_rows": [
+      703
+    ]
+  },
+  {
+    "sequence": "FAKLLAKALKKFL",
+    "label": 0,
+    "source_rows": [
+      594
+    ]
+  },
+  {
+    "sequence": "FAKLLAKALKKL",
+    "label": 0,
+    "source_rows": [
+      1403
+    ]
+  },
+  {
+    "sequence": "FAKLLAKALKKLL",
+    "label": 1,
+    "source_rows": [
+      1103
+    ]
+  },
+  {
+    "sequence": "FAKLLAKALKLKL",
+    "label": 0,
+    "source_rows": [
+      1261
+    ]
+  },
+  {
+    "sequence": "FAKLLAKKLL",
+    "label": 0,
+    "source_rows": [
+      284
+    ]
+  },
+  {
+    "sequence": "FAKLLAKLAK",
+    "label": 0,
+    "source_rows": [
+      1164
+    ]
+  },
+  {
+    "sequence": "FAKLLAKLAKAKA",
+    "label": 0,
+    "source_rows": [
+      81
+    ]
+  },
+  {
+    "sequence": "FAKLLAKLAKAKG",
+    "label": 0,
+    "source_rows": [
+      1481
+    ]
+  },
+  {
+    "sequence": "FAKLLAKLAKAKL",
+    "label": 0,
+    "source_rows": [
+      335
+    ]
+  },
+  {
+    "sequence": "FAKLLAKLAKKAA",
+    "label": 0,
+    "source_rows": [
+      628
+    ]
+  },
+  {
+    "sequence": "FAKLLAKLAKKAL",
+    "label": 0,
+    "source_rows": [
+      1528
+    ]
+  },
+  {
+    "sequence": "FAKLLAKLAKKFAL",
+    "label": 0,
+    "source_rows": [
+      1225
+    ]
+  },
+  {
+    "sequence": "FAKLLAKLAKKIL",
+    "label": 0,
+    "source_rows": [
+      448
+    ]
+  },
+  {
+    "sequence": "FAKLLAKLAKKLL",
+    "label": 1,
+    "source_rows": [
+      329
+    ]
+  },
+  {
+    "sequence": "FAKLLAKLAKKVL",
+    "label": 1,
+    "source_rows": [
+      1239
+    ]
+  },
+  {
+    "sequence": "FAKLLAKLAKLKL",
+    "label": 0,
+    "source_rows": [
+      98
+    ]
+  },
+  {
+    "sequence": "FAKLLFKALKKAL",
+    "label": 0,
+    "source_rows": [
+      464
+    ]
+  },
+  {
+    "sequence": "FAKLLKLAAKKLL",
+    "label": 0,
+    "source_rows": [
+      1053
+    ]
+  },
+  {
+    "sequence": "FAKLWAKLAFGKGIGKVGKKLL",
+    "label": 0,
+    "source_rows": [
+      381
+    ]
+  },
+  {
+    "sequence": "FAKLWAKLAKKL",
+    "label": 0,
+    "source_rows": [
+      1043
+    ]
+  },
+  {
+    "sequence": "FALAAKALKKLAKKLKKLAKKAL",
+    "label": 0,
+    "source_rows": [
+      806
+    ]
+  },
+  {
+    "sequence": "FALAKKALKKAKKAL",
+    "label": 0,
+    "source_rows": [
+      1275
+    ]
+  },
+  {
+    "sequence": "FALAKLAKKAKAKLKKALKAL",
+    "label": 1,
+    "source_rows": [
+      147
+    ]
+  },
+  {
+    "sequence": "FALALKALKKAL",
+    "label": 0,
+    "source_rows": [
+      481
+    ]
+  },
+  {
+    "sequence": "FALALKALKKALKKLKKALKKAL",
+    "label": 1,
+    "source_rows": [
+      634
+    ]
+  },
+  {
+    "sequence": "FALALKALKKLAKKLKKLAKKAL",
+    "label": 1,
+    "source_rows": [
+      701
+    ]
+  },
+  {
+    "sequence": "FALALKALKKLKKALKKAL",
+    "label": 0,
+    "source_rows": [
+      1022
+    ]
+  },
+  {
+    "sequence": "FALALKALKKLLKKLKKLAKKAL",
+    "label": 1,
+    "source_rows": [
+      140
+    ]
+  },
+  {
+    "sequence": "FALALKKALKALKKAL",
+    "label": 0,
+    "source_rows": [
+      1002
+    ]
+  },
+  {
+    "sequence": "FASGIAGMAGKLF",
+    "label": 0,
+    "source_rows": [
+      275
+    ]
+  },
+  {
+    "sequence": "FAVTWATKWWKG",
+    "label": 0,
+    "source_rows": [
+      1380
+    ]
+  },
+  {
+    "sequence": "FCYCRRRFCVCVGR",
+    "label": 1,
+    "source_rows": [
+      516
+    ]
+  },
+  {
+    "sequence": "FDIMGLIKKVAGAL",
+    "label": 0,
+    "source_rows": [
+      91
+    ]
+  },
+  {
+    "sequence": "FDLLGLVKSVVSAL",
+    "label": 1,
+    "source_rows": [
+      1305
+    ]
+  },
+  {
+    "sequence": "FDVMGIIKKIASAL",
+    "label": 0,
+    "source_rows": [
+      1324
+    ]
+  },
+  {
+    "sequence": "FFFLPSLIGGLVSAIK",
+    "label": 1,
+    "source_rows": [
+      1419
+    ]
+  },
+  {
+    "sequence": "FFFLRRIF",
+    "label": 0,
+    "source_rows": [
+      138
+    ]
+  },
+  {
+    "sequence": "FFFLSRIF",
+    "label": 0,
+    "source_rows": [
+      1121
+    ]
+  },
+  {
+    "sequence": "FFGAIAAALPHVISAIKNAL",
+    "label": 0,
+    "source_rows": [
+      978
+    ]
+  },
+  {
+    "sequence": "FFGKVLKLIRKIF",
+    "label": 1,
+    "source_rows": [
+      113
+    ]
+  },
+  {
+    "sequence": "FFGSLLKLLPKLL",
+    "label": 1,
+    "source_rows": [
+      1340
+    ]
+  },
+  {
+    "sequence": "FFGSVLKLIPKIL",
+    "label": 0,
+    "source_rows": [
+      1390
+    ]
+  },
+  {
+    "sequence": "FFGTALKIAANVLPTAICKILKKC",
+    "label": 1,
+    "source_rows": [
+      1472
+    ]
+  },
+  {
+    "sequence": "FFGWLIKGAIHAGKAIHGLIHRRRH",
+    "label": 1,
+    "source_rows": [
+      990
+    ]
+  },
+  {
+    "sequence": "FFHHAFRGIVHVGKTIHRLVTG",
+    "label": 0,
+    "source_rows": [
+      1361
+    ]
+  },
+  {
+    "sequence": "FFHHFARGIVHVGKTIHRLVTG",
+    "label": 0,
+    "source_rows": [
+      1416
+    ]
+  },
+  {
+    "sequence": "FFHHIFRAIVHVAKTIHRLVTG",
+    "label": 1,
+    "source_rows": [
+      1530
+    ]
+  },
+  {
+    "sequence": "FFHHIFRAIVHVGKTIHRLVTG",
+    "label": 1,
+    "source_rows": [
+      751
+    ]
+  },
+  {
+    "sequence": "FFHHIFRAIVHVPKTIHRLVTG",
+    "label": 1,
+    "source_rows": [
+      957
+    ]
+  },
+  {
+    "sequence": "FFHHIFRGIVHIGKTIHRLVTG",
+    "label": 1,
+    "source_rows": [
+      1256
+    ]
+  },
+  {
+    "sequence": "FFHHIFRGIVHVAKTIHRLVTG",
+    "label": 1,
+    "source_rows": [
+      303
+    ]
+  },
+  {
+    "sequence": "FFHHIFRGIVHVGKKIHRLVKG",
+    "label": 0,
+    "source_rows": [
+      371
+    ]
+  },
+  {
+    "sequence": "FFHHIFRGIVHVGKKIHRLVTG",
+    "label": 1,
+    "source_rows": [
+      92
+    ]
+  },
+  {
+    "sequence": "FFHHIFRGIVHVGKTIHRLVTG",
+    "label": 1,
+    "source_rows": [
+      204
+    ]
+  },
+  {
+    "sequence": "FFHHIFRGIVHVPKTIHRLVTG",
+    "label": 0,
+    "source_rows": [
+      1031
+    ]
+  },
+  {
+    "sequence": "FFHHIFRGKVHVGKTIHRLVTG",
+    "label": 1,
+    "source_rows": [
+      1465
+    ]
+  },
+  {
+    "sequence": "FFHHIFRGVVHVGKTIHRLVTG",
+    "label": 1,
+    "source_rows": [
+      1085
+    ]
+  },
+  {
+    "sequence": "FFHHIFRPIVHVAKTIHRLVTG",
+    "label": 1,
+    "source_rows": [
+      912
+    ]
+  },
+  {
+    "sequence": "FFHHIFRPIVHVGKTIHRLVTG",
+    "label": 0,
+    "source_rows": [
+      192
+    ]
+  },
+  {
+    "sequence": "FFHHIFRPIVHVPKTIHRLVTG",
+    "label": 0,
+    "source_rows": [
+      1278
+    ]
+  },
+  {
+    "sequence": "FFHHVFRGIVHVGKTIHRLVTG",
+    "label": 1,
+    "source_rows": [
+      647
+    ]
+  },
+  {
+    "sequence": "FFLLSLIPSAISAIKKI",
+    "label": 1,
+    "source_rows": [
+      477
+    ]
+  },
+  {
+    "sequence": "FFPIIAGMAAKLIPSLFCKITKKC",
+    "label": 1,
+    "source_rows": [
+      773
+    ]
+  },
+  {
+    "sequence": "FFPIIAGMAAKVICAITKKC",
+    "label": 1,
+    "source_rows": [
+      1109
+    ]
+  },
+  {
+    "sequence": "FFPIVGKLLSGLF",
+    "label": 0,
+    "source_rows": [
+      546
+    ]
+  },
+  {
+    "sequence": "FFPLVLGALGSILPKIF",
+    "label": 1,
+    "source_rows": [
+      852
+    ]
+  },
+  {
+    "sequence": "FFRLLFHGVHHGGGYLNAA",
+    "label": 0,
+    "source_rows": [
+      641
+    ]
+  },
+  {
+    "sequence": "FFRLLFHGVHHVGKIKPRA",
+    "label": 0,
+    "source_rows": [
+      430
+    ]
+  },
+  {
+    "sequence": "FFRRFFRR",
+    "label": 0,
+    "source_rows": [
+      1228
+    ]
+  },
+  {
+    "sequence": "FFRRFFRRFFRR",
+    "label": 0,
+    "source_rows": [
+      1008
+    ]
+  },
+  {
+    "sequence": "FFRRFFRRFFRRFFRR",
+    "label": 1,
+    "source_rows": [
+      1260
+    ]
+  },
+  {
+    "sequence": "FHAWAKLLKGVGRFFKGIGRW",
+    "label": 1,
+    "source_rows": [
+      1309
+    ]
+  },
+  {
+    "sequence": "FIAAIIGGLFSAGKAIHRLIRRRRR",
+    "label": 1,
+    "source_rows": [
+      1093
+    ]
+  },
+  {
+    "sequence": "FIGAIARLLSKIF",
+    "label": 1,
+    "source_rows": [
+      271
+    ]
+  },
+  {
+    "sequence": "FIGALLRPALKLLAGK",
+    "label": 0,
+    "source_rows": [
+      696
+    ]
+  },
+  {
+    "sequence": "FIGMIPGLIGGLISAIK",
+    "label": 1,
+    "source_rows": [
+      281
+    ]
+  },
+  {
+    "sequence": "FIGTLIPLALGALTKLFK",
+    "label": 1,
+    "source_rows": [
+      13
+    ]
+  },
+  {
+    "sequence": "FIHHAAGGLFSAGKAIHRLIRRRRR",
+    "label": 1,
+    "source_rows": [
+      906
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGAASAGKAIHRLIRRRRR",
+    "label": 1,
+    "source_rows": [
+      547
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLFSAGKAEHRLIRRRRR",
+    "label": 1,
+    "source_rows": [
+      8
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLFSAGKAIHRHHRRRRR",
+    "label": 1,
+    "source_rows": [
+      302
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLFSAGKAIHRLIR",
+    "label": 1,
+    "source_rows": [
+      976
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLFSAGKAIHRLIRRR",
+    "label": 1,
+    "source_rows": [
+      517
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLFSAGKAIHSLIHRRRR",
+    "label": 1,
+    "source_rows": [
+      1401
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLFSAGKARHRLIRRRRR",
+    "label": 1,
+    "source_rows": [
+      266
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLFSIGKIIHRLIRRRRR",
+    "label": 1,
+    "source_rows": [
+      782
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLFSVGKHIHRLIRRRRR",
+    "label": 1,
+    "source_rows": [
+      1118
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLFSVGKHIHSLIHGH",
+    "label": 1,
+    "source_rows": [
+      260
+    ]
+  },
+  {
+    "sequence": "FIITGLVRGLTKLF",
+    "label": 0,
+    "source_rows": [
+      604
+    ]
+  },
+  {
+    "sequence": "FIKRIARLLRKIF",
+    "label": 1,
+    "source_rows": [
+      72
+    ]
+  },
+  {
+    "sequence": "FILNILDK",
+    "label": 0,
+    "source_rows": [
+      382
+    ]
+  },
+  {
+    "sequence": "FILYGLIRFGRLLRK",
+    "label": 1,
+    "source_rows": [
+      343
+    ]
+  },
+  {
+    "sequence": "FIRRIARLLRRIF",
+    "label": 0,
+    "source_rows": [
+      1003
+    ]
+  },
+  {
+    "sequence": "FKAFKAFKAFKAFKAFKA",
+    "label": 0,
+    "source_rows": [
+      1538
+    ]
+  },
+  {
+    "sequence": "FKAFKAFKAFKAFKAFKAFKA",
+    "label": 0,
+    "source_rows": [
+      1352
+    ]
+  },
+  {
+    "sequence": "FKAFKAFKAFKAFKAFKAFKAFKA",
+    "label": 0,
+    "source_rows": [
+      1322
+    ]
+  },
+  {
+    "sequence": "FKAFKAFKAFKAFKAFKAFKAFKAFKA",
+    "label": 0,
+    "source_rows": [
+      639
+    ]
+  },
+  {
+    "sequence": "FKAFKAFKAFKAFKAFKAFKAFKAFKAFKA",
+    "label": 0,
+    "source_rows": [
+      99
+    ]
+  },
+  {
+    "sequence": "FKDLKKIANIINSIFKK",
+    "label": 0,
+    "source_rows": [
+      1125
+    ]
+  },
+  {
+    "sequence": "FKIKPGKVLDKFGKIVGKVLKQLKKVS",
+    "label": 0,
+    "source_rows": [
+      637
+    ]
+  },
+  {
+    "sequence": "FKIKPGKVLDKFGKIVGKVLKQLKKVSAVAKV",
+    "label": 1,
+    "source_rows": [
+      564
+    ]
+  },
+  {
+    "sequence": "FKKLKKIANIINSIFKK",
+    "label": 0,
+    "source_rows": [
+      738
+    ]
+  },
+  {
+    "sequence": "FKLAFKLAKKAFL",
+    "label": 0,
+    "source_rows": [
+      1376
+    ]
+  },
+  {
+    "sequence": "FKLRAKIKVRLRAKIKL",
+    "label": 1,
+    "source_rows": [
+      802
+    ]
+  },
+  {
+    "sequence": "FKRFKGSVKHGKGHLVHHIGVAL",
+    "label": 0,
+    "source_rows": [
+      495
+    ]
+  },
+  {
+    "sequence": "FKRIVQIIKKFLR",
+    "label": 0,
+    "source_rows": [
+      779
+    ]
+  },
+  {
+    "sequence": "FKRIVQLIKDFLR",
+    "label": 1,
+    "source_rows": [
+      941
+    ]
+  },
+  {
+    "sequence": "FKRIVQLLKKLLR",
+    "label": 0,
+    "source_rows": [
+      746
+    ]
+  },
+  {
+    "sequence": "FKRIVQRILDFLR",
+    "label": 0,
+    "source_rows": [
+      373
+    ]
+  },
+  {
+    "sequence": "FKRWVQRWKRFLR",
+    "label": 0,
+    "source_rows": [
+      1115
+    ]
+  },
+  {
+    "sequence": "FKVTWKTKWWKG",
+    "label": 0,
+    "source_rows": [
+      969
+    ]
+  },
+  {
+    "sequence": "FLAGLIGGLAKML",
+    "label": 1,
+    "source_rows": [
+      1089
+    ]
+  },
+  {
+    "sequence": "FLGAIAAALPHVINAVTNAL",
+    "label": 0,
+    "source_rows": [
+      111
+    ]
+  },
+  {
+    "sequence": "FLGAIAGVAAKFLPKVFCFITKKC",
+    "label": 1,
+    "source_rows": [
+      401
+    ]
+  },
+  {
+    "sequence": "FLGAIAQALTSLLGKL",
+    "label": 1,
+    "source_rows": [
+      862
+    ]
+  },
+  {
+    "sequence": "FLGAILKIGHALAKTVLPMVTNAFKPKQ",
+    "label": 1,
+    "source_rows": [
+      537
+    ]
+  },
+  {
+    "sequence": "FLGALFKVASKLVPAAICSISKKC",
+    "label": 1,
+    "source_rows": [
+      770
+    ]
+  },
+  {
+    "sequence": "FLGALIKGAIHGGRFIHGMIQNHH",
+    "label": 1,
+    "source_rows": [
+      1111
+    ]
+  },
+  {
+    "sequence": "FLGALLGPLMNLLQ",
+    "label": 0,
+    "source_rows": [
+      625
+    ]
+  },
+  {
+    "sequence": "FLGALLKIGAKLLPSVVGLFKKKQQ",
+    "label": 1,
+    "source_rows": [
+      1042
+    ]
+  },
+  {
+    "sequence": "FLGALLKIGAKVLPSVLCGIFKKC",
+    "label": 1,
+    "source_rows": [
+      383
+    ]
+  },
+  {
+    "sequence": "FLGALWNVAKKVF",
+    "label": 1,
+    "source_rows": [
+      643
+    ]
+  },
+  {
+    "sequence": "FLGALWNVAKRVF",
+    "label": 1,
+    "source_rows": [
+      1166
+    ]
+  },
+  {
+    "sequence": "FLGALWNVAKSLF",
+    "label": 1,
+    "source_rows": [
+      1160
+    ]
+  },
+  {
+    "sequence": "FLGALWNVAKSYF",
+    "label": 1,
+    "source_rows": [
+      553
+    ]
+  },
+  {
+    "sequence": "FLGALWNVFKSVF",
+    "label": 1,
+    "source_rows": [
+      389
+    ]
+  },
+  {
+    "sequence": "FLGALWNVLKSVF",
+    "label": 1,
+    "source_rows": [
+      600
+    ]
+  },
+  {
+    "sequence": "FLGALWRVAKSVF",
+    "label": 1,
+    "source_rows": [
+      159
+    ]
+  },
+  {
+    "sequence": "FLGFLHHLF",
+    "label": 0,
+    "source_rows": [
+      117
+    ]
+  },
+  {
+    "sequence": "FLGLLFHGVHHVGKWIHGLIHGHH",
+    "label": 1,
+    "source_rows": [
+      1036
+    ]
+  },
+  {
+    "sequence": "FLGSIVGALASALPSLISKIRN",
+    "label": 1,
+    "source_rows": [
+      772
+    ]
+  },
+  {
+    "sequence": "FLGSLLGLVGKVVPTLFCKISKKC",
+    "label": 1,
+    "source_rows": [
+      756
+    ]
+  },
+  {
+    "sequence": "FLHFLHHLF",
+    "label": 0,
+    "source_rows": [
+      904
+    ]
+  },
+  {
+    "sequence": "FLIGMTQGLICLITRKC",
+    "label": 1,
+    "source_rows": [
+      894
+    ]
+  },
+  {
+    "sequence": "FLKGIKGMLGKLF",
+    "label": 0,
+    "source_rows": [
+      202
+    ]
+  },
+  {
+    "sequence": "FLKGIVGKLGKLF",
+    "label": 0,
+    "source_rows": [
+      212
+    ]
+  },
+  {
+    "sequence": "FLKGIVGMLGKLF",
+    "label": 1,
+    "source_rows": [
+      839
+    ]
+  },
+  {
+    "sequence": "FLKGIVGMLGKLW",
+    "label": 1,
+    "source_rows": [
+      1163
+    ]
+  },
+  {
+    "sequence": "FLKWALKVAAK",
+    "label": 0,
+    "source_rows": [
+      349
+    ]
+  },
+  {
+    "sequence": "FLPAALAGIGGILGKLF",
+    "label": 1,
+    "source_rows": [
+      1237
+    ]
+  },
+  {
+    "sequence": "FLPAIAGILSQLF",
+    "label": 1,
+    "source_rows": [
+      391
+    ]
+  },
+  {
+    "sequence": "FLPAIAGLAAKFLPKIFCAITKKC",
+    "label": 1,
+    "source_rows": [
+      632
+    ]
+  },
+  {
+    "sequence": "FLPAIAGVAAKFLPKIFCAITKKC",
+    "label": 1,
+    "source_rows": [
+      34
+    ]
+  },
+  {
+    "sequence": "FLPAIVGAAAKFLPKIFCAISKKC",
+    "label": 1,
+    "source_rows": [
+      1504
+    ]
+  },
+  {
+    "sequence": "FLPFLLSALPKVFCFFSKKC",
+    "label": 1,
+    "source_rows": [
+      207
+    ]
+  },
+  {
+    "sequence": "FLPFVGNLLNGLL",
+    "label": 0,
+    "source_rows": [
+      622
+    ]
+  },
+  {
+    "sequence": "FLPGILKVAAK",
+    "label": 0,
+    "source_rows": [
+      1291
+    ]
+  },
+  {
+    "sequence": "FLPGILKVAANVVPGVI",
+    "label": 0,
+    "source_rows": [
+      484
+    ]
+  },
+  {
+    "sequence": "FLPGILKVAANVVPGVICAITKKC",
+    "label": 0,
+    "source_rows": [
+      895
+    ]
+  },
+  {
+    "sequence": "FLPGLIAGIAKML",
+    "label": 1,
+    "source_rows": [
+      247
+    ]
+  },
+  {
+    "sequence": "FLPGLIKAAVGVGSTILCKITKKC",
+    "label": 1,
+    "source_rows": [
+      1425
+    ]
+  },
+  {
+    "sequence": "FLPIALKALGSIFPKIL",
+    "label": 0,
+    "source_rows": [
+      1440
+    ]
+  },
+  {
+    "sequence": "FLPIIAGMAAKVICAITKKC",
+    "label": 1,
+    "source_rows": [
+      775
+    ]
+  },
+  {
+    "sequence": "FLPIIAGVAAKVLPKLFCAITKKC",
+    "label": 1,
+    "source_rows": [
+      1383
+    ]
+  },
+  {
+    "sequence": "FLPIIGKLLSGLL",
+    "label": 1,
+    "source_rows": [
+      236
+    ]
+  },
+  {
+    "sequence": "FLPIIGQLLSGLL",
+    "label": 0,
+    "source_rows": [
+      473
+    ]
+  },
+  {
+    "sequence": "FLPIITNLLGKLL",
+    "label": 1,
+    "source_rows": [
+      305
+    ]
+  },
+  {
+    "sequence": "FLPILAGLAAKIVPKLFCLATKKC",
+    "label": 1,
+    "source_rows": [
+      125
+    ]
+  },
+  {
+    "sequence": "FLPILAGLAAKLVPKVFCSITKKC",
+    "label": 1,
+    "source_rows": [
+      717
+    ]
+  },
+  {
+    "sequence": "FLPILAGLAANILPKVFCSITKKC",
+    "label": 1,
+    "source_rows": [
+      437
+    ]
+  },
+  {
+    "sequence": "FLPILASLAAKFGPKLFCLVTKKC",
+    "label": 1,
+    "source_rows": [
+      1420
+    ]
+  },
+  {
+    "sequence": "FLPILASLAAKFGPKLFSLVTKKS",
+    "label": 1,
+    "source_rows": [
+      1257
+    ]
+  },
+  {
+    "sequence": "FLPILASLAAKLGPKLFCLVTKKC",
+    "label": 1,
+    "source_rows": [
+      225
+    ]
+  },
+  {
+    "sequence": "FLPILGKLLSGIL",
+    "label": 1,
+    "source_rows": [
+      1013
+    ]
+  },
+  {
+    "sequence": "FLPILGNLLNGLL",
+    "label": 0,
+    "source_rows": [
+      965
+    ]
+  },
+  {
+    "sequence": "FLPIVAGLAANFLPKIVCKITKKC",
+    "label": 1,
+    "source_rows": [
+      651
+    ]
+  },
+  {
+    "sequence": "FLPIVAKLLSGLL",
+    "label": 1,
+    "source_rows": [
+      1460
+    ]
+  },
+  {
+    "sequence": "FLPIVAKLLSGLLGRKKRRQRRR",
+    "label": 1,
+    "source_rows": [
+      17
+    ]
+  },
+  {
+    "sequence": "FLPIVGKLLSGLL",
+    "label": 1,
+    "source_rows": [
+      1503
+    ]
+  },
+  {
+    "sequence": "FLPIVGRLISGIL",
+    "label": 0,
+    "source_rows": [
+      454
+    ]
+  },
+  {
+    "sequence": "FLPIVGRLISGLL",
+    "label": 0,
+    "source_rows": [
+      1514
+    ]
+  },
+  {
+    "sequence": "FLPKILKVAAK",
+    "label": 0,
+    "source_rows": [
+      1427
+    ]
+  },
+  {
+    "sequence": "FLPLAVSLAANFLPKLFCKITKKC",
+    "label": 1,
+    "source_rows": [
+      850
+    ]
+  },
+  {
+    "sequence": "FLPLIAGVAANFLPKIFCLISKKC",
+    "label": 1,
+    "source_rows": [
+      765
+    ]
+  },
+  {
+    "sequence": "FLPLIAGVAASILPKIFCFITKKC",
+    "label": 1,
+    "source_rows": [
+      1200
+    ]
+  },
+  {
+    "sequence": "FLPLIASLAANFVPKIFCKITKKC",
+    "label": 1,
+    "source_rows": [
+      385
+    ]
+  },
+  {
+    "sequence": "FLPLIGRVLSGIL",
+    "label": 0,
+    "source_rows": [
+      10
+    ]
+  },
+  {
+    "sequence": "FLPLILPSIVTALSSFLKQG",
+    "label": 1,
+    "source_rows": [
+      1423
+    ]
+  },
+  {
+    "sequence": "FLPLKKLRFGLL",
+    "label": 0,
+    "source_rows": [
+      355
+    ]
+  },
+  {
+    "sequence": "FLPLLAGLAANFLPKIFCKITRKC",
+    "label": 1,
+    "source_rows": [
+      1214
+    ]
+  },
+  {
+    "sequence": "FLPLLAGVVANFLPQIICKIARKC",
+    "label": 1,
+    "source_rows": [
+      958
+    ]
+  },
+  {
+    "sequence": "FLPLLASLFSRLF",
+    "label": 1,
+    "source_rows": [
+      729
+    ]
+  },
+  {
+    "sequence": "FLPLLISALTSLFPKLGK",
+    "label": 1,
+    "source_rows": [
+      1062
+    ]
+  },
+  {
+    "sequence": "FLPLLLAGLPKFLCLVFKKC",
+    "label": 1,
+    "source_rows": [
+      39
+    ]
+  },
+  {
+    "sequence": "FLPLLLAGLPKLLCLFFKKC",
+    "label": 1,
+    "source_rows": [
+      659
+    ]
+  },
+  {
+    "sequence": "FLPLLLAGLPSFLCLVFKKC",
+    "label": 0,
+    "source_rows": [
+      1519
+    ]
+  },
+  {
+    "sequence": "FLPLLLSALPSFLCLVFKKC",
+    "label": 1,
+    "source_rows": [
+      713
+    ]
+  },
+  {
+    "sequence": "FLPLVTGLLSGLL",
+    "label": 0,
+    "source_rows": [
+      725
+    ]
+  },
+  {
+    "sequence": "FLPMLAGLAANFLPKIVCKITKKC",
+    "label": 1,
+    "source_rows": [
+      1070
+    ]
+  },
+  {
+    "sequence": "FLPMLAGLAASMVPKLVCLITKKC",
+    "label": 1,
+    "source_rows": [
+      121
+    ]
+  },
+  {
+    "sequence": "FLPVIAGVAANFLPKLFCAISKKC",
+    "label": 1,
+    "source_rows": [
+      1509
+    ]
+  },
+  {
+    "sequence": "FLPVIASVAAKVLPKVFCFITKKC",
+    "label": 1,
+    "source_rows": [
+      611
+    ]
+  },
+  {
+    "sequence": "FLPVILPVIGKLLSGIL",
+    "label": 1,
+    "source_rows": [
+      95
+    ]
+  },
+  {
+    "sequence": "FLPVLAGLTPSIVPKLVCLLTKKC",
+    "label": 1,
+    "source_rows": [
+      1392
+    ]
+  },
+  {
+    "sequence": "FLPVLTGLTPSIVPKLVCLLTKKC",
+    "label": 0,
+    "source_rows": [
+      274
+    ]
+  },
+  {
+    "sequence": "FLQGIIDTVGKWL",
+    "label": 1,
+    "source_rows": [
+      665
+    ]
+  },
+  {
+    "sequence": "FLQHIIGALGHLF",
+    "label": 0,
+    "source_rows": [
+      1215
+    ]
+  },
+  {
+    "sequence": "FLQHIIGALGKLF",
+    "label": 1,
+    "source_rows": [
+      224
+    ]
+  },
+  {
+    "sequence": "FLQHIIGALSHFF",
+    "label": 1,
+    "source_rows": [
+      7
+    ]
+  },
+  {
+    "sequence": "FLQKIIGALGHLF",
+    "label": 1,
+    "source_rows": [
+      800
+    ]
+  },
+  {
+    "sequence": "FLRALWNVAKSVF",
+    "label": 1,
+    "source_rows": [
+      1398
+    ]
+  },
+  {
+    "sequence": "FLREFHKWIERVVGWLGKVF",
+    "label": 0,
+    "source_rows": [
+      190
+    ]
+  },
+  {
+    "sequence": "FLRFAGSVIHGAGHLVHHIGVAL",
+    "label": 0,
+    "source_rows": [
+      918
+    ]
+  },
+  {
+    "sequence": "FLSAITSILGKFF",
+    "label": 1,
+    "source_rows": [
+      1108
+    ]
+  },
+  {
+    "sequence": "FLSAITSLLGKLL",
+    "label": 1,
+    "source_rows": [
+      1480
+    ]
+  },
+  {
+    "sequence": "FLSGIVGMLGKLF",
+    "label": 1,
+    "source_rows": [
+      636
+    ]
+  },
+  {
+    "sequence": "FLSHIAGFLSNLF",
+    "label": 1,
+    "source_rows": [
+      812
+    ]
+  },
+  {
+    "sequence": "FLSKIWDGVKSLL",
+    "label": 1,
+    "source_rows": [
+      836
+    ]
+  },
+  {
+    "sequence": "FLSLALAALPKFLCLVFKKC",
+    "label": 1,
+    "source_rows": [
+      963
+    ]
+  },
+  {
+    "sequence": "FLSLALAALPKLFCLIFKKC",
+    "label": 1,
+    "source_rows": [
+      1525
+    ]
+  },
+  {
+    "sequence": "FLSLIPAAISAVSALANHF",
+    "label": 1,
+    "source_rows": [
+      946
+    ]
+  },
+  {
+    "sequence": "FLSLIPHIASGIASLVKNF",
+    "label": 1,
+    "source_rows": [
+      1430
+    ]
+  },
+  {
+    "sequence": "FLSLIPHIVSGVAALANHL",
+    "label": 1,
+    "source_rows": [
+      653
+    ]
+  },
+  {
+    "sequence": "FLSLIPHIVSGVASIAKHF",
+    "label": 1,
+    "source_rows": [
+      538
+    ]
+  },
+  {
+    "sequence": "FLSLIPHIVSGVASLAKHF",
+    "label": 1,
+    "source_rows": [
+      63
+    ]
+  },
+  {
+    "sequence": "FLSLIPKAISAISALANHF",
+    "label": 1,
+    "source_rows": [
+      1529
+    ]
+  },
+  {
+    "sequence": "FLSLIPKAISAISALINHF",
+    "label": 1,
+    "source_rows": [
+      848
+    ]
+  },
+  {
+    "sequence": "FLSLIPKAISAVSALANHF",
+    "label": 0,
+    "source_rows": [
+      1433
+    ]
+  },
+  {
+    "sequence": "FLSLIPKIAGGIAALAKHL",
+    "label": 1,
+    "source_rows": [
+      1516
+    ]
+  },
+  {
+    "sequence": "FLSLIPKIAGGIAALVKNL",
+    "label": 1,
+    "source_rows": [
+      1298
+    ]
+  },
+  {
+    "sequence": "FLSLIPKIATGIAALAKHL",
+    "label": 1,
+    "source_rows": [
+      321
+    ]
+  },
+  {
+    "sequence": "FLSLIPKIISAISALIKHF",
+    "label": 1,
+    "source_rows": [
+      531
+    ]
+  },
+  {
+    "sequence": "FLSLIPKIISAISALINHF",
+    "label": 1,
+    "source_rows": [
+      1206
+    ]
+  },
+  {
+    "sequence": "FLSLLPHIASGIASLVSKF",
+    "label": 1,
+    "source_rows": [
+      1439
+    ]
+  },
+  {
+    "sequence": "FLSMIPHIVSGVAALAKHL",
+    "label": 1,
+    "source_rows": [
+      908
+    ]
+  },
+  {
+    "sequence": "FLSSIGKILGNLL",
+    "label": 0,
+    "source_rows": [
+      350
+    ]
+  },
+  {
+    "sequence": "FLSTALKVAANVVPTLFCKITKKC",
+    "label": 0,
+    "source_rows": [
+      1344
+    ]
+  },
+  {
+    "sequence": "FLSTIWNGIKGLL",
+    "label": 0,
+    "source_rows": [
+      1268
+    ]
+  },
+  {
+    "sequence": "FLSTIWNGIKSLF",
+    "label": 1,
+    "source_rows": [
+      991
+    ]
+  },
+  {
+    "sequence": "FLSTLLNVASKVVPTLFCKITKKC",
+    "label": 1,
+    "source_rows": [
+      239
+    ]
+  },
+  {
+    "sequence": "FLWALFKVASK",
+    "label": 1,
+    "source_rows": [
+      726
+    ]
+  },
+  {
+    "sequence": "FLYIVAKLLSGLL",
+    "label": 0,
+    "source_rows": [
+      798
+    ]
+  },
+  {
+    "sequence": "FMGSALRIAAKVLPAALCQIFKKC",
+    "label": 1,
+    "source_rows": [
+      1371
+    ]
+  },
+  {
+    "sequence": "FPFLKLSLKIPKSAIKSAIKRL",
+    "label": 0,
+    "source_rows": [
+      325
+    ]
+  },
+  {
+    "sequence": "FPFLLSLIPSAISAIKRL",
+    "label": 0,
+    "source_rows": [
+      420
+    ]
+  },
+  {
+    "sequence": "FPFLLSLIPSAISALKKL",
+    "label": 1,
+    "source_rows": [
+      589
+    ]
+  },
+  {
+    "sequence": "FPLTWLKWWKWKK",
+    "label": 0,
+    "source_rows": [
+      1484
+    ]
+  },
+  {
+    "sequence": "FPLTWPTKWWKG",
+    "label": 0,
+    "source_rows": [
+      1487
+    ]
+  },
+  {
+    "sequence": "FPVGRVHRLLRK",
+    "label": 0,
+    "source_rows": [
+      474
+    ]
+  },
+  {
+    "sequence": "FPVTWGWWKWWKG",
+    "label": 0,
+    "source_rows": [
+      1001
+    ]
+  },
+  {
+    "sequence": "FPVTWPTKWLKG",
+    "label": 0,
+    "source_rows": [
+      724
+    ]
+  },
+  {
+    "sequence": "FPVTWPTKWRKG",
+    "label": 0,
+    "source_rows": [
+      1224
+    ]
+  },
+  {
+    "sequence": "FPVTWPTKWWEG",
+    "label": 0,
+    "source_rows": [
+      55
+    ]
+  },
+  {
+    "sequence": "FPVTWPTKWWKG",
+    "label": 0,
+    "source_rows": [
+      312
+    ]
+  },
+  {
+    "sequence": "FPVTWPTKWWKS",
+    "label": 0,
+    "source_rows": [
+      1282
+    ]
+  },
+  {
+    "sequence": "FPVTWRTKWWKG",
+    "label": 0,
+    "source_rows": [
+      884
+    ]
+  },
+  {
+    "sequence": "FPVTWRWWKWWKG",
+    "label": 0,
+    "source_rows": [
+      287
+    ]
+  },
+  {
+    "sequence": "FPVTWRWWRWWRG",
+    "label": 1,
+    "source_rows": [
+      907
+    ]
+  },
+  {
+    "sequence": "FPVTWRWWTWWKG",
+    "label": 0,
+    "source_rows": [
+      79
+    ]
+  },
+  {
+    "sequence": "FRIRVRVAKKFGKAFVGEIM",
+    "label": 0,
+    "source_rows": [
+      1389
+    ]
+  },
+  {
+    "sequence": "FRVTWRTKWWKG",
+    "label": 0,
+    "source_rows": [
+      1493
+    ]
+  },
+  {
+    "sequence": "FSFLSRIF",
+    "label": 0,
+    "source_rows": [
+      307
+    ]
+  },
+  {
+    "sequence": "FSGGNCRGFRRRCFCTK",
+    "label": 0,
+    "source_rows": [
+      390
+    ]
+  },
+  {
+    "sequence": "FSISPGKVLDKFGKIVGKVLKQLKKVSAVAKV",
+    "label": 1,
+    "source_rows": [
+      1266
+    ]
+  },
+  {
+    "sequence": "FSVTWRWWKWWKG",
+    "label": 0,
+    "source_rows": [
+      1181
+    ]
+  },
+  {
+    "sequence": "FVDLKKIANIINSIF",
+    "label": 0,
+    "source_rows": [
+      673
+    ]
+  },
+  {
+    "sequence": "FVDLKKIANIINSIFGK",
+    "label": 1,
+    "source_rows": [
+      711
+    ]
+  },
+  {
+    "sequence": "FVDLKKIANIINSIFKK",
+    "label": 0,
+    "source_rows": [
+      1173
+    ]
+  },
+  {
+    "sequence": "FVDLKKIANILNSIF",
+    "label": 0,
+    "source_rows": [
+      986
+    ]
+  },
+  {
+    "sequence": "FVGAIAAALPHVISAIKNAL",
+    "label": 0,
+    "source_rows": [
+      1365
+    ]
+  },
+  {
+    "sequence": "FVKELWDKVKKMGSAAWSAAKGAFA",
+    "label": 0,
+    "source_rows": [
+      1362
+    ]
+  },
+  {
+    "sequence": "FVKLKKIANIINSIFKK",
+    "label": 0,
+    "source_rows": [
+      141
+    ]
+  },
+  {
+    "sequence": "FVKLKKILNIILSIFKK",
+    "label": 1,
+    "source_rows": [
+      1445
+    ]
+  },
+  {
+    "sequence": "FVKLKKILNIINSIFKK",
+    "label": 1,
+    "source_rows": [
+      1384
+    ]
+  },
+  {
+    "sequence": "FWGAAAKMLGKALPGLISMFQKN",
+    "label": 1,
+    "source_rows": [
+      135
+    ]
+  },
+  {
+    "sequence": "FWGALAKGALKLIGPGSLFSSFSKKD",
+    "label": 1,
+    "source_rows": [
+      1450
+    ]
+  },
+  {
+    "sequence": "FWGALAKGALKLIGVGSLFSSFSKKD",
+    "label": 1,
+    "source_rows": [
+      1422
+    ]
+  },
+  {
+    "sequence": "FWGALAKGALKLIGVSLFSSFSKKD",
+    "label": 1,
+    "source_rows": [
+      276
+    ]
+  },
+  {
+    "sequence": "FWGALAKGALKLIPSLVSSFT",
+    "label": 1,
+    "source_rows": [
+      453
+    ]
+  },
+  {
+    "sequence": "FWGALAKGALKLIVGSLFSSFSKKD",
+    "label": 1,
+    "source_rows": [
+      459
+    ]
+  },
+  {
+    "sequence": "FWGALAKGALKLIVSLFSSFSKKD",
+    "label": 1,
+    "source_rows": [
+      830
+    ]
+  },
+  {
+    "sequence": "FWGFLGKLAMKAVPSLIGGNKSSSK",
+    "label": 0,
+    "source_rows": [
+      324
+    ]
+  },
+  {
+    "sequence": "FWGKLWEGVKNAI",
+    "label": 0,
+    "source_rows": [
+      193
+    ]
+  },
+  {
+    "sequence": "FWGLKGLKKFSKKL",
+    "label": 0,
+    "source_rows": [
+      1107
+    ]
+  },
+  {
+    "sequence": "FWSTIWNAAKSLI",
+    "label": 1,
+    "source_rows": [
+      1441
+    ]
+  },
+  {
+    "sequence": "GAGCNIFGGNDYRCHRHCKSIRGYKGGYCKLGGICKCY",
+    "label": 0,
+    "source_rows": [
+      518
+    ]
+  },
+  {
+    "sequence": "GALRRLGRKITHAVKKYGPTVLRIIRIAG",
+    "label": 1,
+    "source_rows": [
+      1264
+    ]
+  },
+  {
+    "sequence": "GALSALKALGKAL",
+    "label": 0,
+    "source_rows": [
+      935
+    ]
+  },
+  {
+    "sequence": "GALSALKALGKLL",
+    "label": 1,
+    "source_rows": [
+      327
+    ]
+  },
+  {
+    "sequence": "GAVVDILKGAGKNLLSLALNKLSEKV",
+    "label": 0,
+    "source_rows": [
+      615
+    ]
+  },
+  {
+    "sequence": "GCKKWFKKAAHVGKNVGKVALNAYL",
+    "label": 1,
+    "source_rows": [
+      1271
+    ]
+  },
+  {
+    "sequence": "GEYCGESCYLIPCFTPGCYCVSRQCVNKN",
+    "label": 1,
+    "source_rows": [
+      228
+    ]
+  },
+  {
+    "sequence": "GFCGYACYYRNGVRICVRYCN",
+    "label": 0,
+    "source_rows": [
+      346
+    ]
+  },
+  {
+    "sequence": "GFFALIPKIISSPLFKTLLSAVGSALS",
+    "label": 1,
+    "source_rows": [
+      844
+    ]
+  },
+  {
+    "sequence": "GFFGKMKEYFKKFGASFKRRFANLKKRL",
+    "label": 1,
+    "source_rows": [
+      520
+    ]
+  },
+  {
+    "sequence": "GFFGKRKEYFKKFGASFKRRFANLKKRL",
+    "label": 1,
+    "source_rows": [
+      145
+    ]
+  },
+  {
+    "sequence": "GFGMALKLLKKVL",
+    "label": 0,
+    "source_rows": [
+      1000
+    ]
+  },
+  {
+    "sequence": "GFGMALRLLRRVL",
+    "label": 1,
+    "source_rows": [
+      249
+    ]
+  },
+  {
+    "sequence": "GFGSFLGSLFKTGLKIIPKLLPSIQQ",
+    "label": 1,
+    "source_rows": [
+      62
+    ]
+  },
+  {
+    "sequence": "GFGSLLGKALKIGTNLL",
+    "label": 0,
+    "source_rows": [
+      675
+    ]
+  },
+  {
+    "sequence": "GFGSLLGKALRLGANVL",
+    "label": 0,
+    "source_rows": [
+      849
+    ]
+  },
+  {
+    "sequence": "GFIFHIIKGLFHAGKMIHGLV",
+    "label": 1,
+    "source_rows": [
+      1158
+    ]
+  },
+  {
+    "sequence": "GFKDLLKGAAKALKKTVLF",
+    "label": 0,
+    "source_rows": [
+      1265
+    ]
+  },
+  {
+    "sequence": "GFKDLLKGAAKALVKAVLF",
+    "label": 1,
+    "source_rows": [
+      995
+    ]
+  },
+  {
+    "sequence": "GFKDLLKGAAKALVKTVKF",
+    "label": 0,
+    "source_rows": [
+      1184
+    ]
+  },
+  {
+    "sequence": "GFKDLLKGAAKALVKTVLF",
+    "label": 0,
+    "source_rows": [
+      1469
+    ]
+  },
+  {
+    "sequence": "GFKDLLKGAKKALVKTVLF",
+    "label": 0,
+    "source_rows": [
+      297
+    ]
+  },
+  {
+    "sequence": "GFKDLLKKAAKALVKTVLF",
+    "label": 1,
+    "source_rows": [
+      1210
+    ]
+  },
+  {
+    "sequence": "GFKMALKLLKKVL",
+    "label": 0,
+    "source_rows": [
+      959
+    ]
+  },
+  {
+    "sequence": "GFKRIVQKIRDFLRNLV",
+    "label": 1,
+    "source_rows": [
+      1500
+    ]
+  },
+  {
+    "sequence": "GFKRIVQRIKDFLRNLV",
+    "label": 0,
+    "source_rows": [
+      76
+    ]
+  },
+  {
+    "sequence": "GFKRLVQRLKDFLRNLV",
+    "label": 0,
+    "source_rows": [
+      1323
+    ]
+  },
+  {
+    "sequence": "GFLGILFHGVHHGRKKALHMNSERRS",
+    "label": 1,
+    "source_rows": [
+      1185
+    ]
+  },
+  {
+    "sequence": "GFLGPLLKLAAKGVAKVIPHLIPSRQQ",
+    "label": 1,
+    "source_rows": [
+      944
+    ]
+  },
+  {
+    "sequence": "GFLGPLLKLGLKGAAKLLPQLLPSRQQ",
+    "label": 1,
+    "source_rows": [
+      1405
+    ]
+  },
+  {
+    "sequence": "GFLGPLLKLGLKGVAKVIPHLIPSRQQ",
+    "label": 1,
+    "source_rows": [
+      90
+    ]
+  },
+  {
+    "sequence": "GFLGSLLKTGLKVGSNLL",
+    "label": 0,
+    "source_rows": [
+      1348
+    ]
+  },
+  {
+    "sequence": "GFLSILKKVL",
+    "label": 0,
+    "source_rows": [
+      87
+    ]
+  },
+  {
+    "sequence": "GFLSILKKVLAKVMAHMK",
+    "label": 1,
+    "source_rows": [
+      942
+    ]
+  },
+  {
+    "sequence": "GFLSILKKVLGKVMAHMK",
+    "label": 1,
+    "source_rows": [
+      1347
+    ]
+  },
+  {
+    "sequence": "GFLSILKKVLKVMAHMK",
+    "label": 1,
+    "source_rows": [
+      1227
+    ]
+  },
+  {
+    "sequence": "GFLSILKKVLP",
+    "label": 0,
+    "source_rows": [
+      1098
+    ]
+  },
+  {
+    "sequence": "GFLSILKKVLPKVMAHMK",
+    "label": 0,
+    "source_rows": [
+      1246
+    ]
+  },
+  {
+    "sequence": "GFMDTAKNVAKNVAVTLIDKLRCKVTGGC",
+    "label": 0,
+    "source_rows": [
+      1197
+    ]
+  },
+  {
+    "sequence": "GFMKYIGPLIPHAVKAIKKLI",
+    "label": 1,
+    "source_rows": [
+      478
+    ]
+  },
+  {
+    "sequence": "GFMKYIGPLIPHAVKAISKLI",
+    "label": 0,
+    "source_rows": [
+      126
+    ]
+  },
+  {
+    "sequence": "GFMSKVANFAKKFAKGGVNAIMNQK",
+    "label": 1,
+    "source_rows": [
+      503
+    ]
+  },
+  {
+    "sequence": "GFRKIVQKIRDFLRNLV",
+    "label": 1,
+    "source_rows": [
+      466
+    ]
+  },
+  {
+    "sequence": "GFSSIFRGVAKFASKGLGKDLAKLGVDLVA",
+    "label": 0,
+    "source_rows": [
+      77
+    ]
+  },
+  {
+    "sequence": "GFSSIFRGVAKFASKGLGKDLAKLGVDLVASKISKQS",
+    "label": 0,
+    "source_rows": [
+      578
+    ]
+  },
+  {
+    "sequence": "GFSSIFRGVAKFASKGLGKKLAKLGVKLVACKISKQC",
+    "label": 1,
+    "source_rows": [
+      609
+    ]
+  },
+  {
+    "sequence": "GFWGKLFKLGLHGIGLLHLHL",
+    "label": 1,
+    "source_rows": [
+      1367
+    ]
+  },
+  {
+    "sequence": "GFWGKLLEGVKKAI",
+    "label": 0,
+    "source_rows": [
+      1148
+    ]
+  },
+  {
+    "sequence": "GFWGKLWEGVKNAI",
+    "label": 1,
+    "source_rows": [
+      299
+    ]
+  },
+  {
+    "sequence": "GFWGKLWEGVKNAIKKK",
+    "label": 0,
+    "source_rows": [
+      592
+    ]
+  },
+  {
+    "sequence": "GFWGKLWEGVKSAI",
+    "label": 1,
+    "source_rows": [
+      1131
+    ]
+  },
+  {
+    "sequence": "GFWSSVWDGAKNVGTAIIKNAKVCVYAVCVSHK",
+    "label": 1,
+    "source_rows": [
+      753
+    ]
+  },
+  {
+    "sequence": "GFWTTAAEGLKKFAKAGLASILNPK",
+    "label": 0,
+    "source_rows": [
+      599
+    ]
+  },
+  {
+    "sequence": "GIAGLLRSFVRMLAKIMGG",
+    "label": 1,
+    "source_rows": [
+      1010
+    ]
+  },
+  {
+    "sequence": "GIAKFGKAAAHFGKKWVGELMNS",
+    "label": 0,
+    "source_rows": [
+      541
+    ]
+  },
+  {
+    "sequence": "GIFDVLKNLAKGVITSLAS",
+    "label": 1,
+    "source_rows": [
+      1281
+    ]
+  },
+  {
+    "sequence": "GIFPIFAKLLGKVIKVASSLISKGRTK",
+    "label": 1,
+    "source_rows": [
+      230
+    ]
+  },
+  {
+    "sequence": "GIFSALAAGVKLLGNTLFKMAGKAGAEHLACKATNQC",
+    "label": 1,
+    "source_rows": [
+      997
+    ]
+  },
+  {
+    "sequence": "GIFSLFKAGAKFFGKHLLKQAGKAGAEHLACKATNQC",
+    "label": 0,
+    "source_rows": [
+      1247
+    ]
+  },
+  {
+    "sequence": "GIGAVLAVLTTGLPALISWIKRKRQQ",
+    "label": 1,
+    "source_rows": [
+      1505
+    ]
+  },
+  {
+    "sequence": "GIGAVLKVLTTGLCALISWIKRKRQQ",
+    "label": 1,
+    "source_rows": [
+      657
+    ]
+  },
+  {
+    "sequence": "GIGAVLKVLTTGLPALISWIKFKRQQ",
+    "label": 1,
+    "source_rows": [
+      1097
+    ]
+  },
+  {
+    "sequence": "GIGAVLKVLTTGLPALISWIKRKRQQ",
+    "label": 1,
+    "source_rows": [
+      83
+    ]
+  },
+  {
+    "sequence": "GIGAVLTTGLPALISWIKRKRQQ",
+    "label": 1,
+    "source_rows": [
+      1394
+    ]
+  },
+  {
+    "sequence": "GIGAVLVVLTTGLPALISWIKRKRQQ",
+    "label": 0,
+    "source_rows": [
+      1144
+    ]
+  },
+  {
+    "sequence": "GIGAVLWVLTTGLPALISWIKRKRQQ",
+    "label": 1,
+    "source_rows": [
+      1091
+    ]
+  },
+  {
+    "sequence": "GIGGALLSFGKSALKGLAKGLAEHF",
+    "label": 1,
+    "source_rows": [
+      1279
+    ]
+  },
+  {
+    "sequence": "GIGHFLHKVKSFGKSWIGEIMNS",
+    "label": 1,
+    "source_rows": [
+      45
+    ]
+  },
+  {
+    "sequence": "GIGKFIHAAKKFGKLFIGEIMNS",
+    "label": 1,
+    "source_rows": [
+      1065
+    ]
+  },
+  {
+    "sequence": "GIGKFIHSAKRFGRAWVGEIMNS",
+    "label": 0,
+    "source_rows": [
+      431
+    ]
+  },
+  {
+    "sequence": "GIGKFIHSVKKWGKTFIGEIMNS",
+    "label": 1,
+    "source_rows": [
+      1030
+    ]
+  },
+  {
+    "sequence": "GIGKFLHAAKKFAKAFVAEIMNS",
+    "label": 1,
+    "source_rows": [
+      813
+    ]
+  },
+  {
+    "sequence": "GIGKFLHSAGKFGKAFIGEIMKS",
+    "label": 0,
+    "source_rows": [
+      1198
+    ]
+  },
+  {
+    "sequence": "GIGKFLHSAGKFGKAFLGEVMKS",
+    "label": 0,
+    "source_rows": [
+      316
+    ]
+  },
+  {
+    "sequence": "GIGKFLHSAKKFGKAFV",
+    "label": 0,
+    "source_rows": [
+      1289
+    ]
+  },
+  {
+    "sequence": "GIGKFLHSAKKFGKAFVGEIMNS",
+    "label": 1,
+    "source_rows": [
+      177
+    ]
+  },
+  {
+    "sequence": "GIGKFLHSAKKFGKAWVGEIMNS",
+    "label": 0,
+    "source_rows": [
+      510
+    ]
+  },
+  {
+    "sequence": "GIGKFLKKAKKFGKAFVKMKK",
+    "label": 1,
+    "source_rows": [
+      1191
+    ]
+  },
+  {
+    "sequence": "GIGKHVGKALKGLKGLLKGLGES",
+    "label": 0,
+    "source_rows": [
+      587
+    ]
+  },
+  {
+    "sequence": "GIGRFLHSARRFGRAFVGEIMNS",
+    "label": 0,
+    "source_rows": [
+      480
+    ]
+  },
+  {
+    "sequence": "GIIKKIIKKIIKK",
+    "label": 0,
+    "source_rows": [
+      73
+    ]
+  },
+  {
+    "sequence": "GIIKKIIKKIIKKIIKKI",
+    "label": 1,
+    "source_rows": [
+      672
+    ]
+  },
+  {
+    "sequence": "GIKDLLKGAAKALVKTVLF",
+    "label": 0,
+    "source_rows": [
+      311
+    ]
+  },
+  {
+    "sequence": "GIKDLLKGAAKALVKTVLK",
+    "label": 0,
+    "source_rows": [
+      452
+    ]
+  },
+  {
+    "sequence": "GIKDWIKGAAKKLIKTVASHIANQ",
+    "label": 0,
+    "source_rows": [
+      1170
+    ]
+  },
+  {
+    "sequence": "GIKKFLHIIWKFIKAFVGEIMNS",
+    "label": 1,
+    "source_rows": [
+      829
+    ]
+  },
+  {
+    "sequence": "GIKKFLKSAKKFVKAFK",
+    "label": 1,
+    "source_rows": [
+      278
+    ]
+  },
+  {
+    "sequence": "GIKKWVKGVAKGVAKDLAKKIL",
+    "label": 0,
+    "source_rows": [
+      1082
+    ]
+  },
+  {
+    "sequence": "GIKSALLGIAKNVGMSLLQKAQCKLSGSC",
+    "label": 1,
+    "source_rows": [
+      1077
+    ]
+  },
+  {
+    "sequence": "GILDKLKEFGISAARGVAQSLLNTASCKLAKTC",
+    "label": 1,
+    "source_rows": [
+      1100
+    ]
+  },
+  {
+    "sequence": "GILDSFKGVAKGVAKDLAGKLLDKLKCKITGC",
+    "label": 0,
+    "source_rows": [
+      67
+    ]
+  },
+  {
+    "sequence": "GILDTFKGVAKGVAKDLAVHMLENLKCKMTGC",
+    "label": 0,
+    "source_rows": [
+      950
+    ]
+  },
+  {
+    "sequence": "GILKKILKKILKKL",
+    "label": 1,
+    "source_rows": [
+      1056
+    ]
+  },
+  {
+    "sequence": "GILKSLLKKLKKIIAK",
+    "label": 0,
+    "source_rows": [
+      821
+    ]
+  },
+  {
+    "sequence": "GILKTIKSIASKLKRKAK",
+    "label": 0,
+    "source_rows": [
+      53
+    ]
+  },
+  {
+    "sequence": "GILKTIKSIASKVANTVQKLKRKAKNAV",
+    "label": 0,
+    "source_rows": [
+      1288
+    ]
+  },
+  {
+    "sequence": "GILKTIKSIASKVANTVQKLKRKAKNAVA",
+    "label": 0,
+    "source_rows": [
+      1331
+    ]
+  },
+  {
+    "sequence": "GILNTIKSIASKLKRKAK",
+    "label": 0,
+    "source_rows": [
+      348
+    ]
+  },
+  {
+    "sequence": "GILSKLLKKLKKIIAK",
+    "label": 0,
+    "source_rows": [
+      927
+    ]
+  },
+  {
+    "sequence": "GILSSFKGVAKGVAKDLAGKLLETLK",
+    "label": 0,
+    "source_rows": [
+      1321
+    ]
+  },
+  {
+    "sequence": "GILSSFKGVAKGVAKDLAGKLLETLKCKITGC",
+    "label": 0,
+    "source_rows": [
+      835
+    ]
+  },
+  {
+    "sequence": "GILSSIKGVAKGVAKNVAAQLLDTLKCKITGC",
+    "label": 0,
+    "source_rows": [
+      191
+    ]
+  },
+  {
+    "sequence": "GILSSLLKKLKKWIAK",
+    "label": 0,
+    "source_rows": [
+      1432
+    ]
+  },
+  {
+    "sequence": "GILSSLLKKWKKIIAK",
+    "label": 0,
+    "source_rows": [
+      317
+    ]
+  },
+  {
+    "sequence": "GILSSLWKKLKKIIAK",
+    "label": 0,
+    "source_rows": [
+      763
+    ]
+  },
+  {
+    "sequence": "GILSSLWKKLKKWIAK",
+    "label": 1,
+    "source_rows": [
+      441
+    ]
+  },
+  {
+    "sequence": "GILSSLWKKPKKIIAK",
+    "label": 0,
+    "source_rows": [
+      523
+    ]
+  },
+  {
+    "sequence": "GILSTFKGLAKGVAKDLAGNLLDKFKCKITGC",
+    "label": 0,
+    "source_rows": [
+      1169
+    ]
+  },
+  {
+    "sequence": "GIMDTIKGAAKDLAGQLLDKLKCKITKC",
+    "label": 0,
+    "source_rows": [
+      886
+    ]
+  },
+  {
+    "sequence": "GIMDTLKNLAKTAGKGALQSLLNKASCKLSGQC",
+    "label": 1,
+    "source_rows": [
+      394
+    ]
+  },
+  {
+    "sequence": "GIMISLMKKLAAHIAK",
+    "label": 0,
+    "source_rows": [
+      253
+    ]
+  },
+  {
+    "sequence": "GIMNTVKDVATGVATHLLNMVKCKITGC",
+    "label": 1,
+    "source_rows": [
+      768
+    ]
+  },
+  {
+    "sequence": "GIMRVFKGVLKTAGKSVAKNVAGSFLDRLKCKISGGC",
+    "label": 1,
+    "source_rows": [
+      445
+    ]
+  },
+  {
+    "sequence": "GIMSSLMKKLAAHIAK",
+    "label": 0,
+    "source_rows": [
+      1136
+    ]
+  },
+  {
+    "sequence": "GIMSSLMKKLAAHIKK",
+    "label": 0,
+    "source_rows": [
+      1177
+    ]
+  },
+  {
+    "sequence": "GIMSSLMKKLAAIIAK",
+    "label": 1,
+    "source_rows": [
+      1068
+    ]
+  },
+  {
+    "sequence": "GIMSSLMKKLAKHIAK",
+    "label": 0,
+    "source_rows": [
+      723
+    ]
+  },
+  {
+    "sequence": "GIMSSLMKKLAKIIAK",
+    "label": 1,
+    "source_rows": [
+      250
+    ]
+  },
+  {
+    "sequence": "GIMSSLMKKLKKHIAK",
+    "label": 0,
+    "source_rows": [
+      1015
+    ]
+  },
+  {
+    "sequence": "GIMSSLMKKLKKIIKK",
+    "label": 0,
+    "source_rows": [
+      379
+    ]
+  },
+  {
+    "sequence": "GINLKRKGNIMKKVKNIFHKIANADPMIWGYVMLSESK",
+    "label": 1,
+    "source_rows": [
+      801
+    ]
+  },
+  {
+    "sequence": "GIPCAESCVWIPCTITALMGCSCKNNVCYNN",
+    "label": 1,
+    "source_rows": [
+      33
+    ]
+  },
+  {
+    "sequence": "GIPCAESCVYIPCTVTALLGCSCSNRVCYN",
+    "label": 1,
+    "source_rows": [
+      880
+    ]
+  },
+  {
+    "sequence": "GIPCGESCVFIPCITAAIGCSCKSKVCYRN",
+    "label": 1,
+    "source_rows": [
+      1186
+    ]
+  },
+  {
+    "sequence": "GIPCGESCVFIPCITGAIGCSCKSKVCYRN",
+    "label": 1,
+    "source_rows": [
+      301
+    ]
+  },
+  {
+    "sequence": "GIPCGESCVWIPCISAALGCSCKNKVCYRN",
+    "label": 0,
+    "source_rows": [
+      354
+    ]
+  },
+  {
+    "sequence": "GIPCGESCVWIPCISSAIGCSCKSKVCYRN",
+    "label": 1,
+    "source_rows": [
+      892
+    ]
+  },
+  {
+    "sequence": "GIPCGESCVWIPCITSAIGCSCKSKVCYRN",
+    "label": 1,
+    "source_rows": [
+      707
+    ]
+  },
+  {
+    "sequence": "GIRCPKSWKCKAFKQRVLKRLLAMLRQHAF",
+    "label": 1,
+    "source_rows": [
+      1242
+    ]
+  },
+  {
+    "sequence": "GIRKWFKKAAHVGKEVGKVALNACL",
+    "label": 1,
+    "source_rows": [
+      566
+    ]
+  },
+  {
+    "sequence": "GIRKWFKKAAHVGKKVGKVALNAYL",
+    "label": 1,
+    "source_rows": [
+      1485
+    ]
+  },
+  {
+    "sequence": "GIVKKIVKKIVKKI",
+    "label": 0,
+    "source_rows": [
+      1122
+    ]
+  },
+  {
+    "sequence": "GIWDTIKSMGKVFAGKIKQNL",
+    "label": 0,
+    "source_rows": [
+      143
+    ]
+  },
+  {
+    "sequence": "GIWDTIKSMGKVFAGKILQNL",
+    "label": 1,
+    "source_rows": [
+      834
+    ]
+  },
+  {
+    "sequence": "GIWDTIKSMGKVFAGLILQNL",
+    "label": 1,
+    "source_rows": [
+      49
+    ]
+  },
+  {
+    "sequence": "GIWKKWIKKVVNVLKNLF",
+    "label": 1,
+    "source_rows": [
+      1512
+    ]
+  },
+  {
+    "sequence": "GIWKKWIKKWLKKLKNLF",
+    "label": 0,
+    "source_rows": [
+      1012
+    ]
+  },
+  {
+    "sequence": "GIWKKWIKKWLKKLLKKLWKKG",
+    "label": 1,
+    "source_rows": [
+      761
+    ]
+  },
+  {
+    "sequence": "GIWKKWIKKWLNVLKNLF",
+    "label": 1,
+    "source_rows": [
+      198
+    ]
+  },
+  {
+    "sequence": "GIWKTIKSMGKVFAGAIKQNL",
+    "label": 0,
+    "source_rows": [
+      1052
+    ]
+  },
+  {
+    "sequence": "GIWKTIKSMGKVFAGAILQNL",
+    "label": 1,
+    "source_rows": [
+      989
+    ]
+  },
+  {
+    "sequence": "GIWKTIKSMGKVFAGKIKQNL",
+    "label": 0,
+    "source_rows": [
+      439
+    ]
+  },
+  {
+    "sequence": "GIWKTIKSMGKVFAGKILQNL",
+    "label": 1,
+    "source_rows": [
+      543
+    ]
+  },
+  {
+    "sequence": "GKAMSLLKHILK",
+    "label": 0,
+    "source_rows": [
+      1319
+    ]
+  },
+  {
+    "sequence": "GKFMSLLKHILK",
+    "label": 0,
+    "source_rows": [
+      901
+    ]
+  },
+  {
+    "sequence": "GKGRWLERIGKAGGIIIGGALDHL",
+    "label": 0,
+    "source_rows": [
+      1494
+    ]
+  },
+  {
+    "sequence": "GKIIKLKASLKLL",
+    "label": 0,
+    "source_rows": [
+      68
+    ]
+  },
+  {
+    "sequence": "GKIIKVVK",
+    "label": 0,
+    "source_rows": [
+      1296
+    ]
+  },
+  {
+    "sequence": "GKILKYLLYLLRKYANLIIR",
+    "label": 0,
+    "source_rows": [
+      1147
+    ]
+  },
+  {
+    "sequence": "GKLEVLHSTKKFAKGFITGLTGQ",
+    "label": 0,
+    "source_rows": [
+      1020
+    ]
+  },
+  {
+    "sequence": "GKLFKKILKIL",
+    "label": 0,
+    "source_rows": [
+      458
+    ]
+  },
+  {
+    "sequence": "GKLGPLLKIAAKVGSNLL",
+    "label": 0,
+    "source_rows": [
+      57
+    ]
+  },
+  {
+    "sequence": "GKLIKKFGRKAISYAVKKARGKH",
+    "label": 1,
+    "source_rows": [
+      417
+    ]
+  },
+  {
+    "sequence": "GKLSSLWKKLKKIIAK",
+    "label": 0,
+    "source_rows": [
+      1277
+    ]
+  },
+  {
+    "sequence": "GKPTCGETCFKGKCYTPGCTCSYPLCKKD",
+    "label": 1,
+    "source_rows": [
+      766
+    ]
+  },
+  {
+    "sequence": "GKVLDKFGKIVGKVLKQLKKVSAVAKV",
+    "label": 0,
+    "source_rows": [
+      1374
+    ]
+  },
+  {
+    "sequence": "GKWKKILGHLIR",
+    "label": 0,
+    "source_rows": [
+      793
+    ]
+  },
+  {
+    "sequence": "GKWKKLLKKILK",
+    "label": 0,
+    "source_rows": [
+      1290
+    ]
+  },
+  {
+    "sequence": "GKWKSLLKHILK",
+    "label": 0,
+    "source_rows": [
+      205
+    ]
+  },
+  {
+    "sequence": "GKWLKLLKKILK",
+    "label": 0,
+    "source_rows": [
+      866
+    ]
+  },
+  {
+    "sequence": "GKWLSLLKHILK",
+    "label": 1,
+    "source_rows": [
+      1495
+    ]
+  },
+  {
+    "sequence": "GKWMHLLKHILK",
+    "label": 0,
+    "source_rows": [
+      435
+    ]
+  },
+  {
+    "sequence": "GKWMKLLKHILK",
+    "label": 1,
+    "source_rows": [
+      613
+    ]
+  },
+  {
+    "sequence": "GKWMKLLKKILK",
+    "label": 0,
+    "source_rows": [
+      344
+    ]
+  },
+  {
+    "sequence": "GKWMKMLKKILK",
+    "label": 0,
+    "source_rows": [
+      1506
+    ]
+  },
+  {
+    "sequence": "GKWMSFLKHILK",
+    "label": 1,
+    "source_rows": [
+      882
+    ]
+  },
+  {
+    "sequence": "GKWMSKLKHILK",
+    "label": 0,
+    "source_rows": [
+      128
+    ]
+  },
+  {
+    "sequence": "GKWMSLLKHILK",
+    "label": 1,
+    "source_rows": [
+      982
+    ]
+  },
+  {
+    "sequence": "GKWMSLLKHIWK",
+    "label": 1,
+    "source_rows": [
+      397
+    ]
+  },
+  {
+    "sequence": "GKWMSLLKHWLK",
+    "label": 0,
+    "source_rows": [
+      727
+    ]
+  },
+  {
+    "sequence": "GKWMSLLKKILK",
+    "label": 0,
+    "source_rows": [
+      891
+    ]
+  },
+  {
+    "sequence": "GKWMSLWKHILK",
+    "label": 0,
+    "source_rows": [
+      1391
+    ]
+  },
+  {
+    "sequence": "GKWMSWLKHILK",
+    "label": 1,
+    "source_rows": [
+      237
+    ]
+  },
+  {
+    "sequence": "GKWQSLLKHILK",
+    "label": 0,
+    "source_rows": [
+      1518
+    ]
+  },
+  {
+    "sequence": "GKWVKLLKKILK",
+    "label": 0,
+    "source_rows": [
+      820
+    ]
+  },
+  {
+    "sequence": "GKYTCGETCFKGKCYTPGCTCSYPICKKD",
+    "label": 1,
+    "source_rows": [
+      586
+    ]
+  },
+  {
+    "sequence": "GLAANFLPKIFCKITRKC",
+    "label": 1,
+    "source_rows": [
+      797
+    ]
+  },
+  {
+    "sequence": "GLADYWRTAFRANFANLGPGIRCKSARC",
+    "label": 1,
+    "source_rows": [
+      1174
+    ]
+  },
+  {
+    "sequence": "GLASLLSLLGKLL",
+    "label": 1,
+    "source_rows": [
+      769
+    ]
+  },
+  {
+    "sequence": "GLASTIGSLLGKFAKGGAQAFLQPK",
+    "label": 0,
+    "source_rows": [
+      377
+    ]
+  },
+  {
+    "sequence": "GLFDIIKKIAESF",
+    "label": 0,
+    "source_rows": [
+      199
+    ]
+  },
+  {
+    "sequence": "GLFDIVKKVLRLLK",
+    "label": 1,
+    "source_rows": [
+      683
+    ]
+  },
+  {
+    "sequence": "GLFDIWAWWRWRR",
+    "label": 0,
+    "source_rows": [
+      1449
+    ]
+  },
+  {
+    "sequence": "GLFDIWKKLRWRR",
+    "label": 0,
+    "source_rows": [
+      560
+    ]
+  },
+  {
+    "sequence": "GLFDIWKKWRWRR",
+    "label": 0,
+    "source_rows": [
+      1535
+    ]
+  },
+  {
+    "sequence": "GLFDIWKWWRWRR",
+    "label": 0,
+    "source_rows": [
+      168
+    ]
+  },
+  {
+    "sequence": "GLFDKWAWWRWRR",
+    "label": 0,
+    "source_rows": [
+      1539
+    ]
+  },
+  {
+    "sequence": "GLFDVIKKLLKKIGGL",
+    "label": 1,
+    "source_rows": [
+      1477
+    ]
+  },
+  {
+    "sequence": "GLFDVIKKVLKKIGGL",
+    "label": 1,
+    "source_rows": [
+      6
+    ]
+  },
+  {
+    "sequence": "GLFDVIRKVASVIGGL",
+    "label": 1,
+    "source_rows": [
+      158
+    ]
+  },
+  {
+    "sequence": "GLFDVIRRVASVIGGL",
+    "label": 1,
+    "source_rows": [
+      1269
+    ]
+  },
+  {
+    "sequence": "GLFDVVKGVLKGVGKNVAGSLLEQLKCKLSGGC",
+    "label": 1,
+    "source_rows": [
+      1428
+    ]
+  },
+  {
+    "sequence": "GLFEVIKKVASVIGGL",
+    "label": 1,
+    "source_rows": [
+      333
+    ]
+  },
+  {
+    "sequence": "GLFGKILGVGKKVLCGLSGMC",
+    "label": 1,
+    "source_rows": [
+      50
+    ]
+  },
+  {
+    "sequence": "GLFGKLIKKFGRKAISYAVKKARGKH",
+    "label": 1,
+    "source_rows": [
+      1267
+    ]
+  },
+  {
+    "sequence": "GLFGKLIKKKGRKAISYAVKKARGKH",
+    "label": 1,
+    "source_rows": [
+      104
+    ]
+  },
+  {
+    "sequence": "GLFTLIKGAAKLIGKTVAKEAGKTGLELMACKITNQC",
+    "label": 1,
+    "source_rows": [
+      118
+    ]
+  },
+  {
+    "sequence": "GLGKFLHSAKRFGKAFVGEAMNS",
+    "label": 0,
+    "source_rows": [
+      489
+    ]
+  },
+  {
+    "sequence": "GLGSLLGKAFKFGLKTVGKMMGGAPREE",
+    "label": 0,
+    "source_rows": [
+      188
+    ]
+  },
+  {
+    "sequence": "GLGSLLGKALKFGLKAAGKFMGGEPQQ",
+    "label": 0,
+    "source_rows": [
+      567
+    ]
+  },
+  {
+    "sequence": "GLKALKKVFKGIHKAIKLINKHVK",
+    "label": 1,
+    "source_rows": [
+      686
+    ]
+  },
+  {
+    "sequence": "GLKALKKVFKGIHKAIKLINKHVQ",
+    "label": 0,
+    "source_rows": [
+      116
+    ]
+  },
+  {
+    "sequence": "GLKALKKVFKGIHKAIKLINNHVQ",
+    "label": 0,
+    "source_rows": [
+      176
+    ]
+  },
+  {
+    "sequence": "GLKALKKVFQGIHEAIKLINNHVQ",
+    "label": 0,
+    "source_rows": [
+      231
+    ]
+  },
+  {
+    "sequence": "GLKALKKVFQGIHKAIKLINNHVQ",
+    "label": 0,
+    "source_rows": [
+      809
+    ]
+  },
+  {
+    "sequence": "GLKDIFKAGLGSLVKGIAAHVAN",
+    "label": 0,
+    "source_rows": [
+      1491
+    ]
+  },
+  {
+    "sequence": "GLKDWWNKHKDKIVKVVKEMGKAGINAA",
+    "label": 1,
+    "source_rows": [
+      1283
+    ]
+  },
+  {
+    "sequence": "GLKEIFKAGLGSLVKGIAAHVAN",
+    "label": 0,
+    "source_rows": [
+      1231
+    ]
+  },
+  {
+    "sequence": "GLKEIFKAGLGSLVKGIAAHVAS",
+    "label": 0,
+    "source_rows": [
+      579
+    ]
+  },
+  {
+    "sequence": "GLKEVAHSAKKFAKGFISGLTGS",
+    "label": 0,
+    "source_rows": [
+      1063
+    ]
+  },
+  {
+    "sequence": "GLKEVLHSTKKFAKGFITGLTGQ",
+    "label": 0,
+    "source_rows": [
+      865
+    ]
+  },
+  {
+    "sequence": "GLKKIFKAGLGSLKKGIAAHVAS",
+    "label": 0,
+    "source_rows": [
+      762
+    ]
+  },
+  {
+    "sequence": "GLKKIFKAGLGSLVKGIAAHVAS",
+    "label": 0,
+    "source_rows": [
+      658
+    ]
+  },
+  {
+    "sequence": "GLKKIFKAGLGSLVKGIKAHVAS",
+    "label": 0,
+    "source_rows": [
+      258
+    ]
+  },
+  {
+    "sequence": "GLKKIFKKGLGSLVKGIAAHVAS",
+    "label": 0,
+    "source_rows": [
+      106
+    ]
+  },
+  {
+    "sequence": "GLKKWFKKAVHVGKKVGKVALNAYL",
+    "label": 1,
+    "source_rows": [
+      1040
+    ]
+  },
+  {
+    "sequence": "GLKLLLKLGLKLL",
+    "label": 1,
+    "source_rows": [
+      1400
+    ]
+  },
+  {
+    "sequence": "GLLALISWIKRKRQQ",
+    "label": 1,
+    "source_rows": [
+      652
+    ]
+  },
+  {
+    "sequence": "GLLDFFKGAGKELLTHLASQI",
+    "label": 0,
+    "source_rows": [
+      318
+    ]
+  },
+  {
+    "sequence": "GLLDFVTGVGKDIFAQLIKQI",
+    "label": 1,
+    "source_rows": [
+      785
+    ]
+  },
+  {
+    "sequence": "GLLDLLKGAGKGLLTHLASQI",
+    "label": 0,
+    "source_rows": [
+      444
+    ]
+  },
+  {
+    "sequence": "GLLDLLKLLLKAAG",
+    "label": 1,
+    "source_rows": [
+      574
+    ]
+  },
+  {
+    "sequence": "GLLDTFKNLALNAAKSAGVSVLNSLSCKLSKTC",
+    "label": 0,
+    "source_rows": [
+      1411
+    ]
+  },
+  {
+    "sequence": "GLLGKLLKIAAKVGKKLL",
+    "label": 1,
+    "source_rows": [
+      593
+    ]
+  },
+  {
+    "sequence": "GLLGKLLKIAAKVGSNLL",
+    "label": 1,
+    "source_rows": [
+      1229
+    ]
+  },
+  {
+    "sequence": "GLLGLLGSVVSHVVPAIVGHF",
+    "label": 1,
+    "source_rows": [
+      807
+    ]
+  },
+  {
+    "sequence": "GLLGPLLKIAAKVGKKLL",
+    "label": 1,
+    "source_rows": [
+      1410
+    ]
+  },
+  {
+    "sequence": "GLLGPLLKIAAKVGKNLL",
+    "label": 0,
+    "source_rows": [
+      1066
+    ]
+  },
+  {
+    "sequence": "GLLGPLLKIAAKVGSKLL",
+    "label": 1,
+    "source_rows": [
+      1459
+    ]
+  },
+  {
+    "sequence": "GLLGPLLKIAAKVGSNLL",
+    "label": 0,
+    "source_rows": [
+      1034
+    ]
+  },
+  {
+    "sequence": "GLLGPLLKIAKKVGSNLL",
+    "label": 0,
+    "source_rows": [
+      994
+    ]
+  },
+  {
+    "sequence": "GLLKAIKTLL",
+    "label": 0,
+    "source_rows": [
+      1241
+    ]
+  },
+  {
+    "sequence": "GLLKFIKKLL",
+    "label": 1,
+    "source_rows": [
+      1272
+    ]
+  },
+  {
+    "sequence": "GLLKFIKWLL",
+    "label": 1,
+    "source_rows": [
+      1415
+    ]
+  },
+  {
+    "sequence": "GLLKKIKKLL",
+    "label": 0,
+    "source_rows": [
+      542
+    ]
+  },
+  {
+    "sequence": "GLLKKIKRLL",
+    "label": 0,
+    "source_rows": [
+      758
+    ]
+  },
+  {
+    "sequence": "GLLKKIKWLL",
+    "label": 0,
+    "source_rows": [
+      221
+    ]
+  },
+  {
+    "sequence": "GLLKKLLKIAAKVGKKLL",
+    "label": 1,
+    "source_rows": [
+      340
+    ]
+  },
+  {
+    "sequence": "GLLKKLLKKLLKKL",
+    "label": 1,
+    "source_rows": [
+      415
+    ]
+  },
+  {
+    "sequence": "GLLKLIKTLL",
+    "label": 1,
+    "source_rows": [
+      399
+    ]
+  },
+  {
+    "sequence": "GLLKPLLKIAAKVGSNLL",
+    "label": 0,
+    "source_rows": [
+      867
+    ]
+  },
+  {
+    "sequence": "GLLKRIATLL",
+    "label": 0,
+    "source_rows": [
+      146
+    ]
+  },
+  {
+    "sequence": "GLLKRIKALL",
+    "label": 1,
+    "source_rows": [
+      1334
+    ]
+  },
+  {
+    "sequence": "GLLKRIKILL",
+    "label": 1,
+    "source_rows": [
+      1537
+    ]
+  },
+  {
+    "sequence": "GLLKRIKKLL",
+    "label": 0,
+    "source_rows": [
+      1182
+    ]
+  },
+  {
+    "sequence": "GLLKRIKKLLKKIKKLL",
+    "label": 1,
+    "source_rows": [
+      496
+    ]
+  },
+  {
+    "sequence": "GLLKRIKLLL",
+    "label": 1,
+    "source_rows": [
+      1444
+    ]
+  },
+  {
+    "sequence": "GLLKRIKNLL",
+    "label": 0,
+    "source_rows": [
+      245
+    ]
+  },
+  {
+    "sequence": "GLLKRIKTLL",
+    "label": 0,
+    "source_rows": [
+      883
+    ]
+  },
+  {
+    "sequence": "GLLKVIKTLL",
+    "label": 1,
+    "source_rows": [
+      596
+    ]
+  },
+  {
+    "sequence": "GLLKVIKVLL",
+    "label": 1,
+    "source_rows": [
+      1245
+    ]
+  },
+  {
+    "sequence": "GLLKWIKTLL",
+    "label": 1,
+    "source_rows": [
+      584
+    ]
+  },
+  {
+    "sequence": "GLLPLLSLLGKLL",
+    "label": 1,
+    "source_rows": [
+      1396
+    ]
+  },
+  {
+    "sequence": "GLLRASSKWGRKYYVDLAGCAKA",
+    "label": 0,
+    "source_rows": [
+      1274
+    ]
+  },
+  {
+    "sequence": "GLLRASSVWGRKYYVDLAGCAKA",
+    "label": 0,
+    "source_rows": [
+      208
+    ]
+  },
+  {
+    "sequence": "GLLSAAKAAGKLL",
+    "label": 1,
+    "source_rows": [
+      1018
+    ]
+  },
+  {
+    "sequence": "GLLSALKAAGKLL",
+    "label": 1,
+    "source_rows": [
+      1474
+    ]
+  },
+  {
+    "sequence": "GLLSALKALGKLL",
+    "label": 1,
+    "source_rows": [
+      1142
+    ]
+  },
+  {
+    "sequence": "GLLSALSLLGKLL",
+    "label": 1,
+    "source_rows": [
+      220
+    ]
+  },
+  {
+    "sequence": "GLLSGILGAGKNIVCGLSGLC",
+    "label": 0,
+    "source_rows": [
+      35
+    ]
+  },
+  {
+    "sequence": "GLLSLASLLGKLL",
+    "label": 1,
+    "source_rows": [
+      644
+    ]
+  },
+  {
+    "sequence": "GLLSLLSALGKLL",
+    "label": 1,
+    "source_rows": [
+      1133
+    ]
+  },
+  {
+    "sequence": "GLLSLLSLAGKLL",
+    "label": 1,
+    "source_rows": [
+      708
+    ]
+  },
+  {
+    "sequence": "GLLSLLSLGLKLL",
+    "label": 1,
+    "source_rows": [
+      369
+    ]
+  },
+  {
+    "sequence": "GLLSLSLGKLL",
+    "label": 0,
+    "source_rows": [
+      151
+    ]
+  },
+  {
+    "sequence": "GLLSLSLLGKLL",
+    "label": 1,
+    "source_rows": [
+      32
+    ]
+  },
+  {
+    "sequence": "GLLSNVAGLLKQFAKGGVNAVLNPK",
+    "label": 0,
+    "source_rows": [
+      1515
+    ]
+  },
+  {
+    "sequence": "GLLSSLGKLL",
+    "label": 0,
+    "source_rows": [
+      363
+    ]
+  },
+  {
+    "sequence": "GLLSSLLLLGKLL",
+    "label": 1,
+    "source_rows": [
+      548
+    ]
+  },
+  {
+    "sequence": "GLLSVLKGVLKTAGKHIFKNVGGSLLDQAKCKISGEC",
+    "label": 1,
+    "source_rows": [
+      172
+    ]
+  },
+  {
+    "sequence": "GLLSVLKGVLKTTGKHIFKNVGGSLLDQAKCKISGQC",
+    "label": 1,
+    "source_rows": [
+      393
+    ]
+  },
+  {
+    "sequence": "GLLTRIKTLL",
+    "label": 0,
+    "source_rows": [
+      181
+    ]
+  },
+  {
+    "sequence": "GLMDTIKGVAKNVAASLLEKLKCKVTGC",
+    "label": 0,
+    "source_rows": [
+      1532
+    ]
+  },
+  {
+    "sequence": "GLMDTIKGVAKTVAASWLDKLKCKITGC",
+    "label": 0,
+    "source_rows": [
+      9
+    ]
+  },
+  {
+    "sequence": "GLMDTVKNAAKNLAGQLLDTIKCKMTGC",
+    "label": 1,
+    "source_rows": [
+      903
+    ]
+  },
+  {
+    "sequence": "GLMDTVKNAAKNLAGQMLDKLKCKITGSC",
+    "label": 1,
+    "source_rows": [
+      1095
+    ]
+  },
+  {
+    "sequence": "GLMDVFKGAAKNLLASALDKIRCKVTKC",
+    "label": 0,
+    "source_rows": [
+      1188
+    ]
+  },
+  {
+    "sequence": "GLMKRIKTML",
+    "label": 0,
+    "source_rows": [
+      1533
+    ]
+  },
+  {
+    "sequence": "GLMSLFKGVLKTAGKHIFKNVGGSLLDQAKCKITGEC",
+    "label": 1,
+    "source_rows": [
+      624
+    ]
+  },
+  {
+    "sequence": "GLMSLFRGVLKTAGKHIFKNVGGSLLDQAKCKITGEC",
+    "label": 1,
+    "source_rows": [
+      134
+    ]
+  },
+  {
+    "sequence": "GLMSVLKGVLKTAGKHIFKNVGGSLLDQAKCKISGQC",
+    "label": 0,
+    "source_rows": [
+      1346
+    ]
+  },
+  {
+    "sequence": "GLMSVLKGVLKTAGKHIFKNVGGSLLDQAKCKITGQC",
+    "label": 1,
+    "source_rows": [
+      897
+    ]
+  },
+  {
+    "sequence": "GLNAFKKVFQGIHEAIKLINNHVQ",
+    "label": 0,
+    "source_rows": [
+      1292
+    ]
+  },
+  {
+    "sequence": "GLNALKKFFQGIHEAIKLINNHVQ",
+    "label": 0,
+    "source_rows": [
+      1258
+    ]
+  },
+  {
+    "sequence": "GLNALKKVFKGIHEAIKLINNHVQ",
+    "label": 0,
+    "source_rows": [
+      1270
+    ]
+  },
+  {
+    "sequence": "GLNALKKVFQGFHEAIKLINNHVQ",
+    "label": 0,
+    "source_rows": [
+      1172
+    ]
+  },
+  {
+    "sequence": "GLNALKKVFQGIHEAFKLINNHVQ",
+    "label": 0,
+    "source_rows": [
+      513
+    ]
+  },
+  {
+    "sequence": "GLNALKKVFQGIHEAIKLFNNHVQ",
+    "label": 0,
+    "source_rows": [
+      966
+    ]
+  },
+  {
+    "sequence": "GLNALKKVFQGIHEAIKLINKHVQ",
+    "label": 0,
+    "source_rows": [
+      1295
+    ]
+  },
+  {
+    "sequence": "GLNALKKVFQGIHEAIKLINNHVK",
+    "label": 0,
+    "source_rows": [
+      1135
+    ]
+  },
+  {
+    "sequence": "GLPALISWIKRKRGG",
+    "label": 0,
+    "source_rows": [
+      501
+    ]
+  },
+  {
+    "sequence": "GLPALISWIKRKRL",
+    "label": 0,
+    "source_rows": [
+      0
+    ]
+  },
+  {
+    "sequence": "GLPALISWIKRKRQ",
+    "label": 1,
+    "source_rows": [
+      933
+    ]
+  },
+  {
+    "sequence": "GLPALISWIKRKRQQ",
+    "label": 0,
+    "source_rows": [
+      532
+    ]
+  },
+  {
+    "sequence": "GLPALISWIKRKRQQG",
+    "label": 1,
+    "source_rows": [
+      345
+    ]
+  },
+  {
+    "sequence": "GLPICGETCVGGTCNTPGCSCSWPVCTRN",
+    "label": 1,
+    "source_rows": [
+      508
+    ]
+  },
+  {
+    "sequence": "GLPLLISWIKRKRQQ",
+    "label": 0,
+    "source_rows": [
+      576
+    ]
+  },
+  {
+    "sequence": "GLPTCGETCFGGTCNTPGCSCSSWPICTRN",
+    "label": 1,
+    "source_rows": [
+      1232
+    ]
+  },
+  {
+    "sequence": "GLPTCGETCFKGKCYTPGCSCSYPICKKD",
+    "label": 1,
+    "source_rows": [
+      1490
+    ]
+  },
+  {
+    "sequence": "GLPTCGETCFKGKCYTPGCSCSYPICKKN",
+    "label": 1,
+    "source_rows": [
+      1114
+    ]
+  },
+  {
+    "sequence": "GLPTCGETCTLGKCNTPKCTCNWPICYKD",
+    "label": 1,
+    "source_rows": [
+      967
+    ]
+  },
+  {
+    "sequence": "GLPTCGETCTLGKCNTPKCTCNWPICYKN",
+    "label": 1,
+    "source_rows": [
+      970
+    ]
+  },
+  {
+    "sequence": "GLPTCGETCTLGTCYVPDCSCSWPICMKN",
+    "label": 1,
+    "source_rows": [
+      556
+    ]
+  },
+  {
+    "sequence": "GLPVCGETCFGGTCNTPGCSCETWPVCSRN",
+    "label": 1,
+    "source_rows": [
+      1074
+    ]
+  },
+  {
+    "sequence": "GLPVCGETCFGGTCNTPGCSCTWPICTRD",
+    "label": 1,
+    "source_rows": [
+      998
+    ]
+  },
+  {
+    "sequence": "GLPVCGETCFTGSCYTPGCSCNWPVCNRN",
+    "label": 1,
+    "source_rows": [
+      616
+    ]
+  },
+  {
+    "sequence": "GLPVCGETCTLGTCYTQGCTCSWPICKRN",
+    "label": 1,
+    "source_rows": [
+      21
+    ]
+  },
+  {
+    "sequence": "GLPVCGETCVGGTCNTPGCSCSWPVCFRN",
+    "label": 1,
+    "source_rows": [
+      606
+    ]
+  },
+  {
+    "sequence": "GLPVCGETCVGGTCNTPGCSCSWPVCTRN",
+    "label": 1,
+    "source_rows": [
+      285
+    ]
+  },
+  {
+    "sequence": "GLPVCGETCVGGTCNTPGCTCSWPVCTRN",
+    "label": 1,
+    "source_rows": [
+      525
+    ]
+  },
+  {
+    "sequence": "GLPVCGETCVGGTCNTPGCTCSWWPVCTRN",
+    "label": 1,
+    "source_rows": [
+      1219
+    ]
+  },
+  {
+    "sequence": "GLPVCGETCVGGTCYTPGCTCSWPVCTRN",
+    "label": 1,
+    "source_rows": [
+      698
+    ]
+  },
+  {
+    "sequence": "GLRSKIWLWVLLMIWQESNKFKKM",
+    "label": 0,
+    "source_rows": [
+      1373
+    ]
+  },
+  {
+    "sequence": "GLSLLLKLGLKLL",
+    "label": 1,
+    "source_rows": [
+      356
+    ]
+  },
+  {
+    "sequence": "GLSLLLSLGLKLL",
+    "label": 0,
+    "source_rows": [
+      319
+    ]
+  },
+  {
+    "sequence": "GLSLLLSLKLKLL",
+    "label": 0,
+    "source_rows": [
+      1151
+    ]
+  },
+  {
+    "sequence": "GLSLLLSLLGKLL",
+    "label": 1,
+    "source_rows": [
+      605
+    ]
+  },
+  {
+    "sequence": "GLSLLLSLLLGKL",
+    "label": 1,
+    "source_rows": [
+      1193
+    ]
+  },
+  {
+    "sequence": "GLSSLGKLL",
+    "label": 0,
+    "source_rows": [
+      54
+    ]
+  },
+  {
+    "sequence": "GLVGTLLGHIGKAILG",
+    "label": 0,
+    "source_rows": [
+      581
+    ]
+  },
+  {
+    "sequence": "GLVGTLLGHIGKAILS",
+    "label": 0,
+    "source_rows": [
+      183
+    ]
+  },
+  {
+    "sequence": "GLWDSIKNFGKTIALNVMDKIKCKIGGGCPP",
+    "label": 1,
+    "source_rows": [
+      937
+    ]
+  },
+  {
+    "sequence": "GLWDTIKQAGKKFFLNVLDKIRCKVAGGCRT",
+    "label": 1,
+    "source_rows": [
+      446
+    ]
+  },
+  {
+    "sequence": "GLWKKIKNVAKAAGKAAKGAL",
+    "label": 0,
+    "source_rows": [
+      184
+    ]
+  },
+  {
+    "sequence": "GLWKKIKNVAKAAGKAALGAL",
+    "label": 1,
+    "source_rows": [
+      337
+    ]
+  },
+  {
+    "sequence": "GLWKSLFKNVGKAAGKAALNAVTDMVNQ",
+    "label": 0,
+    "source_rows": [
+      752
+    ]
+  },
+  {
+    "sequence": "GLWNSIKIAGKKLFVNVLDKIRCKVAGGC",
+    "label": 1,
+    "source_rows": [
+      1436
+    ]
+  },
+  {
+    "sequence": "GLWNTIKEAGKKFAINVLDKIRCGIAGGCKT",
+    "label": 1,
+    "source_rows": [
+      219
+    ]
+  },
+  {
+    "sequence": "GLWRVIRKVASVIGGL",
+    "label": 1,
+    "source_rows": [
+      1046
+    ]
+  },
+  {
+    "sequence": "GLWSKIKDAAKTAGKAALGFVNEMV",
+    "label": 0,
+    "source_rows": [
+      1273
+    ]
+  },
+  {
+    "sequence": "GLWSKIKEAAKAAGKAALNAVTGLVNQGDQPS",
+    "label": 0,
+    "source_rows": [
+      695
+    ]
+  },
+  {
+    "sequence": "GLWSKIKEVGKEAAKAAAKAAGKAALGAVSEAV",
+    "label": 0,
+    "source_rows": [
+      648
+    ]
+  },
+  {
+    "sequence": "GLWSKIKKAAKTAGKAALGFVNKMV",
+    "label": 0,
+    "source_rows": [
+      41
+    ]
+  },
+  {
+    "sequence": "GMAKLLAKVLPHVVKLIK",
+    "label": 0,
+    "source_rows": [
+      428
+    ]
+  },
+  {
+    "sequence": "GMASKAGAIAGKIAKVALKAL",
+    "label": 1,
+    "source_rows": [
+      1146
+    ]
+  },
+  {
+    "sequence": "GMASKAGSVAGKIAKFALGAL",
+    "label": 0,
+    "source_rows": [
+      387
+    ]
+  },
+  {
+    "sequence": "GMASKAGSVLGKITKIALGAL",
+    "label": 0,
+    "source_rows": [
+      1412
+    ]
+  },
+  {
+    "sequence": "GMASKAGSVLGKVAKVALKAAL",
+    "label": 0,
+    "source_rows": [
+      570
+    ]
+  },
+  {
+    "sequence": "GMASKLAKVLPHVVKLIK",
+    "label": 0,
+    "source_rows": [
+      1071
+    ]
+  },
+  {
+    "sequence": "GMASLLAKVLPHVVKLIK",
+    "label": 0,
+    "source_rows": [
+      400
+    ]
+  },
+  {
+    "sequence": "GMASLWAKVLPHVVKLIK",
+    "label": 0,
+    "source_rows": [
+      1254
+    ]
+  },
+  {
+    "sequence": "GMASTAGSVLGKLAKAVAIGAL",
+    "label": 0,
+    "source_rows": [
+      917
+    ]
+  },
+  {
+    "sequence": "GMATAAGTTLGKLAKFVIGAV",
+    "label": 0,
+    "source_rows": [
+      1511
+    ]
+  },
+  {
+    "sequence": "GMATKAGTAFGKAAKAIIGAAL",
+    "label": 0,
+    "source_rows": [
+      1482
+    ]
+  },
+  {
+    "sequence": "GMATKAGTALGKVAKAVIGAAL",
+    "label": 0,
+    "source_rows": [
+      1145
+    ]
+  },
+  {
+    "sequence": "GMFTNMLKGIGKLAGKAALGAVKTLA",
+    "label": 1,
+    "source_rows": [
+      1421
+    ]
+  },
+  {
+    "sequence": "GMLKRIKTLL",
+    "label": 0,
+    "source_rows": [
+      1332
+    ]
+  },
+  {
+    "sequence": "GMLKRIKTLM",
+    "label": 0,
+    "source_rows": [
+      1497
+    ]
+  },
+  {
+    "sequence": "GMMKRIKTMM",
+    "label": 0,
+    "source_rows": [
+      1431
+    ]
+  },
+  {
+    "sequence": "GMWKKILGHLIR",
+    "label": 1,
+    "source_rows": [
+      186
+    ]
+  },
+  {
+    "sequence": "GMWKKILGKLIR",
+    "label": 0,
+    "source_rows": [
+      462
+    ]
+  },
+  {
+    "sequence": "GMWPKILGHLIR",
+    "label": 0,
+    "source_rows": [
+      626
+    ]
+  },
+  {
+    "sequence": "GMWSKILGHL",
+    "label": 0,
+    "source_rows": [
+      1021
+    ]
+  },
+  {
+    "sequence": "GMWSKILGHLI",
+    "label": 0,
+    "source_rows": [
+      899
+    ]
+  },
+  {
+    "sequence": "GMWSKILGHLIR",
+    "label": 1,
+    "source_rows": [
+      1017
+    ]
+  },
+  {
+    "sequence": "GMWSKILGHLKR",
+    "label": 0,
+    "source_rows": [
+      1220
+    ]
+  },
+  {
+    "sequence": "GMWSKILGKLIR",
+    "label": 0,
+    "source_rows": [
+      102
+    ]
+  },
+  {
+    "sequence": "GMWSKILGPLIR",
+    "label": 0,
+    "source_rows": [
+      1112
+    ]
+  },
+  {
+    "sequence": "GMWSKILPHLIR",
+    "label": 0,
+    "source_rows": [
+      375
+    ]
+  },
+  {
+    "sequence": "GMWSKIPGHLIR",
+    "label": 0,
+    "source_rows": [
+      993
+    ]
+  },
+  {
+    "sequence": "GMWSKLLGHLLR",
+    "label": 1,
+    "source_rows": [
+      1150
+    ]
+  },
+  {
+    "sequence": "GNPLKLFLPSTWVHFFKFLR",
+    "label": 1,
+    "source_rows": [
+      668
+    ]
+  },
+  {
+    "sequence": "GRFKRFRKKFKKLFKKLS",
+    "label": 0,
+    "source_rows": [
+      405
+    ]
+  },
+  {
+    "sequence": "GRFKRFRKKFKKLFKKLSPVIPLLHLG",
+    "label": 0,
+    "source_rows": [
+      162
+    ]
+  },
+  {
+    "sequence": "GRKKRRQRRRGALWKSLLKNVGKA",
+    "label": 0,
+    "source_rows": [
+      534
+    ]
+  },
+  {
+    "sequence": "GRRKRKWLRRIGKGVKIIGGAALDHL",
+    "label": 1,
+    "source_rows": [
+      1028
+    ]
+  },
+  {
+    "sequence": "GSKRWRKFEKRVKKIFEETKEALPVVQGVVGVATAVGRK",
+    "label": 0,
+    "source_rows": [
+      100
+    ]
+  },
+  {
+    "sequence": "GSKRWRKFEKRVKKVFEHTKEALPVIQGVATVVGAVGRR",
+    "label": 0,
+    "source_rows": [
+      1005
+    ]
+  },
+  {
+    "sequence": "GTGLPMSERRKIMLMMR",
+    "label": 0,
+    "source_rows": [
+      154
+    ]
+  },
+  {
+    "sequence": "GTKEWLNKAKDFIKEKGLGMLSAAANAALN",
+    "label": 0,
+    "source_rows": [
+      871
+    ]
+  },
+  {
+    "sequence": "GTLPCGESCVWIPCISSVVGCACKSKVCYKD",
+    "label": 1,
+    "source_rows": [
+      1492
+    ]
+  },
+  {
+    "sequence": "GTPCGESCVYIPCISGVIGCSCTDKVCYLN",
+    "label": 1,
+    "source_rows": [
+      913
+    ]
+  },
+  {
+    "sequence": "GVFGLLAKAALKGASKLIPHLLPSRQQ",
+    "label": 1,
+    "source_rows": [
+      735
+    ]
+  },
+  {
+    "sequence": "GVFRRLRKVTRKVLKKIGKVLKWI",
+    "label": 0,
+    "source_rows": [
+      1424
+    ]
+  },
+  {
+    "sequence": "GVGKFLHSAKKFGQALASEIMKS",
+    "label": 0,
+    "source_rows": [
+      1314
+    ]
+  },
+  {
+    "sequence": "GVGKFLHSAKKFGQALVSEIMKS",
+    "label": 0,
+    "source_rows": [
+      370
+    ]
+  },
+  {
+    "sequence": "GVIDAAKKVVNVLKNLF",
+    "label": 0,
+    "source_rows": [
+      298
+    ]
+  },
+  {
+    "sequence": "GVIIDTLKGAAKTVAAELLRKAH",
+    "label": 0,
+    "source_rows": [
+      1058
+    ]
+  },
+  {
+    "sequence": "GVIIDTLKGAAKTVAAELLRKAHCKLTNSC",
+    "label": 0,
+    "source_rows": [
+      949
+    ]
+  },
+  {
+    "sequence": "GVIIKTLKGAAKTV",
+    "label": 0,
+    "source_rows": [
+      1437
+    ]
+  },
+  {
+    "sequence": "GVIIKTLKGAAKTVAAKLL",
+    "label": 0,
+    "source_rows": [
+      150
+    ]
+  },
+  {
+    "sequence": "GVIKAAKKVVKVLKKLF",
+    "label": 0,
+    "source_rows": [
+      1300
+    ]
+  },
+  {
+    "sequence": "GVIKAAKKVVNVLKNLF",
+    "label": 0,
+    "source_rows": [
+      1127
+    ]
+  },
+  {
+    "sequence": "GVIKSVLKGVAKTVALGML",
+    "label": 0,
+    "source_rows": [
+      279
+    ]
+  },
+  {
+    "sequence": "GVIPCGESCVFIPCISTLLGCSCKNKVCYRN",
+    "label": 0,
+    "source_rows": [
+      210
+    ]
+  },
+  {
+    "sequence": "GVLDTLKNVAIGVAKGAGTGVLKALLCQLDKSC",
+    "label": 1,
+    "source_rows": [
+      919
+    ]
+  },
+  {
+    "sequence": "GVLGTVKNLLIGAGKSAAQSVLKTLSCKLSNDC",
+    "label": 0,
+    "source_rows": [
+      676
+    ]
+  },
+  {
+    "sequence": "GVLKRIKTLV",
+    "label": 0,
+    "source_rows": [
+      790
+    ]
+  },
+  {
+    "sequence": "GVPCGESCVFIPCITGVIGCSCSSNVCYLN",
+    "label": 1,
+    "source_rows": [
+      69
+    ]
+  },
+  {
+    "sequence": "GVPICGETCTLGTCYTAGCSCSWPVCTRN",
+    "label": 1,
+    "source_rows": [
+      936
+    ]
+  },
+  {
+    "sequence": "GVSKILHSAGKFGKAFLGEIMKS",
+    "label": 0,
+    "source_rows": [
+      139
+    ]
+  },
+  {
+    "sequence": "GVVDILKGAAKDIAGHLASKVMNKL",
+    "label": 0,
+    "source_rows": [
+      682
+    ]
+  },
+  {
+    "sequence": "GVVDILKGAAKDLAGHLATKVMNKL",
+    "label": 0,
+    "source_rows": [
+      1222
+    ]
+  },
+  {
+    "sequence": "GVVKRIKTVV",
+    "label": 0,
+    "source_rows": [
+      433
+    ]
+  },
+  {
+    "sequence": "GVVTDLLKTAGKLLGNLFGSLSG",
+    "label": 1,
+    "source_rows": [
+      855
+    ]
+  },
+  {
+    "sequence": "GVVVRVARVVVRWVRR",
+    "label": 1,
+    "source_rows": [
+      1470
+    ]
+  },
+  {
+    "sequence": "GVVVRVGRVVVRWV",
+    "label": 1,
+    "source_rows": [
+      1149
+    ]
+  },
+  {
+    "sequence": "GVVVRVGRVVVRWVRR",
+    "label": 1,
+    "source_rows": [
+      1478
+    ]
+  },
+  {
+    "sequence": "GVVVRVGRVVVRWVRRRR",
+    "label": 1,
+    "source_rows": [
+      1049
+    ]
+  },
+  {
+    "sequence": "GVVVRVPRVVVRWVRR",
+    "label": 0,
+    "source_rows": [
+      59
+    ]
+  },
+  {
+    "sequence": "GVWSTILGGLKKFAKGGLDAIVNPK",
+    "label": 1,
+    "source_rows": [
+      827
+    ]
+  },
+  {
+    "sequence": "GVWSTVLGGLKKFAKGGLEAIVNPK",
+    "label": 0,
+    "source_rows": [
+      601
+    ]
+  },
+  {
+    "sequence": "GVWTTILGGLKKFAKGGLEALTNPK",
+    "label": 1,
+    "source_rows": [
+      1310
+    ]
+  },
+  {
+    "sequence": "GWASSIGSILGKFAKGGAQAFLQPK",
+    "label": 0,
+    "source_rows": [
+      1325
+    ]
+  },
+  {
+    "sequence": "GWFDILKHVFRLLK",
+    "label": 1,
+    "source_rows": [
+      449
+    ]
+  },
+  {
+    "sequence": "GWGCNIFGGNDYRCHRHCKSIRGYKGGYCKLGGICKCY",
+    "label": 0,
+    "source_rows": [
+      1083
+    ]
+  },
+  {
+    "sequence": "GWGSFFKKAAHVAKHVAKAALTHYL",
+    "label": 1,
+    "source_rows": [
+      1262
+    ]
+  },
+  {
+    "sequence": "GWGSFFKKAAHVGKHVGKAALTHYL",
+    "label": 1,
+    "source_rows": [
+      467
+    ]
+  },
+  {
+    "sequence": "GWKDLLKGAAKALVKTVF",
+    "label": 1,
+    "source_rows": [
+      1139
+    ]
+  },
+  {
+    "sequence": "GWKDWFRKAKKVGKTVGGLALNHYL",
+    "label": 1,
+    "source_rows": [
+      1438
+    ]
+  },
+  {
+    "sequence": "GWKDWLNKAKDFIKEKGPEILRAAANAAIN",
+    "label": 0,
+    "source_rows": [
+      255
+    ]
+  },
+  {
+    "sequence": "GWKKWFNRAKKVGKTVGGLAVDHYL",
+    "label": 1,
+    "source_rows": [
+      483
+    ]
+  },
+  {
+    "sequence": "GWKKWFTKGERLSQRHFA",
+    "label": 0,
+    "source_rows": [
+      22
+    ]
+  },
+  {
+    "sequence": "GWKKWLRKGAKHLGQAAIK",
+    "label": 0,
+    "source_rows": [
+      840
+    ]
+  },
+  {
+    "sequence": "GWKKWLRKGAKHLGQAAIKGLAS",
+    "label": 0,
+    "source_rows": [
+      424
+    ]
+  },
+  {
+    "sequence": "GWKSVFRKAKKVGKTVGGLALDHYL",
+    "label": 1,
+    "source_rows": [
+      1081
+    ]
+  },
+  {
+    "sequence": "GWLDVAKKIGKAAFNVAKNFI",
+    "label": 1,
+    "source_rows": [
+      787
+    ]
+  },
+  {
+    "sequence": "GWLDVAKKIGKAAFNVAKNFL",
+    "label": 1,
+    "source_rows": [
+      1024
+    ]
+  },
+  {
+    "sequence": "GWLDVAKKKGKAAFNVAKNFI",
+    "label": 0,
+    "source_rows": [
+      182
+    ]
+  },
+  {
+    "sequence": "GYCFTACYARNGVRICYRRCN",
+    "label": 1,
+    "source_rows": [
+      288
+    ]
+  },
+  {
+    "sequence": "GYCFTACYLRNGVRICYRRCN",
+    "label": 1,
+    "source_rows": [
+      1223
+    ]
+  },
+  {
+    "sequence": "GYCFTACYRRNGARICYRRCN",
+    "label": 1,
+    "source_rows": [
+      119
+    ]
+  },
+  {
+    "sequence": "GYPICGESCVGGICNIPGCSCSWPVCTTN",
+    "label": 0,
+    "source_rows": [
+      78
+    ]
+  },
+  {
+    "sequence": "HFKGTLVNLAKKIL",
+    "label": 0,
+    "source_rows": [
+      638
+    ]
+  },
+  {
+    "sequence": "HFLGKLVNLAKKIL",
+    "label": 1,
+    "source_rows": [
+      1050
+    ]
+  },
+  {
+    "sequence": "HFLGTKVNLAKKIL",
+    "label": 0,
+    "source_rows": [
+      451
+    ]
+  },
+  {
+    "sequence": "HFLGTLKNLAKKIL",
+    "label": 0,
+    "source_rows": [
+      911
+    ]
+  },
+  {
+    "sequence": "HFLGTLVKLAKKIL",
+    "label": 1,
+    "source_rows": [
+      194
+    ]
+  },
+  {
+    "sequence": "HFLGTLVNKAKKIL",
+    "label": 0,
+    "source_rows": [
+      617
+    ]
+  },
+  {
+    "sequence": "HFLGTLVNLAKKIK",
+    "label": 0,
+    "source_rows": [
+      623
+    ]
+  },
+  {
+    "sequence": "HFLGTLVNLKKKIL",
+    "label": 0,
+    "source_rows": [
+      939
+    ]
+  },
+  {
+    "sequence": "HFLKTLVNLAKKIL",
+    "label": 1,
+    "source_rows": [
+      51
+    ]
+  },
+  {
+    "sequence": "HFLLKLVNLAKKIL",
+    "label": 1,
+    "source_rows": [
+      799
+    ]
+  },
+  {
+    "sequence": "HFLLTKVNLAKKIL",
+    "label": 0,
+    "source_rows": [
+      409
+    ]
+  },
+  {
+    "sequence": "HFLLTLVNKAKKIL",
+    "label": 0,
+    "source_rows": [
+      1308
+    ]
+  },
+  {
+    "sequence": "HFLLTLVNLAKKIK",
+    "label": 0,
+    "source_rows": [
+      476
+    ]
+  },
+  {
+    "sequence": "HFLLTLVNLAKKKL",
+    "label": 0,
+    "source_rows": [
+      837
+    ]
+  },
+  {
+    "sequence": "HFLLTLVNLKKKIL",
+    "label": 0,
+    "source_rows": [
+      1195
+    ]
+  },
+  {
+    "sequence": "HHIIGGLFSAGKAIHRLIRRRRR",
+    "label": 1,
+    "source_rows": [
+      962
+    ]
+  },
+  {
+    "sequence": "HIFKKVKTYWKKLFRILGRF",
+    "label": 1,
+    "source_rows": [
+      12
+    ]
+  },
+  {
+    "sequence": "HKLGTLVNLAKKIL",
+    "label": 0,
+    "source_rows": [
+      1096
+    ]
+  },
+  {
+    "sequence": "HKWMSLLKHILK",
+    "label": 0,
+    "source_rows": [
+      595
+    ]
+  },
+  {
+    "sequence": "HLLKKWRTWLRKAWHIVGKV",
+    "label": 1,
+    "source_rows": [
+      1176
+    ]
+  },
+  {
+    "sequence": "HRIRQLKTTIKKFWEIWPKI",
+    "label": 0,
+    "source_rows": [
+      26
+    ]
+  },
+  {
+    "sequence": "HWRRFWHR",
+    "label": 0,
+    "source_rows": [
+      720
+    ]
+  },
+  {
+    "sequence": "HYIRHLKTWFHKPFKLIGKV",
+    "label": 0,
+    "source_rows": [
+      902
+    ]
+  },
+  {
+    "sequence": "IAGKIAKIAGKIAKIAGKIA",
+    "label": 1,
+    "source_rows": [
+      535
+    ]
+  },
+  {
+    "sequence": "IAGKIAKIAGKIAKIAGKIAK",
+    "label": 1,
+    "source_rows": [
+      783
+    ]
+  },
+  {
+    "sequence": "IAGKIAKIAGKIAKIAGKIAKIAGKIA",
+    "label": 1,
+    "source_rows": [
+      549
+    ]
+  },
+  {
+    "sequence": "IAKIAGKIAKIAGKIA",
+    "label": 0,
+    "source_rows": [
+      781
+    ]
+  },
+  {
+    "sequence": "IAKIAGKIAKIAGKIAK",
+    "label": 0,
+    "source_rows": [
+      896
+    ]
+  },
+  {
+    "sequence": "IAKIAGKIAKIAGKIAKIAGKIA",
+    "label": 1,
+    "source_rows": [
+      1414
+    ]
+  },
+  {
+    "sequence": "IAKIAGKIAKIAGKIAKIAGKIAK",
+    "label": 1,
+    "source_rows": [
+      1004
+    ]
+  },
+  {
+    "sequence": "ICYCRRRFCVCVGR",
+    "label": 1,
+    "source_rows": [
+      1356
+    ]
+  },
+  {
+    "sequence": "IDWKKIFEKVKNLV",
+    "label": 0,
+    "source_rows": [
+      898
+    ]
+  },
+  {
+    "sequence": "IDWKKLLDAAKQIL",
+    "label": 1,
+    "source_rows": [
+      380
+    ]
+  },
+  {
+    "sequence": "IDWKKVDWKKVSKKTCKVMLKACKFL",
+    "label": 1,
+    "source_rows": [
+      232
+    ]
+  },
+  {
+    "sequence": "IDWKKVDWKKVSKKTSKVMLKASKFL",
+    "label": 1,
+    "source_rows": [
+      490
+    ]
+  },
+  {
+    "sequence": "IDWLKLGKMVMDVL",
+    "label": 1,
+    "source_rows": [
+      878
+    ]
+  },
+  {
+    "sequence": "IDWSKIFEKVKNLV",
+    "label": 1,
+    "source_rows": [
+      1369
+    ]
+  },
+  {
+    "sequence": "IFFRRNKKMAVKVAINGFGRIGRLAFRQMF",
+    "label": 0,
+    "source_rows": [
+      610
+    ]
+  },
+  {
+    "sequence": "IFGAILPLALGALKNLIK",
+    "label": 1,
+    "source_rows": [
+      384
+    ]
+  },
+  {
+    "sequence": "IFGAIWPLALGALKNLIK",
+    "label": 1,
+    "source_rows": [
+      823
+    ]
+  },
+  {
+    "sequence": "IFGTILGFLKGL",
+    "label": 1,
+    "source_rows": [
+      101
+    ]
+  },
+  {
+    "sequence": "IFKAIWSGIKSLF",
+    "label": 1,
+    "source_rows": [
+      270
+    ]
+  },
+  {
+    "sequence": "IFWLFRGKADVAL",
+    "label": 1,
+    "source_rows": [
+      24
+    ]
+  },
+  {
+    "sequence": "IGDLVKWIIDTVNKFTKK",
+    "label": 1,
+    "source_rows": [
+      440
+    ]
+  },
+  {
+    "sequence": "IIGAIAAALPHVINAIKNTF",
+    "label": 0,
+    "source_rows": [
+      257
+    ]
+  },
+  {
+    "sequence": "IIGGLFSAGKAIHRLIRRRRR",
+    "label": 1,
+    "source_rows": [
+      262
+    ]
+  },
+  {
+    "sequence": "IIKKFLHSIWKFGKAFVGEIMNI",
+    "label": 1,
+    "source_rows": [
+      122
+    ]
+  },
+  {
+    "sequence": "IIKKIIKKIIKK",
+    "label": 0,
+    "source_rows": [
+      1129
+    ]
+  },
+  {
+    "sequence": "IIKKIIKKIIKKI",
+    "label": 0,
+    "source_rows": [
+      66
+    ]
+  },
+  {
+    "sequence": "IILLLLKKFLKKL",
+    "label": 1,
+    "source_rows": [
+      690
+    ]
+  },
+  {
+    "sequence": "IILLLLKKFWKKL",
+    "label": 1,
+    "source_rows": [
+      669
+    ]
+  },
+  {
+    "sequence": "IIPLPLGYFAKKT",
+    "label": 0,
+    "source_rows": [
+      1159
+    ]
+  },
+  {
+    "sequence": "IIPLPLKKFAKKT",
+    "label": 0,
+    "source_rows": [
+      1032
+    ]
+  },
+  {
+    "sequence": "IISTIGDLVKWIIKTV",
+    "label": 1,
+    "source_rows": [
+      979
+    ]
+  },
+  {
+    "sequence": "IISTIGKLVKWIIKTV",
+    "label": 1,
+    "source_rows": [
+      1457
+    ]
+  },
+  {
+    "sequence": "IKIPAFVKDTLKKVAKGVISAVAGALTQ",
+    "label": 0,
+    "source_rows": [
+      1076
+    ]
+  },
+  {
+    "sequence": "IKIPAVVKDTLKKVAKGVLSAVAGALTQ",
+    "label": 0,
+    "source_rows": [
+      1138
+    ]
+  },
+  {
+    "sequence": "IKIPSFFRNILKKVGKEAVSLIAGALKQS",
+    "label": 1,
+    "source_rows": [
+      1088
+    ]
+  },
+  {
+    "sequence": "IKKFKKPFKPFRR",
+    "label": 0,
+    "source_rows": [
+      1336
+    ]
+  },
+  {
+    "sequence": "IKKIIKKIIK",
+    "label": 0,
+    "source_rows": [
+      132
+    ]
+  },
+  {
+    "sequence": "IKKIIKKIIKKI",
+    "label": 0,
+    "source_rows": [
+      988
+    ]
+  },
+  {
+    "sequence": "IKKILSKIKKLL",
+    "label": 0,
+    "source_rows": [
+      209
+    ]
+  },
+  {
+    "sequence": "IKKILSKIKKLWK",
+    "label": 0,
+    "source_rows": [
+      1130
+    ]
+  },
+  {
+    "sequence": "IKKILSKIKKWLK",
+    "label": 0,
+    "source_rows": [
+      1240
+    ]
+  },
+  {
+    "sequence": "IKKILSKIKKWWK",
+    "label": 0,
+    "source_rows": [
+      1385
+    ]
+  },
+  {
+    "sequence": "IKKIVSKIKKLLK",
+    "label": 0,
+    "source_rows": [
+      148
+    ]
+  },
+  {
+    "sequence": "IKKIVSKIKKVLK",
+    "label": 0,
+    "source_rows": [
+      1531
+    ]
+  },
+  {
+    "sequence": "IKKIWSKIKKLLK",
+    "label": 0,
+    "source_rows": [
+      180
+    ]
+  },
+  {
+    "sequence": "IKKIWSKIKKLWK",
+    "label": 0,
+    "source_rows": [
+      1434
+    ]
+  },
+  {
+    "sequence": "IKKWLSKIKKLLK",
+    "label": 0,
+    "source_rows": [
+      475
+    ]
+  },
+  {
+    "sequence": "IKKWWSKIKKLLK",
+    "label": 0,
+    "source_rows": [
+      1429
+    ]
+  },
+  {
+    "sequence": "IKLSKETKKNLKKVLKGAIKGAIAVAKMV",
+    "label": 0,
+    "source_rows": [
+      964
+    ]
+  },
+  {
+    "sequence": "IKLSKKTKDNLKKVLKGAIKGAIAVAKMV",
+    "label": 0,
+    "source_rows": [
+      621
+    ]
+  },
+  {
+    "sequence": "IKLSPETKDNLKKVLKGAIKGAIAVAKMV",
+    "label": 0,
+    "source_rows": [
+      588
+    ]
+  },
+  {
+    "sequence": "IKLSPETKKNLKKVLKGAIKGAIAVAKMV",
+    "label": 0,
+    "source_rows": [
+      620
+    ]
+  },
+  {
+    "sequence": "IKLSPKTKDNLKKVLKGAIKGAIAVAKMV",
+    "label": 0,
+    "source_rows": [
+      767
+    ]
+  },
+  {
+    "sequence": "IKLSPKTKKNLKKVLKGAIKGAIAVAKMV",
+    "label": 1,
+    "source_rows": [
+      700
+    ]
+  },
+  {
+    "sequence": "IKPFKFPFKPFRR",
+    "label": 0,
+    "source_rows": [
+      1152
+    ]
+  },
+  {
+    "sequence": "IKPFKKPFKPFRR",
+    "label": 0,
+    "source_rows": [
+      36
+    ]
+  },
+  {
+    "sequence": "IKRQYKRFFKLFKWFLKK",
+    "label": 1,
+    "source_rows": [
+      577
+    ]
+  },
+  {
+    "sequence": "IKWKKLLRAAKRIL",
+    "label": 1,
+    "source_rows": [
+      879
+    ]
+  },
+  {
+    "sequence": "ILCWKCPWWPWRR",
+    "label": 1,
+    "source_rows": [
+      861
+    ]
+  },
+  {
+    "sequence": "ILCWKWPWCPWRR",
+    "label": 1,
+    "source_rows": [
+      1507
+    ]
+  },
+  {
+    "sequence": "ILCWKWPWWCWRR",
+    "label": 1,
+    "source_rows": [
+      398
+    ]
+  },
+  {
+    "sequence": "ILGAILPLVSGLLSNKL",
+    "label": 0,
+    "source_rows": [
+      981
+    ]
+  },
+  {
+    "sequence": "ILGKIIKVVK",
+    "label": 0,
+    "source_rows": [
+      1536
+    ]
+  },
+  {
+    "sequence": "ILGKIWEGIKSIF",
+    "label": 1,
+    "source_rows": [
+      1250
+    ]
+  },
+  {
+    "sequence": "ILGKIWEGIKSLF",
+    "label": 1,
+    "source_rows": [
+      1208
+    ]
+  },
+  {
+    "sequence": "ILGKIWKGIKSLF",
+    "label": 1,
+    "source_rows": [
+      499
+    ]
+  },
+  {
+    "sequence": "ILGKLLKTAAGLLSNL",
+    "label": 1,
+    "source_rows": [
+      1370
+    ]
+  },
+  {
+    "sequence": "ILGKLLKTAAKLLSNL",
+    "label": 1,
+    "source_rows": [
+      16
+    ]
+  },
+  {
+    "sequence": "ILGKLLSTAAGLLKNL",
+    "label": 1,
+    "source_rows": [
+      300
+    ]
+  },
+  {
+    "sequence": "ILGKLLSTAAGLLSNL",
+    "label": 0,
+    "source_rows": [
+      1026
+    ]
+  },
+  {
+    "sequence": "ILGKLLSTAAKLLSKL",
+    "label": 1,
+    "source_rows": [
+      618
+    ]
+  },
+  {
+    "sequence": "ILGKLLSTAAKLLSNL",
+    "label": 1,
+    "source_rows": [
+      124
+    ]
+  },
+  {
+    "sequence": "ILGKLLSTAWGLLSKL",
+    "label": 1,
+    "source_rows": [
+      1041
+    ]
+  },
+  {
+    "sequence": "ILGKLLSTAWGLLSNL",
+    "label": 1,
+    "source_rows": [
+      691
+    ]
+  },
+  {
+    "sequence": "ILGKLLSTWAGLLSNL",
+    "label": 1,
+    "source_rows": [
+      1388
+    ]
+  },
+  {
+    "sequence": "ILGLVISTIGNVLGGLLKNL",
+    "label": 1,
+    "source_rows": [
+      1047
+    ]
+  },
+  {
+    "sequence": "ILGPVISTIGNALGGLLKNL",
+    "label": 1,
+    "source_rows": [
+      996
+    ]
+  },
+  {
+    "sequence": "ILGTILGLLKGL",
+    "label": 1,
+    "source_rows": [
+      127
+    ]
+  },
+  {
+    "sequence": "ILGTILGLLKSL",
+    "label": 1,
+    "source_rows": [
+      910
+    ]
+  },
+  {
+    "sequence": "ILKWKWPWWKWRR",
+    "label": 0,
+    "source_rows": [
+      710
+    ]
+  },
+  {
+    "sequence": "ILKWKWPWWPWRR",
+    "label": 0,
+    "source_rows": [
+      240
+    ]
+  },
+  {
+    "sequence": "ILPAKAPAAPARR",
+    "label": 0,
+    "source_rows": [
+      824
+    ]
+  },
+  {
+    "sequence": "ILPCKWCWWPWRR",
+    "label": 1,
+    "source_rows": [
+      427
+    ]
+  },
+  {
+    "sequence": "ILPFKFPFFPFRR",
+    "label": 0,
+    "source_rows": [
+      23
+    ]
+  },
+  {
+    "sequence": "ILPILGNLLNGLL",
+    "label": 0,
+    "source_rows": [
+      11
+    ]
+  },
+  {
+    "sequence": "ILPILGNLLNSLL",
+    "label": 0,
+    "source_rows": [
+      296
+    ]
+  },
+  {
+    "sequence": "ILPILSLIGGLL",
+    "label": 0,
+    "source_rows": [
+      3
+    ]
+  },
+  {
+    "sequence": "ILPWKKPWEPWRR",
+    "label": 0,
+    "source_rows": [
+      242
+    ]
+  },
+  {
+    "sequence": "ILPWKWCWWCWRR",
+    "label": 1,
+    "source_rows": [
+      743
+    ]
+  },
+  {
+    "sequence": "ILPWKWCWWPCRR",
+    "label": 1,
+    "source_rows": [
+      1502
+    ]
+  },
+  {
+    "sequence": "ILPWKWKWWKWRR",
+    "label": 0,
+    "source_rows": [
+      916
+    ]
+  },
+  {
+    "sequence": "ILPWKWKWWPWRR",
+    "label": 0,
+    "source_rows": [
+      1301
+    ]
+  },
+  {
+    "sequence": "ILPWKWPCWPCRR",
+    "label": 1,
+    "source_rows": [
+      74
+    ]
+  },
+  {
+    "sequence": "ILPWKWPWWKWRR",
+    "label": 0,
+    "source_rows": [
+      818
+    ]
+  },
+  {
+    "sequence": "ILPWKWPWWPWRR",
+    "label": 0,
+    "source_rows": [
+      1523
+    ]
+  },
+  {
+    "sequence": "ILPYKYPYYPYRR",
+    "label": 0,
+    "source_rows": [
+      633
+    ]
+  },
+  {
+    "sequence": "ILSAIWSGIKGLL",
+    "label": 0,
+    "source_rows": [
+      805
+    ]
+  },
+  {
+    "sequence": "ILSAIWSGIKSLF",
+    "label": 1,
+    "source_rows": [
+      283
+    ]
+  },
+  {
+    "sequence": "ILSYLWNGIKSIF",
+    "label": 1,
+    "source_rows": [
+      1218
+    ]
+  },
+  {
+    "sequence": "INFLKLGKKILGAL",
+    "label": 0,
+    "source_rows": [
+      1483
+    ]
+  },
+  {
+    "sequence": "INLKAIAALVKKV",
+    "label": 0,
+    "source_rows": [
+      956
+    ]
+  },
+  {
+    "sequence": "INQKKIASIGKEV",
+    "label": 1,
+    "source_rows": [
+      42
+    ]
+  },
+  {
+    "sequence": "INSLKLGKKILGAL",
+    "label": 0,
+    "source_rows": [
+      485
+    ]
+  },
+  {
+    "sequence": "INWIKIGKKIIASL",
+    "label": 0,
+    "source_rows": [
+      1307
+    ]
+  },
+  {
+    "sequence": "INWKALLDAAKKVL",
+    "label": 1,
+    "source_rows": [
+      353
+    ]
+  },
+  {
+    "sequence": "INWKKGKEVLKAL",
+    "label": 0,
+    "source_rows": [
+      841
+    ]
+  },
+  {
+    "sequence": "INWKKIASIGKEV",
+    "label": 0,
+    "source_rows": [
+      290
+    ]
+  },
+  {
+    "sequence": "INWKKIASIGKEVL",
+    "label": 0,
+    "source_rows": [
+      973
+    ]
+  },
+  {
+    "sequence": "INWKKIASIGKEVLK",
+    "label": 0,
+    "source_rows": [
+      699
+    ]
+  },
+  {
+    "sequence": "INWKKIASIGKEVLKAI",
+    "label": 0,
+    "source_rows": [
+      619
+    ]
+  },
+  {
+    "sequence": "INWKKIASIGKEVLKAL",
+    "label": 1,
+    "source_rows": [
+      361
+    ]
+  },
+  {
+    "sequence": "INWKKIFEKVKDLV",
+    "label": 1,
+    "source_rows": [
+      922
+    ]
+  },
+  {
+    "sequence": "INWKKIFEKVKNLV",
+    "label": 0,
+    "source_rows": [
+      868
+    ]
+  },
+  {
+    "sequence": "INWKKIFESVKNLV",
+    "label": 0,
+    "source_rows": [
+      471
+    ]
+  },
+  {
+    "sequence": "INWKKIFQKVKNLV",
+    "label": 1,
+    "source_rows": [
+      1522
+    ]
+  },
+  {
+    "sequence": "INWKKLGKKILGAL",
+    "label": 0,
+    "source_rows": [
+      858
+    ]
+  },
+  {
+    "sequence": "INWKKLLDAAKQIL",
+    "label": 1,
+    "source_rows": [
+      728
+    ]
+  },
+  {
+    "sequence": "INWKSIFEKVKNLV",
+    "label": 0,
+    "source_rows": [
+      169
+    ]
+  },
+  {
+    "sequence": "INWLKLGKAIIDAL",
+    "label": 1,
+    "source_rows": [
+      292
+    ]
+  },
+  {
+    "sequence": "INWLKLGKKILGAI",
+    "label": 1,
+    "source_rows": [
+      1350
+    ]
+  },
+  {
+    "sequence": "INWLKLGKKILGAL",
+    "label": 1,
+    "source_rows": [
+      1338
+    ]
+  },
+  {
+    "sequence": "INWLKLGKKLLSAL",
+    "label": 1,
+    "source_rows": [
+      511
+    ]
+  },
+  {
+    "sequence": "INWLKLGKKMMSAI",
+    "label": 0,
+    "source_rows": [
+      889
+    ]
+  },
+  {
+    "sequence": "INWLKLGKKMMSAL",
+    "label": 0,
+    "source_rows": [
+      1467
+    ]
+  },
+  {
+    "sequence": "INWLKLGKMVIDAL",
+    "label": 1,
+    "source_rows": [
+      362
+    ]
+  },
+  {
+    "sequence": "INWSSIFEKVKNLV",
+    "label": 0,
+    "source_rows": [
+      227
+    ]
+  },
+  {
+    "sequence": "INWSSIFESVKNLV",
+    "label": 0,
+    "source_rows": [
+      1048
+    ]
+  },
+  {
+    "sequence": "INWSSIFESVSNLV",
+    "label": 0,
+    "source_rows": [
+      326
+    ]
+  },
+  {
+    "sequence": "IPCGESCVWIPCISGMFGCSCKDKVCYS",
+    "label": 1,
+    "source_rows": [
+      15
+    ]
+  },
+  {
+    "sequence": "IPCGESCVWIPCITAIAGCSCKNKVCYT",
+    "label": 1,
+    "source_rows": [
+      550
+    ]
+  },
+  {
+    "sequence": "IPPFIKKVLTTVF",
+    "label": 0,
+    "source_rows": [
+      1123
+    ]
+  },
+  {
+    "sequence": "IRAWAKVLKGVGKILKGVGRW",
+    "label": 0,
+    "source_rows": [
+      515
+    ]
+  },
+  {
+    "sequence": "ISLNPPRSTIAMRAINNYRWRSKNQNTFLR",
+    "label": 1,
+    "source_rows": [
+      82
+    ]
+  },
+  {
+    "sequence": "ITEVITILLNRLTDRLEK",
+    "label": 0,
+    "source_rows": [
+      1312
+    ]
+  },
+  {
+    "sequence": "IVPFLLGMVPKLVCLITKKC",
+    "label": 1,
+    "source_rows": [
+      1
+    ]
+  },
+  {
+    "sequence": "IWLLLLKKFLKKL",
+    "label": 1,
+    "source_rows": [
+      1203
+    ]
+  },
+  {
+    "sequence": "IWLLLLKKFWKKW",
+    "label": 1,
+    "source_rows": [
+      1119
+    ]
+  },
+  {
+    "sequence": "IWLTALKFLGKHAAKHLAKQQLSKL",
+    "label": 0,
+    "source_rows": [
+      185
+    ]
+  },
+  {
+    "sequence": "IWLTALKFLGKNLGK",
+    "label": 0,
+    "source_rows": [
+      310
+    ]
+  },
+  {
+    "sequence": "IWLTKALKFLGKNLGK",
+    "label": 0,
+    "source_rows": [
+      1194
+    ]
+  },
+  {
+    "sequence": "IWNKIAKSIGKVLEKAL",
+    "label": 0,
+    "source_rows": [
+      875
+    ]
+  },
+  {
+    "sequence": "IWRIFRRIF",
+    "label": 0,
+    "source_rows": [
+      491
+    ]
+  },
+  {
+    "sequence": "IWRIFRRIFRIF",
+    "label": 1,
+    "source_rows": [
+      153
+    ]
+  },
+  {
+    "sequence": "IWRIFRRIFRIFIRF",
+    "label": 1,
+    "source_rows": [
+      909
+    ]
+  },
+  {
+    "sequence": "IWSFLIKAATKLLPSLFGG",
+    "label": 0,
+    "source_rows": [
+      955
+    ]
+  },
+  {
+    "sequence": "KAACAAHCLWR",
+    "label": 0,
+    "source_rows": [
+      890
+    ]
+  },
+  {
+    "sequence": "KAACAAKCLWR",
+    "label": 0,
+    "source_rows": [
+      1057
+    ]
+  },
+  {
+    "sequence": "KAAKKAAKKAAKKAAKKAAKKAAKKAAK",
+    "label": 0,
+    "source_rows": [
+      985
+    ]
+  },
+  {
+    "sequence": "KAIAKSILKWIKSIAKAI",
+    "label": 1,
+    "source_rows": [
+      1167
+    ]
+  },
+  {
+    "sequence": "KALAALLKKWAKLLAALK",
+    "label": 1,
+    "source_rows": [
+      1051
+    ]
+  },
+  {
+    "sequence": "KALAKALAKLWKALAKAA",
+    "label": 1,
+    "source_rows": [
+      46
+    ]
+  },
+  {
+    "sequence": "KALKKLLAKWLAAAKALL",
+    "label": 1,
+    "source_rows": [
+      450
+    ]
+  },
+  {
+    "sequence": "KALWKTLLKKVLKA",
+    "label": 1,
+    "source_rows": [
+      1113
+    ]
+  },
+  {
+    "sequence": "KALWKTMLKKLGTMAL",
+    "label": 0,
+    "source_rows": [
+      378
+    ]
+  },
+  {
+    "sequence": "KFAFKFAFKFAFKFAFKFAFKFAFKFAF",
+    "label": 0,
+    "source_rows": [
+      1407
+    ]
+  },
+  {
+    "sequence": "KFAKKFAK",
+    "label": 0,
+    "source_rows": [
+      562
+    ]
+  },
+  {
+    "sequence": "KFAKKFAKKFAK",
+    "label": 0,
+    "source_rows": [
+      1190
+    ]
+  },
+  {
+    "sequence": "KFAKKFAKKFAKKFAKKFAK",
+    "label": 0,
+    "source_rows": [
+      706
+    ]
+  },
+  {
+    "sequence": "KFAKKFKWFAKAAFKFFKK",
+    "label": 1,
+    "source_rows": [
+      56
+    ]
+  },
+  {
+    "sequence": "KFFRKLKKSVKKRAKEFFKKPRVIGVSIPF",
+    "label": 1,
+    "source_rows": [
+      70
+    ]
+  },
+  {
+    "sequence": "KFGKIVGKVLKQLKKVSAVAKVAMKKG",
+    "label": 0,
+    "source_rows": [
+      97
+    ]
+  },
+  {
+    "sequence": "KFHHIFRGIVHVGKTIHRLVTG",
+    "label": 1,
+    "source_rows": [
+      786
+    ]
+  },
+  {
+    "sequence": "KFKKFKKFKKFKKFKKFK",
+    "label": 0,
+    "source_rows": [
+      25
+    ]
+  },
+  {
+    "sequence": "KFKKFKKFKKFKKFKKFKKFK",
+    "label": 0,
+    "source_rows": [
+      309
+    ]
+  },
+  {
+    "sequence": "KFKKFKKFKKFKKFKKFKKFKKFK",
+    "label": 0,
+    "source_rows": [
+      854
+    ]
+  },
+  {
+    "sequence": "KFKKFKKFKKFKKFKKFKKFKKFKKFK",
+    "label": 0,
+    "source_rows": [
+      831
+    ]
+  },
+  {
+    "sequence": "KFKKFKKFKKFKKFKKFKKFKKFKKFKKFK",
+    "label": 0,
+    "source_rows": [
+      374
+    ]
+  },
+  {
+    "sequence": "KFKKLFKKLSPVFKRIVQRIKDFLR",
+    "label": 0,
+    "source_rows": [
+      764
+    ]
+  },
+  {
+    "sequence": "KFKKVIWKSFL",
+    "label": 1,
+    "source_rows": [
+      571
+    ]
+  },
+  {
+    "sequence": "KFLGTLVNLAKKIL",
+    "label": 0,
+    "source_rows": [
+      47
+    ]
+  },
+  {
+    "sequence": "KGIVGMLGKLF",
+    "label": 0,
+    "source_rows": [
+      472
+    ]
+  },
+  {
+    "sequence": "KIAGKIAKIAGKIA",
+    "label": 0,
+    "source_rows": [
+      30
+    ]
+  },
+  {
+    "sequence": "KIAGKIAKIAGKIAKIAGKIA",
+    "label": 1,
+    "source_rows": [
+      1527
+    ]
+  },
+  {
+    "sequence": "KIAGKIAKIAGKIAKIAGKIAKIAGKIA",
+    "label": 1,
+    "source_rows": [
+      1059
+    ]
+  },
+  {
+    "sequence": "KIAKGALKALKIAKVALKAL",
+    "label": 1,
+    "source_rows": [
+      28
+    ]
+  },
+  {
+    "sequence": "KIAKIAGKIAKIAGKIAKIAGKIA",
+    "label": 1,
+    "source_rows": [
+      114
+    ]
+  },
+  {
+    "sequence": "KIAKRIWKILRRRL",
+    "label": 1,
+    "source_rows": [
+      1080
+    ]
+  },
+  {
+    "sequence": "KIAKVALKALKIAKGALKAL",
+    "label": 0,
+    "source_rows": [
+      667
+    ]
+  },
+  {
+    "sequence": "KIAKVALKALKIAKVALKAL",
+    "label": 0,
+    "source_rows": [
+      1327
+    ]
+  },
+  {
+    "sequence": "KIALKALKALKALGKALKAL",
+    "label": 1,
+    "source_rows": [
+      314
+    ]
+  },
+  {
+    "sequence": "KIASIGKEVLKAL",
+    "label": 0,
+    "source_rows": [
+      1363
+    ]
+  },
+  {
+    "sequence": "KIFGAIWPLALGALKNLIK",
+    "label": 1,
+    "source_rows": [
+      702
+    ]
+  },
+  {
+    "sequence": "KIFKKFKDFLKKIFQYLGKV",
+    "label": 1,
+    "source_rows": [
+      504
+    ]
+  },
+  {
+    "sequence": "KIFKKFKDWFKKAFHVLGKV",
+    "label": 0,
+    "source_rows": [
+      1379
+    ]
+  },
+  {
+    "sequence": "KIGKALGKALKALGKALGKA",
+    "label": 1,
+    "source_rows": [
+      975
+    ]
+  },
+  {
+    "sequence": "KIKWILKYWKWS",
+    "label": 0,
+    "source_rows": [
+      1243
+    ]
+  },
+  {
+    "sequence": "KILKLLKKFLKKL",
+    "label": 0,
+    "source_rows": [
+      929
+    ]
+  },
+  {
+    "sequence": "KILRGVCKKIMRTFLRRISKDILTGKK",
+    "label": 0,
+    "source_rows": [
+      705
+    ]
+  },
+  {
+    "sequence": "KIPKPLKKFAKKT",
+    "label": 0,
+    "source_rows": [
+      1216
+    ]
+  },
+  {
+    "sequence": "KIPPVVKDTLKKVAKGVLSAVAGALS",
+    "label": 0,
+    "source_rows": [
+      1175
+    ]
+  },
+  {
+    "sequence": "KIWFQNKKMKWKK",
+    "label": 0,
+    "source_rows": [
+      1014
+    ]
+  },
+  {
+    "sequence": "KIWFQNRRMKWKK",
+    "label": 0,
+    "source_rows": [
+      749
+    ]
+  },
+  {
+    "sequence": "KKFAKKFAKKFAKKFAKKFAKKFA",
+    "label": 0,
+    "source_rows": [
+      663
+    ]
+  },
+  {
+    "sequence": "KKIASIGKEVLKAL",
+    "label": 0,
+    "source_rows": [
+      509
+    ]
+  },
+  {
+    "sequence": "KKKLAKLKLGAKLKLKGKLGA",
+    "label": 1,
+    "source_rows": [
+      261
+    ]
+  },
+  {
+    "sequence": "KKLFKKILKFL",
+    "label": 0,
+    "source_rows": [
+      780
+    ]
+  },
+  {
+    "sequence": "KKLFKKILKVL",
+    "label": 0,
+    "source_rows": [
+      1199
+    ]
+  },
+  {
+    "sequence": "KKLFKKILKYL",
+    "label": 0,
+    "source_rows": [
+      789
+    ]
+  },
+  {
+    "sequence": "KKPFKFPKKPFRR",
+    "label": 0,
+    "source_rows": [
+      1355
+    ]
+  },
+  {
+    "sequence": "KKTWWKTWWTKWSQPKKKRKV",
+    "label": 0,
+    "source_rows": [
+      434
+    ]
+  },
+  {
+    "sequence": "KKVLKAAA",
+    "label": 0,
+    "source_rows": [
+      402
+    ]
+  },
+  {
+    "sequence": "KKWMSLLKHILK",
+    "label": 0,
+    "source_rows": [
+      1105
+    ]
+  },
+  {
+    "sequence": "KKWWKWWKKWWRR",
+    "label": 1,
+    "source_rows": [
+      1025
+    ]
+  },
+  {
+    "sequence": "KKYLLPIVGNLLKSLL",
+    "label": 1,
+    "source_rows": [
+      334
+    ]
+  },
+  {
+    "sequence": "KKYRYHLKPFCKK",
+    "label": 0,
+    "source_rows": [
+      530
+    ]
+  },
+  {
+    "sequence": "KKYRYHLKPFSKK",
+    "label": 0,
+    "source_rows": [
+      664
+    ]
+  },
+  {
+    "sequence": "KLALKAAAKAWKAAAKAA",
+    "label": 0,
+    "source_rows": [
+      1329
+    ]
+  },
+  {
+    "sequence": "KLALKAALKAWKAAAKLA",
+    "label": 0,
+    "source_rows": [
+      1128
+    ]
+  },
+  {
+    "sequence": "KLALKLALKALKAALKLA",
+    "label": 1,
+    "source_rows": [
+      697
+    ]
+  },
+  {
+    "sequence": "KLALKLALKAWKAALKLA",
+    "label": 1,
+    "source_rows": [
+      1366
+    ]
+  },
+  {
+    "sequence": "KLFKKLFKKLFK",
+    "label": 0,
+    "source_rows": [
+      347
+    ]
+  },
+  {
+    "sequence": "KLGFENFLVKALKTVMHVPTSPLL",
+    "label": 0,
+    "source_rows": [
+      1079
+    ]
+  },
+  {
+    "sequence": "KLKKKLKKLLKK",
+    "label": 0,
+    "source_rows": [
+      1386
+    ]
+  },
+  {
+    "sequence": "KLKKLLKKLLKK",
+    "label": 0,
+    "source_rows": [
+      1153
+    ]
+  },
+  {
+    "sequence": "KLKKLLKKLLKL",
+    "label": 0,
+    "source_rows": [
+      742
+    ]
+  },
+  {
+    "sequence": "KLKKLLKKWLKLLKKLLK",
+    "label": 1,
+    "source_rows": [
+      27
+    ]
+  },
+  {
+    "sequence": "KLKLKLKL",
+    "label": 0,
+    "source_rows": [
+      80
+    ]
+  },
+  {
+    "sequence": "KLKLKLKLK",
+    "label": 0,
+    "source_rows": [
+      1461
+    ]
+  },
+  {
+    "sequence": "KLKLKLKLKLKL",
+    "label": 1,
+    "source_rows": [
+      688
+    ]
+  },
+  {
+    "sequence": "KLKLKLKLKLKLK",
+    "label": 1,
+    "source_rows": [
+      947
+    ]
+  },
+  {
+    "sequence": "KLKLKLKLKLKLKLK",
+    "label": 1,
+    "source_rows": [
+      1161
+    ]
+  },
+  {
+    "sequence": "KLKLKLKLKLKLKLKL",
+    "label": 1,
+    "source_rows": [
+      1479
+    ]
+  },
+  {
+    "sequence": "KLKLKLKLKLKLKLKLKLKL",
+    "label": 1,
+    "source_rows": [
+      233
+    ]
+  },
+  {
+    "sequence": "KLKLKLKLKLKLKLKLKLKLKL",
+    "label": 1,
+    "source_rows": [
+      654
+    ]
+  },
+  {
+    "sequence": "KLKLKLKLKLKLKLKLKLKLKLKL",
+    "label": 1,
+    "source_rows": [
+      1285
+    ]
+  },
+  {
+    "sequence": "KLKLKLKLKLKLKLKLKLKLKLKLKL",
+    "label": 1,
+    "source_rows": [
+      2
+    ]
+  },
+  {
+    "sequence": "KLKLLLKLGLKLL",
+    "label": 1,
+    "source_rows": [
+      144
+    ]
+  },
+  {
+    "sequence": "KLKLLLKLK",
+    "label": 0,
+    "source_rows": [
+      794
+    ]
+  },
+  {
+    "sequence": "KLKLLLLKLK",
+    "label": 0,
+    "source_rows": [
+      142
+    ]
+  },
+  {
+    "sequence": "KLKLLLLLKLK",
+    "label": 0,
+    "source_rows": [
+      527
+    ]
+  },
+  {
+    "sequence": "KLLAKAALKWLLKALKAA",
+    "label": 1,
+    "source_rows": [
+      926
+    ]
+  },
+  {
+    "sequence": "KLLGPLLKIAAKVGSNLL",
+    "label": 0,
+    "source_rows": [
+      170
+    ]
+  },
+  {
+    "sequence": "KLLKFIKTLL",
+    "label": 0,
+    "source_rows": [
+      1023
+    ]
+  },
+  {
+    "sequence": "KLLKKAGKLLKKAGKLLKKAG",
+    "label": 0,
+    "source_rows": [
+      1187
+    ]
+  },
+  {
+    "sequence": "KLLKLLLKLLLKLLK",
+    "label": 1,
+    "source_rows": [
+      280
+    ]
+  },
+  {
+    "sequence": "KLLKRIKKLL",
+    "label": 0,
+    "source_rows": [
+      215
+    ]
+  },
+  {
+    "sequence": "KLLKRIKTLL",
+    "label": 0,
+    "source_rows": [
+      352
+    ]
+  },
+  {
+    "sequence": "KLLKVIKKLL",
+    "label": 0,
+    "source_rows": [
+      1342
+    ]
+  },
+  {
+    "sequence": "KLSLLLSLGLKLL",
+    "label": 1,
+    "source_rows": [
+      211
+    ]
+  },
+  {
+    "sequence": "KLWKKIEKLIKKLLTSIR",
+    "label": 0,
+    "source_rows": [
+      29
+    ]
+  },
+  {
+    "sequence": "KLYKKFRHILKKVWHYVGKI",
+    "label": 1,
+    "source_rows": [
+      155
+    ]
+  },
+  {
+    "sequence": "KNLRRIIRKGIHIIKKYF",
+    "label": 1,
+    "source_rows": [
+      539
+    ]
+  },
+  {
+    "sequence": "KNLRRIIRKGIHIIKKYG",
+    "label": 0,
+    "source_rows": [
+      273
+    ]
+  },
+  {
+    "sequence": "KNWGAILKHIIK",
+    "label": 0,
+    "source_rows": [
+      748
+    ]
+  },
+  {
+    "sequence": "KNWGKILKHIIK",
+    "label": 0,
+    "source_rows": [
+      322
+    ]
+  },
+  {
+    "sequence": "KNWKKIASIGKEVLKAL",
+    "label": 0,
+    "source_rows": [
+      1094
+    ]
+  },
+  {
+    "sequence": "KNWKKILGKIIKVVK",
+    "label": 0,
+    "source_rows": [
+      251
+    ]
+  },
+  {
+    "sequence": "KQIKIWFQNKKMKWKK",
+    "label": 0,
+    "source_rows": [
+      86
+    ]
+  },
+  {
+    "sequence": "KQKTLKKVWKLSEKVLIFASAFAKKAGAAEATLVL",
+    "label": 1,
+    "source_rows": [
+      1087
+    ]
+  },
+  {
+    "sequence": "KQLKKVSAVAKVAMKKGAALLKKMGVK",
+    "label": 0,
+    "source_rows": [
+      833
+    ]
+  },
+  {
+    "sequence": "KRAKKFFKKLK",
+    "label": 1,
+    "source_rows": [
+      1207
+    ]
+  },
+  {
+    "sequence": "KRAKKFFKKPK",
+    "label": 0,
+    "source_rows": [
+      1054
+    ]
+  },
+  {
+    "sequence": "KRFKKFFKKLK",
+    "label": 1,
+    "source_rows": [
+      733
+    ]
+  },
+  {
+    "sequence": "KRFKKFFKKLKNSVKKRAKKFFKKPKVIGVTFPF",
+    "label": 1,
+    "source_rows": [
+      544
+    ]
+  },
+  {
+    "sequence": "KRFKKFFKKPK",
+    "label": 1,
+    "source_rows": [
+      905
+    ]
+  },
+  {
+    "sequence": "KRFKKFFMKLKKSVKKRVMKFFKKPMVIGVTFPF",
+    "label": 1,
+    "source_rows": [
+      406
+    ]
+  },
+  {
+    "sequence": "KRFWPLVPVAINTVAAGINLYKAIRRK",
+    "label": 1,
+    "source_rows": [
+      869
+    ]
+  },
+  {
+    "sequence": "KRFWQLVPLAIKIYRAWKRR",
+    "label": 1,
+    "source_rows": [
+      254
+    ]
+  },
+  {
+    "sequence": "KRIRKRIKKWLR",
+    "label": 0,
+    "source_rows": [
+      488
+    ]
+  },
+  {
+    "sequence": "KRIVKLIKKWLR",
+    "label": 0,
+    "source_rows": [
+      1330
+    ]
+  },
+  {
+    "sequence": "KRIVKLILKWLR",
+    "label": 1,
+    "source_rows": [
+      971
+    ]
+  },
+  {
+    "sequence": "KRIVKRIKKWLR",
+    "label": 0,
+    "source_rows": [
+      1244
+    ]
+  },
+  {
+    "sequence": "KRIVQRIKDFLR",
+    "label": 1,
+    "source_rows": [
+      1106
+    ]
+  },
+  {
+    "sequence": "KRIVQRIKDWLR",
+    "label": 0,
+    "source_rows": [
+      487
+    ]
+  },
+  {
+    "sequence": "KRIVQRIKDWLRKLCKKW",
+    "label": 1,
+    "source_rows": [
+      1368
+    ]
+  },
+  {
+    "sequence": "KRLFKELLFSLRKY",
+    "label": 1,
+    "source_rows": [
+      1375
+    ]
+  },
+  {
+    "sequence": "KRLFKKLLFSLRKY",
+    "label": 1,
+    "source_rows": [
+      660
+    ]
+  },
+  {
+    "sequence": "KRRKLAFRLFRLFLKLVLKK",
+    "label": 1,
+    "source_rows": [
+      294
+    ]
+  },
+  {
+    "sequence": "KRRKLIKILKLIAKLIRKKR",
+    "label": 1,
+    "source_rows": [
+      1345
+    ]
+  },
+  {
+    "sequence": "KRRKLIKILKLIIKLIRKKR",
+    "label": 1,
+    "source_rows": [
+      1143
+    ]
+  },
+  {
+    "sequence": "KRRLFLFRLFRLFLRLFLKK",
+    "label": 1,
+    "source_rows": [
+      972
+    ]
+  },
+  {
+    "sequence": "KRRLIARILRLAARALVKKR",
+    "label": 1,
+    "source_rows": [
+      223
+    ]
+  },
+  {
+    "sequence": "KRRLILRILRLAIRALVKKR",
+    "label": 1,
+    "source_rows": [
+      526
+    ]
+  },
+  {
+    "sequence": "KRRVRWIIW",
+    "label": 0,
+    "source_rows": [
+      447
+    ]
+  },
+  {
+    "sequence": "KSCFRVCYRGICYRRCRG",
+    "label": 1,
+    "source_rows": [
+      423
+    ]
+  },
+  {
+    "sequence": "KTKLFKKFAKKLAKKLKKLAKKL",
+    "label": 0,
+    "source_rows": [
+      1360
+    ]
+  },
+  {
+    "sequence": "KVKVKVKVPPTKVKVKVK",
+    "label": 0,
+    "source_rows": [
+      860
+    ]
+  },
+  {
+    "sequence": "KVLKAAAKAALNAVLVGANA",
+    "label": 1,
+    "source_rows": [
+      1045
+    ]
+  },
+  {
+    "sequence": "KWAKKWKWFAKAAWKWYKK",
+    "label": 1,
+    "source_rows": [
+      925
+    ]
+  },
+  {
+    "sequence": "KWARLWRWFRITRWLWYIK",
+    "label": 1,
+    "source_rows": [
+      739
+    ]
+  },
+  {
+    "sequence": "KWASLWNWFNITNWLWYIK",
+    "label": 0,
+    "source_rows": [
+      1202
+    ]
+  },
+  {
+    "sequence": "KWAVRIIRKFIKGFIS",
+    "label": 0,
+    "source_rows": [
+      545
+    ]
+  },
+  {
+    "sequence": "KWCFCVCYRGICYCRCRG",
+    "label": 0,
+    "source_rows": [
+      627
+    ]
+  },
+  {
+    "sequence": "KWCFKVCYKGICYKKCKG",
+    "label": 1,
+    "source_rows": [
+      709
+    ]
+  },
+  {
+    "sequence": "KWCFRVCYRGFCYRRCRK",
+    "label": 1,
+    "source_rows": [
+      1442
+    ]
+  },
+  {
+    "sequence": "KWCFRVCYRGICYRKCR",
+    "label": 1,
+    "source_rows": [
+      443
+    ]
+  },
+  {
+    "sequence": "KWCFRVCYRGICYRKCRG",
+    "label": 0,
+    "source_rows": [
+      569
+    ]
+  },
+  {
+    "sequence": "KWCFRVCYRGICYRRCR",
+    "label": 0,
+    "source_rows": [
+      1006
+    ]
+  },
+  {
+    "sequence": "KWCFRVCYRGICYRRCRG",
+    "label": 0,
+    "source_rows": [
+      315
+    ]
+  },
+  {
+    "sequence": "KWCFRVCYRGICYRRCRK",
+    "label": 1,
+    "source_rows": [
+      1092
+    ]
+  },
+  {
+    "sequence": "KWCFRVCYRGICYRRCSG",
+    "label": 1,
+    "source_rows": [
+      1382
+    ]
+  },
+  {
+    "sequence": "KWCFRVCYRGICYSRCRG",
+    "label": 1,
+    "source_rows": [
+      364
+    ]
+  },
+  {
+    "sequence": "KWCFRVCYSGICYRRCRG",
+    "label": 1,
+    "source_rows": [
+      1339
+    ]
+  },
+  {
+    "sequence": "KWCFRVCYSGICYSRCSG",
+    "label": 1,
+    "source_rows": [
+      731
+    ]
+  },
+  {
+    "sequence": "KWCSRVCYRGICSRRCRG",
+    "label": 1,
+    "source_rows": [
+      565
+    ]
+  },
+  {
+    "sequence": "KWCVYAYVKVKGVLVKYKKCW",
+    "label": 1,
+    "source_rows": [
+      339
+    ]
+  },
+  {
+    "sequence": "KWFKIQLQIKKWKNKK",
+    "label": 1,
+    "source_rows": [
+      842
+    ]
+  },
+  {
+    "sequence": "KWKKLLKKLLKLL",
+    "label": 1,
+    "source_rows": [
+      1132
+    ]
+  },
+  {
+    "sequence": "KWKLFKKALKKLKKALKKAL",
+    "label": 1,
+    "source_rows": [
+      582
+    ]
+  },
+  {
+    "sequence": "KWKLFKKIEKVGQGIGAVLKVLTTGL",
+    "label": 0,
+    "source_rows": [
+      1259
+    ]
+  },
+  {
+    "sequence": "KWKLFKKIEKVGQNIRDGIIKAGPAVAVVGQATQIAK",
+    "label": 0,
+    "source_rows": [
+      1086
+    ]
+  },
+  {
+    "sequence": "KWKLFKKIEKVGQNIRDGIIKAGPAVAWVGQATQIAK",
+    "label": 1,
+    "source_rows": [
+      810
+    ]
+  },
+  {
+    "sequence": "KWKLFKKIFKRIVQRIKDFLRN",
+    "label": 1,
+    "source_rows": [
+      984
+    ]
+  },
+  {
+    "sequence": "KWKLFKKIGIGAVLKVLTTGLPALKLTK",
+    "label": 1,
+    "source_rows": [
+      1263
+    ]
+  },
+  {
+    "sequence": "KWKLFKKISKFLHLAKKF",
+    "label": 1,
+    "source_rows": [
+      1055
+    ]
+  },
+  {
+    "sequence": "KWKLFKKKTKLFKKFAKKLAKKL",
+    "label": 1,
+    "source_rows": [
+      649
+    ]
+  },
+  {
+    "sequence": "KWKVFKKAEKMIRNIRNKIVK",
+    "label": 0,
+    "source_rows": [
+      463
+    ]
+  },
+  {
+    "sequence": "KWKVFKKIEKMARNIRNKIVK",
+    "label": 0,
+    "source_rows": [
+      1526
+    ]
+  },
+  {
+    "sequence": "KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL",
+    "label": 0,
+    "source_rows": [
+      493
+    ]
+  },
+  {
+    "sequence": "KWKVFKKIEKMGRNIRNGIVKAGPKWKVFKKIEK",
+    "label": 0,
+    "source_rows": [
+      1316
+    ]
+  },
+  {
+    "sequence": "KWKVFKKIEKNGRNIRNGIVKAGPAIAVLGEAKAL",
+    "label": 1,
+    "source_rows": [
+      1404
+    ]
+  },
+  {
+    "sequence": "KWKVLKKKIKMLRNRINGLVKAGPALKVKLQALAL",
+    "label": 0,
+    "source_rows": [
+      1462
+    ]
+  },
+  {
+    "sequence": "KWMKLLKKILK",
+    "label": 0,
+    "source_rows": [
+      429
+    ]
+  },
+  {
+    "sequence": "KWRRWIRWL",
+    "label": 0,
+    "source_rows": [
+      940
+    ]
+  },
+  {
+    "sequence": "KWRRWVRWI",
+    "label": 0,
+    "source_rows": [
+      178
+    ]
+  },
+  {
+    "sequence": "KYIRHLKTWFKKVFKLIGEV",
+    "label": 1,
+    "source_rows": [
+      492
+    ]
+  },
+  {
+    "sequence": "LALALALALALALALALALALA",
+    "label": 0,
+    "source_rows": [
+      269
+    ]
+  },
+  {
+    "sequence": "LALKALLAVAKKIL",
+    "label": 0,
+    "source_rows": [
+      1033
+    ]
+  },
+  {
+    "sequence": "LALKSGGWLRLFGLKDKKH",
+    "label": 1,
+    "source_rows": [
+      61
+    ]
+  },
+  {
+    "sequence": "LCYCRRRFCFCV",
+    "label": 1,
+    "source_rows": [
+      65
+    ]
+  },
+  {
+    "sequence": "LCYCRRRFCVCVGR",
+    "label": 1,
+    "source_rows": [
+      1488
+    ]
+  },
+  {
+    "sequence": "LCYCRRRFCWCV",
+    "label": 1,
+    "source_rows": [
+      607
+    ]
+  },
+  {
+    "sequence": "LDVKKIICVACKIKPNPACKKICPK",
+    "label": 0,
+    "source_rows": [
+      987
+    ]
+  },
+  {
+    "sequence": "LDVKKIICVACKIRPNPACKKICPK",
+    "label": 0,
+    "source_rows": [
+      1180
+    ]
+  },
+  {
+    "sequence": "LFGFLIKLIPSLFGALSNIGRNRNQ",
+    "label": 1,
+    "source_rows": [
+      554
+    ]
+  },
+  {
+    "sequence": "LFGFLIPLLPHIIGAIPQVIGAIR",
+    "label": 1,
+    "source_rows": [
+      747
+    ]
+  },
+  {
+    "sequence": "LFGMALKLLKKVL",
+    "label": 1,
+    "source_rows": [
+      115
+    ]
+  },
+  {
+    "sequence": "LFNNYITAALKLLEKLYKV",
+    "label": 1,
+    "source_rows": [
+      419
+    ]
+  },
+  {
+    "sequence": "LGLFKKLLRLIKKGFKK",
+    "label": 1,
+    "source_rows": [
+      432
+    ]
+  },
+  {
+    "sequence": "LIGLVSKGTSVLVKTVSKKVLKQ",
+    "label": 1,
+    "source_rows": [
+      84
+    ]
+  },
+  {
+    "sequence": "LKIPGFVKDTLKKVAKGIFSAVAGAMTPS",
+    "label": 0,
+    "source_rows": [
+      110
+    ]
+  },
+  {
+    "sequence": "LKKLLKKLLK",
+    "label": 0,
+    "source_rows": [
+      974
+    ]
+  },
+  {
+    "sequence": "LKKLLKKLLKKL",
+    "label": 0,
+    "source_rows": [
+      1235
+    ]
+  },
+  {
+    "sequence": "LKKLLKKLLKKLLKKLLKKLLKKLLKKL",
+    "label": 1,
+    "source_rows": [
+      692
+    ]
+  },
+  {
+    "sequence": "LKKLLKKLLKKLLKKLLKKLLKKLLKKLLKKL",
+    "label": 1,
+    "source_rows": [
+      120
+    ]
+  },
+  {
+    "sequence": "LKKVLKAAA",
+    "label": 0,
+    "source_rows": [
+      1192
+    ]
+  },
+  {
+    "sequence": "LKLFKKILKVL",
+    "label": 0,
+    "source_rows": [
+      1486
+    ]
+  },
+  {
+    "sequence": "LKLGTLVNLAKKIL",
+    "label": 0,
+    "source_rows": [
+      157
+    ]
+  },
+  {
+    "sequence": "LKLKLKLKL",
+    "label": 0,
+    "source_rows": [
+      175
+    ]
+  },
+  {
+    "sequence": "LKLKLKLKLKLKL",
+    "label": 1,
+    "source_rows": [
+      645
+    ]
+  },
+  {
+    "sequence": "LKLKLKLKLKLKLKL",
+    "label": 1,
+    "source_rows": [
+      961
+    ]
+  },
+  {
+    "sequence": "LKLKLKLKLKLKLKLK",
+    "label": 0,
+    "source_rows": [
+      932
+    ]
+  },
+  {
+    "sequence": "LKLKLKLKLKLKLKLKLK",
+    "label": 0,
+    "source_rows": [
+      730
+    ]
+  },
+  {
+    "sequence": "LKLKLKLKLKLKLKLKLKLK",
+    "label": 0,
+    "source_rows": [
+      817
+    ]
+  },
+  {
+    "sequence": "LKLKLKLKLKLKLKLKLKLKLK",
+    "label": 0,
+    "source_rows": [
+      635
+    ]
+  },
+  {
+    "sequence": "LKLKLKLKLKLKLKLKLKLKLKLK",
+    "label": 0,
+    "source_rows": [
+      507
+    ]
+  },
+  {
+    "sequence": "LKLLLLKLLKLKLWK",
+    "label": 1,
+    "source_rows": [
+      1354
+    ]
+  },
+  {
+    "sequence": "LKLSPKTKKTLKKVLKGAIKGAIAIASMA",
+    "label": 0,
+    "source_rows": [
+      721
+    ]
+  },
+  {
+    "sequence": "LKMLGMLFHNIRNILKTV",
+    "label": 0,
+    "source_rows": [
+      166
+    ]
+  },
+  {
+    "sequence": "LKWGAILKHIIK",
+    "label": 0,
+    "source_rows": [
+      1230
+    ]
+  },
+  {
+    "sequence": "LLAGLAANFLPKIFCKITRKC",
+    "label": 1,
+    "source_rows": [
+      238
+    ]
+  },
+  {
+    "sequence": "LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES",
+    "label": 1,
+    "source_rows": [
+      914
+    ]
+  },
+  {
+    "sequence": "LLGMIPLAISAISALSKL",
+    "label": 1,
+    "source_rows": [
+      404
+    ]
+  },
+  {
+    "sequence": "LLGMIPVAIKAISALSKL",
+    "label": 1,
+    "source_rows": [
+      386
+    ]
+  },
+  {
+    "sequence": "LLGPVLGLVSNVLGGLL",
+    "label": 0,
+    "source_rows": [
+      945
+    ]
+  },
+  {
+    "sequence": "LLGSLLSLGLKLL",
+    "label": 1,
+    "source_rows": [
+      661
+    ]
+  },
+  {
+    "sequence": "LLIILRRRIRKQAHAHSK",
+    "label": 0,
+    "source_rows": [
+      1326
+    ]
+  },
+  {
+    "sequence": "LLIILRRRWRKQAKAKSK",
+    "label": 0,
+    "source_rows": [
+      1249
+    ]
+  },
+  {
+    "sequence": "LLIILRRRWRKQARARSK",
+    "label": 0,
+    "source_rows": [
+      1315
+    ]
+  },
+  {
+    "sequence": "LLIILRRRWRRQARARSR",
+    "label": 1,
+    "source_rows": [
+      89
+    ]
+  },
+  {
+    "sequence": "LLKKLLKK",
+    "label": 0,
+    "source_rows": [
+      105
+    ]
+  },
+  {
+    "sequence": "LLKKLLKKC",
+    "label": 0,
+    "source_rows": [
+      1489
+    ]
+  },
+  {
+    "sequence": "LLKKLLKKLLKKC",
+    "label": 0,
+    "source_rows": [
+      893
+    ]
+  },
+  {
+    "sequence": "LLKKLLKKLLKKLLKK",
+    "label": 1,
+    "source_rows": [
+      52
+    ]
+  },
+  {
+    "sequence": "LLKKLLKKLLKL",
+    "label": 0,
+    "source_rows": [
+      551
+    ]
+  },
+  {
+    "sequence": "LLKKLLKKM",
+    "label": 0,
+    "source_rows": [
+      469
+    ]
+  },
+  {
+    "sequence": "LLKKVLKAAA",
+    "label": 0,
+    "source_rows": [
+      291
+    ]
+  },
+  {
+    "sequence": "LLLFLLKKRKKRKY",
+    "label": 1,
+    "source_rows": [
+      410
+    ]
+  },
+  {
+    "sequence": "LLPALISWIKRKRQQ",
+    "label": 0,
+    "source_rows": [
+      109
+    ]
+  },
+  {
+    "sequence": "LLPIVGNLLKSLL",
+    "label": 0,
+    "source_rows": [
+      814
+    ]
+  },
+  {
+    "sequence": "LLRRLLRRLLRR",
+    "label": 0,
+    "source_rows": [
+      1455
+    ]
+  },
+  {
+    "sequence": "LLRRLLRRLLRRLLRR",
+    "label": 1,
+    "source_rows": [
+      1286
+    ]
+  },
+  {
+    "sequence": "LLSLALAALPKLFCLIFKKC",
+    "label": 0,
+    "source_rows": [
+      872
+    ]
+  },
+  {
+    "sequence": "LNKGAILKHIIK",
+    "label": 0,
+    "source_rows": [
+      1009
+    ]
+  },
+  {
+    "sequence": "LNLKALLAVAKKIL",
+    "label": 1,
+    "source_rows": [
+      88
+    ]
+  },
+  {
+    "sequence": "LNLKGLIKKVASLLN",
+    "label": 0,
+    "source_rows": [
+      1351
+    ]
+  },
+  {
+    "sequence": "LNWGAALKHAAK",
+    "label": 0,
+    "source_rows": [
+      640
+    ]
+  },
+  {
+    "sequence": "LNWGAGLKHGGK",
+    "label": 0,
+    "source_rows": [
+      856
+    ]
+  },
+  {
+    "sequence": "LNWGAIKKHIIK",
+    "label": 0,
+    "source_rows": [
+      687
+    ]
+  },
+  {
+    "sequence": "LNWGAILKHIIK",
+    "label": 0,
+    "source_rows": [
+      456
+    ]
+  },
+  {
+    "sequence": "LNWGAILKHIKK",
+    "label": 0,
+    "source_rows": [
+      771
+    ]
+  },
+  {
+    "sequence": "LNWGAILKHKIK",
+    "label": 0,
+    "source_rows": [
+      960
+    ]
+  },
+  {
+    "sequence": "LNWGAILKKIIK",
+    "label": 0,
+    "source_rows": [
+      678
+    ]
+  },
+  {
+    "sequence": "LNWGAKLKHIIK",
+    "label": 0,
+    "source_rows": [
+      804
+    ]
+  },
+  {
+    "sequence": "LNWGALLKHLLK",
+    "label": 1,
+    "source_rows": [
+      1248
+    ]
+  },
+  {
+    "sequence": "LNWGAVLKHVVK",
+    "label": 0,
+    "source_rows": [
+      859
+    ]
+  },
+  {
+    "sequence": "LNWGAWLKHWWK",
+    "label": 0,
+    "source_rows": [
+      685
+    ]
+  },
+  {
+    "sequence": "LNWGKILKHIIK",
+    "label": 0,
+    "source_rows": [
+      1276
+    ]
+  },
+  {
+    "sequence": "LPFFLLSLIPSAISAIKKI",
+    "label": 1,
+    "source_rows": [
+      48
+    ]
+  },
+  {
+    "sequence": "LRFIKKILKKLI",
+    "label": 0,
+    "source_rows": [
+      331
+    ]
+  },
+  {
+    "sequence": "LRFLKKALKKLF",
+    "label": 0,
+    "source_rows": [
+      1217
+    ]
+  },
+  {
+    "sequence": "LRFLKKILKHLF",
+    "label": 1,
+    "source_rows": [
+      948
+    ]
+  },
+  {
+    "sequence": "LRFLKKILKKLF",
+    "label": 0,
+    "source_rows": [
+      1101
+    ]
+  },
+  {
+    "sequence": "LRFLRRILRRLL",
+    "label": 1,
+    "source_rows": [
+      1402
+    ]
+  },
+  {
+    "sequence": "LRIIRRILRRLI",
+    "label": 0,
+    "source_rows": [
+      136
+    ]
+  },
+  {
+    "sequence": "LRILRRLLRRLF",
+    "label": 0,
+    "source_rows": [
+      1417
+    ]
+  },
+  {
+    "sequence": "LRIVKLILKWLR",
+    "label": 1,
+    "source_rows": [
+      1426
+    ]
+  },
+  {
+    "sequence": "LRLRLRLRLRLRLR",
+    "label": 0,
+    "source_rows": [
+      357
+    ]
+  },
+  {
+    "sequence": "LRRLWLRANRLLRRLWLRANRL",
+    "label": 1,
+    "source_rows": [
+      521
+    ]
+  },
+  {
+    "sequence": "LVIRTVIAGYNLYRAIKKK",
+    "label": 0,
+    "source_rows": [
+      1038
+    ]
+  },
+  {
+    "sequence": "LVKKLLKLAMGFG",
+    "label": 0,
+    "source_rows": [
+      629
+    ]
+  },
+  {
+    "sequence": "LWGALLGLGSTLLSKL",
+    "label": 1,
+    "source_rows": [
+      953
+    ]
+  },
+  {
+    "sequence": "LWKIGKKIWRVLWNWR",
+    "label": 1,
+    "source_rows": [
+      165
+    ]
+  },
+  {
+    "sequence": "LWKIWKKIWRVGWNWR",
+    "label": 1,
+    "source_rows": [
+      656
+    ]
+  },
+  {
+    "sequence": "LWKIWKKIWRVWKNWR",
+    "label": 1,
+    "source_rows": [
+      559
+    ]
+  },
+  {
+    "sequence": "LWKIWWKIWRVWKNWR",
+    "label": 1,
+    "source_rows": [
+      1458
+    ]
+  },
+  {
+    "sequence": "MAADIISTIGDLVKLIINTVKKFQK",
+    "label": 1,
+    "source_rows": [
+      263
+    ]
+  },
+  {
+    "sequence": "MAQDIISTIGDLVKWIIDTVNKFPKK",
+    "label": 1,
+    "source_rows": [
+      293
+    ]
+  },
+  {
+    "sequence": "MDFIIDIIKKIVGLFTGK",
+    "label": 1,
+    "source_rows": [
+      1520
+    ]
+  },
+  {
+    "sequence": "MKKLLLILFCLALALAGCKKAP",
+    "label": 0,
+    "source_rows": [
+      826
+    ]
+  },
+  {
+    "sequence": "MLLKKLLKKLLKKM",
+    "label": 1,
+    "source_rows": [
+      1189
+    ]
+  },
+  {
+    "sequence": "MLLKKLLKKM",
+    "label": 0,
+    "source_rows": [
+      828
+    ]
+  },
+  {
+    "sequence": "MMRVMRRKTKVIWEKKDFIGLYSID",
+    "label": 1,
+    "source_rows": [
+      954
+    ]
+  },
+  {
+    "sequence": "MQFITDLIKKAVDFFKGLFGNK",
+    "label": 1,
+    "source_rows": [
+      864
+    ]
+  },
+  {
+    "sequence": "MWSKILGHLIR",
+    "label": 0,
+    "source_rows": [
+      14
+    ]
+  },
+  {
+    "sequence": "NILNTIINLAKKIL",
+    "label": 0,
+    "source_rows": [
+      754
+    ]
+  },
+  {
+    "sequence": "NIWKKIASIAKEVLKAL",
+    "label": 1,
+    "source_rows": [
+      536
+    ]
+  },
+  {
+    "sequence": "NLLKSALKTVNKLLAAS",
+    "label": 0,
+    "source_rows": [
+      1154
+    ]
+  },
+  {
+    "sequence": "NLLNDALGTVNGLLGRS",
+    "label": 0,
+    "source_rows": [
+      1072
+    ]
+  },
+  {
+    "sequence": "NLWAGILKHIIK",
+    "label": 0,
+    "source_rows": [
+      244
+    ]
+  },
+  {
+    "sequence": "NVWKKILGKIIKVAK",
+    "label": 0,
+    "source_rows": [
+      980
+    ]
+  },
+  {
+    "sequence": "NVWKKVLGKIIKVAK",
+    "label": 0,
+    "source_rows": [
+      846
+    ]
+  },
+  {
+    "sequence": "PKVMAHMK",
+    "label": 0,
+    "source_rows": [
+      873
+    ]
+  },
+  {
+    "sequence": "PLLKKLLKKP",
+    "label": 0,
+    "source_rows": [
+      741
+    ]
+  },
+  {
+    "sequence": "PRRRRSSSRP",
+    "label": 1,
+    "source_rows": [
+      365
+    ]
+  },
+  {
+    "sequence": "QIFKKVKTWYKKAFQILGRL",
+    "label": 0,
+    "source_rows": [
+      1155
+    ]
+  },
+  {
+    "sequence": "QIIKKVRTWIKKAWHLIGKI",
+    "label": 0,
+    "source_rows": [
+      795
+    ]
+  },
+  {
+    "sequence": "QIYKKYRTWYRKAWKVLGKV",
+    "label": 0,
+    "source_rows": [
+      737
+    ]
+  },
+  {
+    "sequence": "QLIHKIRTWYRKAWHVLGKV",
+    "label": 0,
+    "source_rows": [
+      1165
+    ]
+  },
+  {
+    "sequence": "QLIKKLRTWYRKAWHVLGKL",
+    "label": 0,
+    "source_rows": [
+      1464
+    ]
+  },
+  {
+    "sequence": "QLLKKIRTWYRKAWHVYGKV",
+    "label": 0,
+    "source_rows": [
+      1524
+    ]
+  },
+  {
+    "sequence": "QRIRQLHTWIKKAWHIWPKI",
+    "label": 0,
+    "source_rows": [
+      235
+    ]
+  },
+  {
+    "sequence": "QSHLSLCRWCCNCCHNKGCGFCCKF",
+    "label": 1,
+    "source_rows": [
+      94
+    ]
+  },
+  {
+    "sequence": "QVLKKVRTWYRKAFHVIGKV",
+    "label": 0,
+    "source_rows": [
+      646
+    ]
+  },
+  {
+    "sequence": "QVVKKIRTWYHKAWHVLGKV",
+    "label": 0,
+    "source_rows": [
+      455
+    ]
+  },
+  {
+    "sequence": "QYLRRVRTWLRRAWHILGKV",
+    "label": 1,
+    "source_rows": [
+      479
+    ]
+  },
+  {
+    "sequence": "RAGLQFPVGRVHRLLRK",
+    "label": 0,
+    "source_rows": [
+      992
+    ]
+  },
+  {
+    "sequence": "RALRKALKAWRKLAKKLQ",
+    "label": 0,
+    "source_rows": [
+      40
+    ]
+  },
+  {
+    "sequence": "RAVIYKIPYNAIASRWIIAPKKC",
+    "label": 0,
+    "source_rows": [
+      1294
+    ]
+  },
+  {
+    "sequence": "RFARRFARRFARRFARRFARRFARRFARRFAR",
+    "label": 1,
+    "source_rows": [
+      719
+    ]
+  },
+  {
+    "sequence": "RFGRFLRKILRFLKK",
+    "label": 0,
+    "source_rows": [
+      328
+    ]
+  },
+  {
+    "sequence": "RFGRFLRKILRFLLK",
+    "label": 1,
+    "source_rows": [
+      200
+    ]
+  },
+  {
+    "sequence": "RFGRFLRKILRFLRK",
+    "label": 1,
+    "source_rows": [
+      1358
+    ]
+  },
+  {
+    "sequence": "RFLKHFKTVYKRYWKVLGRL",
+    "label": 0,
+    "source_rows": [
+      602
+    ]
+  },
+  {
+    "sequence": "RFRRLRKKTRKRLKKI",
+    "label": 0,
+    "source_rows": [
+      524
+    ]
+  },
+  {
+    "sequence": "RFRRLRKKWRKRLKKI",
+    "label": 0,
+    "source_rows": [
+      1399
+    ]
+  },
+  {
+    "sequence": "RGGCLCYCRRRFCVCVCR",
+    "label": 0,
+    "source_rows": [
+      213
+    ]
+  },
+  {
+    "sequence": "RGGRLCYCRGWICFCVGR",
+    "label": 1,
+    "source_rows": [
+      1418
+    ]
+  },
+  {
+    "sequence": "RGGRLCYCRPRFCVCVGR",
+    "label": 1,
+    "source_rows": [
+      131
+    ]
+  },
+  {
+    "sequence": "RGGRLCYCRRRFCVCA",
+    "label": 1,
+    "source_rows": [
+      704
+    ]
+  },
+  {
+    "sequence": "RGGRLCYCRRRFCVCF",
+    "label": 1,
+    "source_rows": [
+      519
+    ]
+  },
+  {
+    "sequence": "RGGRLCYCRRRFCVCI",
+    "label": 1,
+    "source_rows": [
+      1099
+    ]
+  },
+  {
+    "sequence": "RGGRLCYCRRRFCVCL",
+    "label": 1,
+    "source_rows": [
+      612
+    ]
+  },
+  {
+    "sequence": "RGGRLCYCRRRFCVCVGR",
+    "label": 1,
+    "source_rows": [
+      1353
+    ]
+  },
+  {
+    "sequence": "RGGRLCYCRRRFCVCW",
+    "label": 1,
+    "source_rows": [
+      631
+    ]
+  },
+  {
+    "sequence": "RGGRLCYCRRRFCVCY",
+    "label": 1,
+    "source_rows": [
+      1196
+    ]
+  },
+  {
+    "sequence": "RGLRRLGRKIAHGVKKYG",
+    "label": 0,
+    "source_rows": [
+      1328
+    ]
+  },
+  {
+    "sequence": "RGLRRLGRKIAHGVKKYGATVLRIIRIA",
+    "label": 1,
+    "source_rows": [
+      822
+    ]
+  },
+  {
+    "sequence": "RGLRRLGRKIAHGVKKYGPTVKRIKRKA",
+    "label": 0,
+    "source_rows": [
+      788
+    ]
+  },
+  {
+    "sequence": "RGLRRLGRKIAHGVKKYGPTVLRIIRIA",
+    "label": 1,
+    "source_rows": [
+      655
+    ]
+  },
+  {
+    "sequence": "RGLRRLGRKIAHGVKKYGPTVLRIIRIAG",
+    "label": 1,
+    "source_rows": [
+      838
+    ]
+  },
+  {
+    "sequence": "RGLRRLGRKIAHGVKKYGPTVLRIIRIAGGGGGSC",
+    "label": 0,
+    "source_rows": [
+      757
+    ]
+  },
+  {
+    "sequence": "RGLRRLGRKIAHGVKKYGPTVLRIIRTAT",
+    "label": 1,
+    "source_rows": [
+      259
+    ]
+  },
+  {
+    "sequence": "RGTCYNRVGLIIRNFSKLKGKKV",
+    "label": 0,
+    "source_rows": [
+      246
+    ]
+  },
+  {
+    "sequence": "RIGVLLARLPKLFSLFKLMGKKV",
+    "label": 1,
+    "source_rows": [
+      1233
+    ]
+  },
+  {
+    "sequence": "RIRWILRYWRWS",
+    "label": 1,
+    "source_rows": [
+      413
+    ]
+  },
+  {
+    "sequence": "RIWFQNRRMRWRR",
+    "label": 0,
+    "source_rows": [
+      1456
+    ]
+  },
+  {
+    "sequence": "RKDVYRRRRRR",
+    "label": 0,
+    "source_rows": [
+      1156
+    ]
+  },
+  {
+    "sequence": "RKIWWWWL",
+    "label": 1,
+    "source_rows": [
+      1044
+    ]
+  },
+  {
+    "sequence": "RKKRRQRRRLNLKALLAVAKKIL",
+    "label": 1,
+    "source_rows": [
+      161
+    ]
+  },
+  {
+    "sequence": "RKLRRLKRKIAHKVKKY",
+    "label": 0,
+    "source_rows": [
+      218
+    ]
+  },
+  {
+    "sequence": "RLIKRIKTWYRKAWKVVGKF",
+    "label": 0,
+    "source_rows": [
+      1304
+    ]
+  },
+  {
+    "sequence": "RLIKRLKTFVRKTWKWVGHF",
+    "label": 1,
+    "source_rows": [
+      20
+    ]
+  },
+  {
+    "sequence": "RLMRIFRILKLAR",
+    "label": 1,
+    "source_rows": [
+      1157
+    ]
+  },
+  {
+    "sequence": "RLYRKVYG",
+    "label": 0,
+    "source_rows": [
+      203
+    ]
+  },
+  {
+    "sequence": "RLYRKVYGRLYRKVYGRLYRKVYGRLYRKVYGKKK",
+    "label": 0,
+    "source_rows": [
+      1337
+    ]
+  },
+  {
+    "sequence": "RLYRRLYR",
+    "label": 0,
+    "source_rows": [
+      819
+    ]
+  },
+  {
+    "sequence": "RLYRRLYRK",
+    "label": 0,
+    "source_rows": [
+      160
+    ]
+  },
+  {
+    "sequence": "RLYRRLYRRLYRRLYRKKK",
+    "label": 0,
+    "source_rows": [
+      573
+    ]
+  },
+  {
+    "sequence": "RLYRRLYRRLYRRLYRRLYRRLYRRLYRRLYR",
+    "label": 1,
+    "source_rows": [
+      1116
+    ]
+  },
+  {
+    "sequence": "RLYRRLYRRLYRRLYRRLYRRLYRRLYRRLYRKKKKKKK",
+    "label": 0,
+    "source_rows": [
+      1463
+    ]
+  },
+  {
+    "sequence": "RPFIRAQWFAIQHISPRTIAMRAINNYRWR",
+    "label": 0,
+    "source_rows": [
+      512
+    ]
+  },
+  {
+    "sequence": "RPFTRAQWFAIIHISPRTIAMRAINNYRWR",
+    "label": 0,
+    "source_rows": [
+      815
+    ]
+  },
+  {
+    "sequence": "RPFTRAQWFAIQHISPRTIAMRAINNYRWR",
+    "label": 0,
+    "source_rows": [
+      422
+    ]
+  },
+  {
+    "sequence": "RPPQFTRAQWFAIQHISLN",
+    "label": 1,
+    "source_rows": [
+      662
+    ]
+  },
+  {
+    "sequence": "RQIKIWFQNRRLKWKK",
+    "label": 0,
+    "source_rows": [
+      750
+    ]
+  },
+  {
+    "sequence": "RQIKIWFQNRRMKWKK",
+    "label": 0,
+    "source_rows": [
+      1443
+    ]
+  },
+  {
+    "sequence": "RQIRIWFQNRRMRWRR",
+    "label": 0,
+    "source_rows": [
+      173
+    ]
+  },
+  {
+    "sequence": "RQYMRQIEQALRYGYRISRR",
+    "label": 0,
+    "source_rows": [
+      529
+    ]
+  },
+  {
+    "sequence": "RRFPWWWPFRR",
+    "label": 0,
+    "source_rows": [
+      1179
+    ]
+  },
+  {
+    "sequence": "RRGCFRVCYRGFCFQRCR",
+    "label": 1,
+    "source_rows": [
+      295
+    ]
+  },
+  {
+    "sequence": "RRLFRRILRWL",
+    "label": 1,
+    "source_rows": [
+      679
+    ]
+  },
+  {
+    "sequence": "RRLFRRILRYL",
+    "label": 1,
+    "source_rows": [
+      1255
+    ]
+  },
+  {
+    "sequence": "RRRRRRRKDVY",
+    "label": 0,
+    "source_rows": [
+      1236
+    ]
+  },
+  {
+    "sequence": "RRRRWWWL",
+    "label": 0,
+    "source_rows": [
+      494
+    ]
+  },
+  {
+    "sequence": "RRRWWWWA",
+    "label": 0,
+    "source_rows": [
+      38
+    ]
+  },
+  {
+    "sequence": "RRRWWWWL",
+    "label": 1,
+    "source_rows": [
+      1335
+    ]
+  },
+  {
+    "sequence": "RRRWWWWV",
+    "label": 0,
+    "source_rows": [
+      1027
+    ]
+  },
+  {
+    "sequence": "RRWCVYAYVRVRGVRVYAYVCW",
+    "label": 1,
+    "source_rows": [
+      522
+    ]
+  },
+  {
+    "sequence": "RRWPWWPWRR",
+    "label": 0,
+    "source_rows": [
+      803
+    ]
+  },
+  {
+    "sequence": "RRWRIVVIRVRR",
+    "label": 1,
+    "source_rows": [
+      951
+    ]
+  },
+  {
+    "sequence": "RSKKWRKIEKRVKKIFEKTKEALPVIQGVATIVGAVGR",
+    "label": 1,
+    "source_rows": [
+      552
+    ]
+  },
+  {
+    "sequence": "RSTEDIIKSISGGGFLNAMNA",
+    "label": 0,
+    "source_rows": [
+      372
+    ]
+  },
+  {
+    "sequence": "RVCIRVCYRGVCYRRCW",
+    "label": 0,
+    "source_rows": [
+      1141
+    ]
+  },
+  {
+    "sequence": "RVCSWIPLPICH",
+    "label": 0,
+    "source_rows": [
+      1299
+    ]
+  },
+  {
+    "sequence": "RVKRVWKLVIRLVKALYKLYRAIKKK",
+    "label": 1,
+    "source_rows": [
+      608
+    ]
+  },
+  {
+    "sequence": "RVKRVWPLVIRTVIA",
+    "label": 0,
+    "source_rows": [
+      1521
+    ]
+  },
+  {
+    "sequence": "RVKRVWPLVIRTVIAGYNLYRAI",
+    "label": 1,
+    "source_rows": [
+      1134
+    ]
+  },
+  {
+    "sequence": "RVKRVWPLVIRTVIALYNLYRAIKKK",
+    "label": 1,
+    "source_rows": [
+      920
+    ]
+  },
+  {
+    "sequence": "RVRRFPWWWPFLRRR",
+    "label": 1,
+    "source_rows": [
+      847
+    ]
+  },
+  {
+    "sequence": "RWCFRVCYRGICYRKCR",
+    "label": 1,
+    "source_rows": [
+      1317
+    ]
+  },
+  {
+    "sequence": "RWCRRYRVRVRGVLVYAYVCW",
+    "label": 1,
+    "source_rows": [
+      107
+    ]
+  },
+  {
+    "sequence": "RWCVYAYVRVRGVLVRYRRCW",
+    "label": 1,
+    "source_rows": [
+      460
+    ]
+  },
+  {
+    "sequence": "RWFKIQLQIRRWKNKK",
+    "label": 1,
+    "source_rows": [
+      1287
+    ]
+  },
+  {
+    "sequence": "RWFKIQMQIRRWKNKK",
+    "label": 0,
+    "source_rows": [
+      1341
+    ]
+  },
+  {
+    "sequence": "RWFRIQLQIRRWRNRR",
+    "label": 1,
+    "source_rows": [
+      313
+    ]
+  },
+  {
+    "sequence": "RWGKWFKKATHVGKHVGKAALTAYL",
+    "label": 1,
+    "source_rows": [
+      368
+    ]
+  },
+  {
+    "sequence": "RWQWRWQWR",
+    "label": 0,
+    "source_rows": [
+      187
+    ]
+  },
+  {
+    "sequence": "RWRRFWRR",
+    "label": 0,
+    "source_rows": [
+      1011
+    ]
+  },
+  {
+    "sequence": "RWRWRWRW",
+    "label": 1,
+    "source_rows": [
+      336
+    ]
+  },
+  {
+    "sequence": "RWRWRWRWRW",
+    "label": 1,
+    "source_rows": [
+      938
+    ]
+  },
+  {
+    "sequence": "RWWLRRIW",
+    "label": 0,
+    "source_rows": [
+      900
+    ]
+  },
+  {
+    "sequence": "SAVGRHGRRFGLRKHRKH",
+    "label": 0,
+    "source_rows": [
+      1364
+    ]
+  },
+  {
+    "sequence": "SAVGRHLRRFGLRKHRKH",
+    "label": 0,
+    "source_rows": [
+      1280
+    ]
+  },
+  {
+    "sequence": "SAVLRHLRRFLLRKHRKH",
+    "label": 0,
+    "source_rows": [
+      561
+    ]
+  },
+  {
+    "sequence": "SAVWRHWRRFWLRKHRKH",
+    "label": 0,
+    "source_rows": [
+      1378
+    ]
+  },
+  {
+    "sequence": "SAVWRRWRRFWLRKRRKR",
+    "label": 0,
+    "source_rows": [
+      888
+    ]
+  },
+  {
+    "sequence": "SAVWRWRRFWLRKRK",
+    "label": 0,
+    "source_rows": [
+      778
+    ]
+  },
+  {
+    "sequence": "SFLTTVKKLVTNLAAL",
+    "label": 0,
+    "source_rows": [
+      137
+    ]
+  },
+  {
+    "sequence": "SFLTTVKKLVTNLAALAGTVIDTIKCKVTGGC",
+    "label": 1,
+    "source_rows": [
+      928
+    ]
+  },
+  {
+    "sequence": "SFLTTVKKLVTNLAALAGTVIDTIKCKVTGGCRT",
+    "label": 1,
+    "source_rows": [
+      196
+    ]
+  },
+  {
+    "sequence": "SILDKIKNVALGVARGAGTGILKALLCKLDKSC",
+    "label": 0,
+    "source_rows": [
+      572
+    ]
+  },
+  {
+    "sequence": "SILSLFKMGAKALGKTLIKQAGKAGAEYVACKATNQC",
+    "label": 1,
+    "source_rows": [
+      934
+    ]
+  },
+  {
+    "sequence": "SIPCGESCVFIPCTVTALLGCSCKSKVCYKN",
+    "label": 0,
+    "source_rows": [
+      1349
+    ]
+  },
+  {
+    "sequence": "SISCGESCAMISFCFTEVIGCSCKNKVCYLN",
+    "label": 1,
+    "source_rows": [
+      1318
+    ]
+  },
+  {
+    "sequence": "SKHWLWLW",
+    "label": 1,
+    "source_rows": [
+      241
+    ]
+  },
+  {
+    "sequence": "SKVGRHGRRFGHRAHRKL",
+    "label": 0,
+    "source_rows": [
+      267
+    ]
+  },
+  {
+    "sequence": "SKVGRHLRRFGHRAHRKL",
+    "label": 0,
+    "source_rows": [
+      887
+    ]
+  },
+  {
+    "sequence": "SKVGRHLRRFLHRAHRKL",
+    "label": 0,
+    "source_rows": [
+      1204
+    ]
+  },
+  {
+    "sequence": "SKVLRHLRRFLHRAHRKL",
+    "label": 0,
+    "source_rows": [
+      156
+    ]
+  },
+  {
+    "sequence": "SKVWRHWRRFWHRAHRKK",
+    "label": 0,
+    "source_rows": [
+      308
+    ]
+  },
+  {
+    "sequence": "SKVWRHWRRFWHRAHRKL",
+    "label": 0,
+    "source_rows": [
+      1064
+    ]
+  },
+  {
+    "sequence": "SKWMSLLKHILK",
+    "label": 1,
+    "source_rows": [
+      366
+    ]
+  },
+  {
+    "sequence": "SLFSIFKTAAKFVGKNLLKQAGKAGLETLACKAKNEC",
+    "label": 1,
+    "source_rows": [
+      18
+    ]
+  },
+  {
+    "sequence": "SLLGTVKDLLIGAGKSAAQSVLKGLSCKLSKDC",
+    "label": 0,
+    "source_rows": [
+      598
+    ]
+  },
+  {
+    "sequence": "SLWENFKNAGK",
+    "label": 0,
+    "source_rows": [
+      1039
+    ]
+  },
+  {
+    "sequence": "SLWENFKNAGKK",
+    "label": 0,
+    "source_rows": [
+      1499
+    ]
+  },
+  {
+    "sequence": "SLWENFKNAGKKFILNILDK",
+    "label": 0,
+    "source_rows": [
+      222
+    ]
+  },
+  {
+    "sequence": "SLWENFKNAGKKFILNILDKIR",
+    "label": 0,
+    "source_rows": [
+      5
+    ]
+  },
+  {
+    "sequence": "SLWENFKNAGKKFILNILDKIRCRVAGGCR",
+    "label": 1,
+    "source_rows": [
+      1234
+    ]
+  },
+  {
+    "sequence": "SLWENFKNAGKKFILNILDKIRCRVAGGCRT",
+    "label": 0,
+    "source_rows": [
+      931
+    ]
+  },
+  {
+    "sequence": "SLWENFKNAGKQFILNILDKIRCRVAGGCRT",
+    "label": 0,
+    "source_rows": [
+      614
+    ]
+  },
+  {
+    "sequence": "SMLAVLKNLGKVGLGFVACKINKQC",
+    "label": 0,
+    "source_rows": [
+      482
+    ]
+  },
+  {
+    "sequence": "SMLKVLKNLGKVGLGFVACKINKQC",
+    "label": 0,
+    "source_rows": [
+      915
+    ]
+  },
+  {
+    "sequence": "SMLSVLKKLGKVGLGFVACKINKQC",
+    "label": 0,
+    "source_rows": [
+      1060
+    ]
+  },
+  {
+    "sequence": "SMLSVLKNLEKVELEFVACKINKQC",
+    "label": 0,
+    "source_rows": [
+      1104
+    ]
+  },
+  {
+    "sequence": "SMLSVLKNLGKVGLGFVA",
+    "label": 0,
+    "source_rows": [
+      112
+    ]
+  },
+  {
+    "sequence": "SMLSVLKNLGKVGLGFVAAKIAKQA",
+    "label": 0,
+    "source_rows": [
+      930
+    ]
+  },
+  {
+    "sequence": "SMLSVLKNLGKVGLGFVACKIKKQC",
+    "label": 1,
+    "source_rows": [
+      330
+    ]
+  },
+  {
+    "sequence": "SMLSVLKNLGKVGLGFVACKINKKC",
+    "label": 1,
+    "source_rows": [
+      217
+    ]
+  },
+  {
+    "sequence": "SMLSVLKNLGKVGLGFVASKINKQS",
+    "label": 0,
+    "source_rows": [
+      1320
+    ]
+  },
+  {
+    "sequence": "SMLSVLKNLGRVGLGFVACKINKQC",
+    "label": 0,
+    "source_rows": [
+      1454
+    ]
+  },
+  {
+    "sequence": "SMLSVLKNLKKVGLGFVACKINKQC",
+    "label": 0,
+    "source_rows": [
+      1451
+    ]
+  },
+  {
+    "sequence": "SMLSVLKNLKKVKLKFVACKINKQC",
+    "label": 0,
+    "source_rows": [
+      845
+    ]
+  },
+  {
+    "sequence": "SMLSVLRNLGKVGLGFVACKINKQC",
+    "label": 0,
+    "source_rows": [
+      1293
+    ]
+  },
+  {
+    "sequence": "SNWKKIASIGKEVLKAL",
+    "label": 0,
+    "source_rows": [
+      342
+    ]
+  },
+  {
+    "sequence": "SNWLKLGKKMMSAL",
+    "label": 0,
+    "source_rows": [
+      1221
+    ]
+  },
+  {
+    "sequence": "SVIWRKLFFIFIKRSGNWIKKVEKRQNLL",
+    "label": 1,
+    "source_rows": [
+      1393
+    ]
+  },
+  {
+    "sequence": "SWKSMAKKLKEYMEKLKQRA",
+    "label": 1,
+    "source_rows": [
+      1377
+    ]
+  },
+  {
+    "sequence": "TLISWIKNKRKQRPRVSRRRRRRGGRRRR",
+    "label": 0,
+    "source_rows": [
+      759
+    ]
+  },
+  {
+    "sequence": "TLLKKVLKAAAK",
+    "label": 1,
+    "source_rows": [
+      674
+    ]
+  },
+  {
+    "sequence": "TLLKKVLKAAAKAALNAVLVGANA",
+    "label": 1,
+    "source_rows": [
+      585
+    ]
+  },
+  {
+    "sequence": "VAKKLAKLAKKLAKLAL",
+    "label": 0,
+    "source_rows": [
+      671
+    ]
+  },
+  {
+    "sequence": "VAKLLAKLAKKLL",
+    "label": 0,
+    "source_rows": [
+      1075
+    ]
+  },
+  {
+    "sequence": "VALALKALKKALKKLKKALKKAL",
+    "label": 1,
+    "source_rows": [
+      670
+    ]
+  },
+  {
+    "sequence": "VCKRWKKWKRKWKKWCV",
+    "label": 0,
+    "source_rows": [
+      540
+    ]
+  },
+  {
+    "sequence": "VCRTGRSRWRDVCRNFMRRYQSR",
+    "label": 0,
+    "source_rows": [
+      583
+    ]
+  },
+  {
+    "sequence": "VCYCRRRFCVCVGR",
+    "label": 1,
+    "source_rows": [
+      1468
+    ]
+  },
+  {
+    "sequence": "VFIDILDKMENAIHKAAQAGIG",
+    "label": 1,
+    "source_rows": [
+      693
+    ]
+  },
+  {
+    "sequence": "VGALAGFLYWHFLRKGTKMVGK",
+    "label": 1,
+    "source_rows": [
+      1252
+    ]
+  },
+  {
+    "sequence": "VGKVLKQLKKVSAVAKVAMKKGAALLK",
+    "label": 0,
+    "source_rows": [
+      229
+    ]
+  },
+  {
+    "sequence": "VKKFPWWWPFLKK",
+    "label": 0,
+    "source_rows": [
+      164
+    ]
+  },
+  {
+    "sequence": "VKRFKKFFRKFKKFV",
+    "label": 0,
+    "source_rows": [
+      716
+    ]
+  },
+  {
+    "sequence": "VKRFKKFFRKFKKSV",
+    "label": 0,
+    "source_rows": [
+      1178
+    ]
+  },
+  {
+    "sequence": "VKRWKKFWRKWKKWW",
+    "label": 0,
+    "source_rows": [
+      1253
+    ]
+  },
+  {
+    "sequence": "VKRWKKWFRKWKKWV",
+    "label": 0,
+    "source_rows": [
+      732
+    ]
+  },
+  {
+    "sequence": "VKRWKKWKRKWKKWV",
+    "label": 0,
+    "source_rows": [
+      1084
+    ]
+  },
+  {
+    "sequence": "VKRWKKWRWKWKKWV",
+    "label": 0,
+    "source_rows": [
+      885
+    ]
+  },
+  {
+    "sequence": "VKRWKKWWRKLKKSV",
+    "label": 0,
+    "source_rows": [
+      712
+    ]
+  },
+  {
+    "sequence": "VKWRWKKWRWKWKWKV",
+    "label": 0,
+    "source_rows": [
+      1212
+    ]
+  },
+  {
+    "sequence": "VKWRWKWKWRWKWKWKV",
+    "label": 0,
+    "source_rows": [
+      252
+    ]
+  },
+  {
+    "sequence": "VLGLALIVGGALLIKKKQAKS",
+    "label": 0,
+    "source_rows": [
+      597
+    ]
+  },
+  {
+    "sequence": "VLPKVMAHMK",
+    "label": 0,
+    "source_rows": [
+      722
+    ]
+  },
+  {
+    "sequence": "VNFKKLLGKLLKVVK",
+    "label": 0,
+    "source_rows": [
+      108
+    ]
+  },
+  {
+    "sequence": "VNRKKILGKSIKVVK",
+    "label": 1,
+    "source_rows": [
+      133
+    ]
+  },
+  {
+    "sequence": "VNSKKISGKSIKVSK",
+    "label": 1,
+    "source_rows": [
+      506
+    ]
+  },
+  {
+    "sequence": "VNSKKISPKSIKVSK",
+    "label": 1,
+    "source_rows": [
+      1035
+    ]
+  },
+  {
+    "sequence": "VNWKKIILGKIIKVVK",
+    "label": 0,
+    "source_rows": [
+      1466
+    ]
+  },
+  {
+    "sequence": "VNWKKILAKIIKVAK",
+    "label": 1,
+    "source_rows": [
+      1381
+    ]
+  },
+  {
+    "sequence": "VNWKKILGKI",
+    "label": 0,
+    "source_rows": [
+      921
+    ]
+  },
+  {
+    "sequence": "VNWKKILGKIIKVAK",
+    "label": 0,
+    "source_rows": [
+      123
+    ]
+  },
+  {
+    "sequence": "VNWKKILGKIIKVVK",
+    "label": 0,
+    "source_rows": [
+      75
+    ]
+  },
+  {
+    "sequence": "VNWKKILGKIKKVVK",
+    "label": 0,
+    "source_rows": [
+      264
+    ]
+  },
+  {
+    "sequence": "VNWKKILKKIIKVAK",
+    "label": 1,
+    "source_rows": [
+      825
+    ]
+  },
+  {
+    "sequence": "VNWKKILPKIIKVAK",
+    "label": 0,
+    "source_rows": [
+      442
+    ]
+  },
+  {
+    "sequence": "VNWKKLLGKLLKVVK",
+    "label": 1,
+    "source_rows": [
+      1037
+    ]
+  },
+  {
+    "sequence": "VNWKKSLGKSIKVVK",
+    "label": 1,
+    "source_rows": [
+      338
+    ]
+  },
+  {
+    "sequence": "VNWKKVLAKIIKVAK",
+    "label": 0,
+    "source_rows": [
+      1120
+    ]
+  },
+  {
+    "sequence": "VNWKKVLAKIIKVVK",
+    "label": 0,
+    "source_rows": [
+      870
+    ]
+  },
+  {
+    "sequence": "VNWKKVLGKVVKVVK",
+    "label": 0,
+    "source_rows": [
+      277
+    ]
+  },
+  {
+    "sequence": "VNWKKVLKKIIKVAK",
+    "label": 0,
+    "source_rows": [
+      502
+    ]
+  },
+  {
+    "sequence": "VNWKKVLPKIIKVAK",
+    "label": 0,
+    "source_rows": [
+      1251
+    ]
+  },
+  {
+    "sequence": "VNWRRILGRIIRVVR",
+    "label": 1,
+    "source_rows": [
+      1498
+    ]
+  },
+  {
+    "sequence": "VQLRIRVAVIRA",
+    "label": 0,
+    "source_rows": [
+      734
+    ]
+  },
+  {
+    "sequence": "VQWRIRVAVIRK",
+    "label": 0,
+    "source_rows": [
+      1211
+    ]
+  },
+  {
+    "sequence": "VRRFAWWWAFLRR",
+    "label": 1,
+    "source_rows": [
+      575
+    ]
+  },
+  {
+    "sequence": "VRRFAWWWPFLRR",
+    "label": 0,
+    "source_rows": [
+      1333
+    ]
+  },
+  {
+    "sequence": "VRRFPAAAPFLRR",
+    "label": 1,
+    "source_rows": [
+      1446
+    ]
+  },
+  {
+    "sequence": "VRRFPAAWPFLRR",
+    "label": 1,
+    "source_rows": [
+      1019
+    ]
+  },
+  {
+    "sequence": "VRRFPAWWPFLRR",
+    "label": 1,
+    "source_rows": [
+      784
+    ]
+  },
+  {
+    "sequence": "VRRFPFFFPFLRR",
+    "label": 0,
+    "source_rows": [
+      388
+    ]
+  },
+  {
+    "sequence": "VRRFPWAWPFLRR",
+    "label": 1,
+    "source_rows": [
+      1313
+    ]
+  },
+  {
+    "sequence": "VRRFPWWAPFLRR",
+    "label": 1,
+    "source_rows": [
+      37
+    ]
+  },
+  {
+    "sequence": "VRRFPWWWAFLRR",
+    "label": 0,
+    "source_rows": [
+      563
+    ]
+  },
+  {
+    "sequence": "VRRFPWWWPFLRR",
+    "label": 0,
+    "source_rows": [
+      603
+    ]
+  },
+  {
+    "sequence": "VRRFPWWYPFLRR",
+    "label": 1,
+    "source_rows": [
+      744
+    ]
+  },
+  {
+    "sequence": "VRRFPWYWPFLRR",
+    "label": 1,
+    "source_rows": [
+      149
+    ]
+  },
+  {
+    "sequence": "VRRFPWYYPFLRR",
+    "label": 1,
+    "source_rows": [
+      189
+    ]
+  },
+  {
+    "sequence": "VRRFPYWWPFLRR",
+    "label": 1,
+    "source_rows": [
+      533
+    ]
+  },
+  {
+    "sequence": "VRRFPYWYPFLRR",
+    "label": 1,
+    "source_rows": [
+      851
+    ]
+  },
+  {
+    "sequence": "VRRFPYYWPFLRR",
+    "label": 1,
+    "source_rows": [
+      376
+    ]
+  },
+  {
+    "sequence": "VRRFPYYYPFLRR",
+    "label": 0,
+    "source_rows": [
+      486
+    ]
+  },
+  {
+    "sequence": "VRRRRRPR",
+    "label": 1,
+    "source_rows": [
+      1513
+    ]
+  },
+  {
+    "sequence": "VSAVAKVAMKKGAALLKKMGVKISPLK",
+    "label": 0,
+    "source_rows": [
+      1303
+    ]
+  },
+  {
+    "sequence": "VWPLVIRTVIAGYNLYRAIKKK",
+    "label": 1,
+    "source_rows": [
+      367
+    ]
+  },
+  {
+    "sequence": "WCRRYRVLVRGVLVRYRRCW",
+    "label": 1,
+    "source_rows": [
+      71
+    ]
+  },
+  {
+    "sequence": "WCYCRRRFCVCVGR",
+    "label": 1,
+    "source_rows": [
+      201
+    ]
+  },
+  {
+    "sequence": "WIRRIKKWIRRVHK",
+    "label": 0,
+    "source_rows": [
+      1409
+    ]
+  },
+  {
+    "sequence": "WKIFKLKLRMLW",
+    "label": 1,
+    "source_rows": [
+      359
+    ]
+  },
+  {
+    "sequence": "WKKIASIGKEVLKAL",
+    "label": 0,
+    "source_rows": [
+      557
+    ]
+  },
+  {
+    "sequence": "WKKILSKIKKLLK",
+    "label": 0,
+    "source_rows": [
+      1297
+    ]
+  },
+  {
+    "sequence": "WKKIWSKIKKLLK",
+    "label": 0,
+    "source_rows": [
+      1061
+    ]
+  },
+  {
+    "sequence": "WKKWWKKW",
+    "label": 0,
+    "source_rows": [
+      1213
+    ]
+  },
+  {
+    "sequence": "WKKWWKKWWK",
+    "label": 0,
+    "source_rows": [
+      1140
+    ]
+  },
+  {
+    "sequence": "WKLFKKILKVL",
+    "label": 0,
+    "source_rows": [
+      1124
+    ]
+  },
+  {
+    "sequence": "WKLFKKILKWL",
+    "label": 1,
+    "source_rows": [
+      1475
+    ]
+  },
+  {
+    "sequence": "WKLFKKILKYL",
+    "label": 1,
+    "source_rows": [
+      555
+    ]
+  },
+  {
+    "sequence": "WKRIVRRIKRWLR",
+    "label": 0,
+    "source_rows": [
+      206
+    ]
+  },
+  {
+    "sequence": "WKRIVRRIWRWLR",
+    "label": 1,
+    "source_rows": [
+      881
+    ]
+  },
+  {
+    "sequence": "WKRIVRWIKRWLR",
+    "label": 1,
+    "source_rows": [
+      736
+    ]
+  },
+  {
+    "sequence": "WKRRIKIWKKIR",
+    "label": 0,
+    "source_rows": [
+      1447
+    ]
+  },
+  {
+    "sequence": "WKRWVQRWKRFLR",
+    "label": 0,
+    "source_rows": [
+      286
+    ]
+  },
+  {
+    "sequence": "WKRWVRRWKRWLR",
+    "label": 0,
+    "source_rows": [
+      777
+    ]
+  },
+  {
+    "sequence": "WLLKKLLKKW",
+    "label": 0,
+    "source_rows": [
+      1406
+    ]
+  },
+  {
+    "sequence": "WLRRIGKGVKIIGGAALDHL",
+    "label": 0,
+    "source_rows": [
+      1453
+    ]
+  },
+  {
+    "sequence": "WLWKKIKNVAKAAGKAAKGAL",
+    "label": 0,
+    "source_rows": [
+      243
+    ]
+  },
+  {
+    "sequence": "WRAWAKIYHGVGKLLKGVGRW",
+    "label": 0,
+    "source_rows": [
+      791
+    ]
+  },
+  {
+    "sequence": "WRWLRRIW",
+    "label": 1,
+    "source_rows": [
+      103
+    ]
+  },
+  {
+    "sequence": "WSKILGHLIR",
+    "label": 0,
+    "source_rows": [
+      1476
+    ]
+  },
+  {
+    "sequence": "WSPQEEDRIIEGGI",
+    "label": 0,
+    "source_rows": [
+      1395
+    ]
+  },
+  {
+    "sequence": "WWRLRRIW",
+    "label": 0,
+    "source_rows": [
+      1183
+    ]
+  },
+  {
+    "sequence": "WWWLRRIW",
+    "label": 1,
+    "source_rows": [
+      1090
+    ]
+  },
+  {
+    "sequence": "YCYCRRRFCVCVGR",
+    "label": 1,
+    "source_rows": [
+      590
+    ]
+  },
+  {
+    "sequence": "YGRKKRRQRRR",
+    "label": 0,
+    "source_rows": [
+      968
+    ]
+  },
+  {
+    "sequence": "YKLLKLLLPKLKGLLIKL",
+    "label": 1,
+    "source_rows": [
+      1471
+    ]
+  },
+  {
+    "sequence": "YKLLKLLLPKLKGLLPKL",
+    "label": 1,
+    "source_rows": [
+      1284
+    ]
+  },
+  {
+    "sequence": "YKLLKLLLPKLKPLLIKL",
+    "label": 1,
+    "source_rows": [
+      718
+    ]
+  },
+  {
+    "sequence": "YKLLKLLLPKLKPLLPKL",
+    "label": 1,
+    "source_rows": [
+      650
+    ]
+  },
+  {
+    "sequence": "YKLLKWLLLKLKALLEKL",
+    "label": 1,
+    "source_rows": [
+      268
+    ]
+  },
+  {
+    "sequence": "YKQCHKKGGKKGSG",
+    "label": 0,
+    "source_rows": [
+      396
+    ]
+  },
+  {
+    "sequence": "YLRLIRYMAKMI",
+    "label": 1,
+    "source_rows": [
+      1517
+    ]
+  },
+  {
+    "sequence": "YRAWRWAWRWR",
+    "label": 0,
+    "source_rows": [
+      1137
+    ]
+  },
+  {
+    "sequence": "YRMWRWAWRWR",
+    "label": 0,
+    "source_rows": [
+      568
+    ]
+  },
+  {
+    "sequence": "YRWWRWARRW",
+    "label": 0,
+    "source_rows": [
+      983
+    ]
+  }
+]

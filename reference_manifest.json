@@ -1,0 +1,15 @@
+{
+  "url": "https://raw.githubusercontent.com/szczurek-lab/amp-challenge-2027/5c8a5d8e2551c8cf572d3d3bfcfe7633b109d91e/data/antibacterial.fasta",
+  "sha256": "cbbeac64ba95746d87961e8ad9dd0849ae8058d15a300b2e7f6990730ca521e9",
+  "bytes": 4318298,
+  "destinations": [
+    "source_methods/run-01/assets/antibacterial.fasta",
+    "source_methods/run-02/assets/antibacterial.fasta",
+    "source_methods/run-03/assets/antibacterial.fasta",
+    "source_methods/run-04/assets/antibacterial.fasta",
+    "source_methods/run-06/assets/antibacterial.fasta",
+    "source_methods/run-07/assets/antibacterial.fasta"
+  ],
+  "purpose": "Novelty/rejection reference, not model fitting",
+  "redistribution": "Retrieved from the organizer; not mirrored in this public Git repository. Upstream terms apply."
+}

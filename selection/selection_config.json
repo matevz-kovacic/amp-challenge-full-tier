@@ -1,0 +1,42 @@
+{
+  "schema": "consolidation-selection-v1",
+  "frozen_at_utc": "2026-09-08T14:18:34.284296+00:00",
+  "quality_config_sha256": "7d6ff10a0c34532a13d52a8b415f8fdc90436e04ea3bf72e8adf9d1b705f4b43",
+  "top_size": 100,
+  "reserve_size": 100,
+  "library_size": 50000,
+  "mmr_lambda": 0.9,
+  "mmr_screen_eligible_count": 10000,
+  "mmr_similarity": "1 - unit-cost Levenshtein distance/max(lengths), N-to-C; separate from reference normalized-indel ratio",
+  "mmr_ties": "descending Q then lexical sequence",
+  "top_export_order": "original full-pool quality rank",
+  "reference_top_threshold": 0.8,
+  "reference_reject": "Levenshtein.ratio >0.8; equality accepted; no epsilon",
+  "clusters": {
+    "representation": "length and 20 amino-acid fractions in ACDEFGHIKLMNPQRSTVWY order, float64; StandardScaler fit to full eligible pool",
+    "n_clusters": 256,
+    "cap": "number of distinct raw feature vectors",
+    "algorithm": "sklearn.cluster.MiniBatchKMeans",
+    "random_state": 0,
+    "init": "k-means++",
+    "n_init": 3,
+    "batch_size": 4096,
+    "max_iter": 100,
+    "max_no_improvement": 10,
+    "tol": 0.0,
+    "reassignment_ratio": 0.01,
+    "init_size": 12288,
+    "compute_labels": true,
+    "threadpool_limit": 1
+  },
+  "library_allocation": "reserve chosen 100, then remaining population proportional largest-remainder apportionment, capacity capped, cluster-id ties; choose fixed library Q within clusters",
+  "library_output_order": "original full-pool quality rank",
+  "diversity_sample_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "diversity_sample_size": 1024
+}

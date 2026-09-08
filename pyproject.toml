@@ -1,0 +1,16 @@
+[project]
+name = "amp-consolidated"
+version = "1.1.0"
+license = "MIT"
+license-files = ["LICENSE"]
+readme = "README.md"
+description = "Deterministic consolidation of ten generative peptide methods; biological performance unknown"
+requires-python = "==3.12.*"
+dependencies = ["numpy==2.4.3", "rapidfuzz==3.14.3", "threadpoolctl==3.6.0"]
+[project.scripts]
+generate = "consolidation:main"
+[build-system]
+requires = ["setuptools==80.9.0"]
+build-backend = "setuptools.build_meta"
+[tool.setuptools]
+py-modules = ["replay_sources", "consolidation", "reference_assets"]

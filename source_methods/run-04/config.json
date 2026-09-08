@@ -1,0 +1,13 @@
+{
+  "default_seed": 0,
+  "library_size": 50000,
+  "method": "iid",
+  "novelty_threshold": 0.8,
+  "ranking": "custom/run04-neural-selection-v1",
+  "ranking_mode": "esm",
+  "reranking_pool_size": 512,
+  "selection_protocol_sha256": "ccdaf88ab1f1e1ed8487eacd1af0161722a9fe66fe12920f0fc6172774d5049d",
+  "top_internal_similarity_max": 0.7,
+  "top_size": 100,
+  "training_curation_protocol_sha256": "13f65d2b96a3c719a1fd71408d3741484e411575a9c02f6ca4c4d38f62e60cfb"
+}

@@ -1,0 +1,17 @@
+{
+  "selection_regression_tests": {
+    "count": 6,
+    "passed": true
+  },
+  "predictor_fixture": {
+    "count": 64,
+    "selection": "64 evenly spaced lexical pool indices",
+    "max_absolute_error": 0.0,
+    "tolerance": 1e-15,
+    "checkpoint_sha256": "265dadd4af8384aed10b57a5ac2bc9f01cc25bced88dfde564dde6bdfde34838",
+    "feature_code_sha256": "770a2b30faf730148360b3462720e6771389f5906da6b7e4fb14d909b1a1316a",
+    "scikit_learn_version": "1.7.2",
+    "passed": true
+  },
+  "no_models_fitted": true
+}

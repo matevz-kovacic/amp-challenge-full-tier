@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "seed": 20260908,
+  "modes": [
+    "distilled"
+  ],
+  "library_size": 50000,
+  "top_size": 100,
+  "max_proposals": 1000000,
+  "top_reference_max_similarity": 0.8,
+  "top_internal_max_similarity": 0.72,
+  "reference_sha256": "cbbeac64ba95746d87961e8ad9dd0849ae8058d15a300b2e7f6990730ca521e9",
+  "desirability_namespace": "custom_search",
+  "weights": "assets/context_model.json; reconstructed by reconstruct_model.py from pinned public synthetic teacher corpus",
+  "training_condition": "No cysteine and fixed generator.allowed(descriptors(sequence)); training partition only"
+}

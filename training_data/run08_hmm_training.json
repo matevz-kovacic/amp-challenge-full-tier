@@ -1,0 +1,1755 @@
+[
+  {
+    "sequence": "AAGGVKKPKKAAAAKKSPKKPKKPAAA",
+    "dramp_ids": [
+      "DRAMP18388"
+    ]
+  },
+  {
+    "sequence": "AAHHIIGGLFSAGKAIHRLIRRRRR",
+    "dramp_ids": [
+      "DRAMP20895"
+    ]
+  },
+  {
+    "sequence": "AKAVKPKTAKPKTAKPKTAKA",
+    "dramp_ids": [
+      "DRAMP18390"
+    ]
+  },
+  {
+    "sequence": "AKIPIKAIKTVGKAVGKGLRAINIASTANDVFNFLKPKKRKH",
+    "dramp_ids": [
+      "DRAMP03532"
+    ]
+  },
+  {
+    "sequence": "AKKLLKLLKKLLKLAG",
+    "dramp_ids": [
+      "DRAMP21265"
+    ]
+  },
+  {
+    "sequence": "AKKPVAKKAAGGVKKPK",
+    "dramp_ids": [
+      "DRAMP18392"
+    ]
+  },
+  {
+    "sequence": "AKKPVAKKAAGGVKKPKK",
+    "dramp_ids": [
+      "DRAMP18389"
+    ]
+  },
+  {
+    "sequence": "AKLIPTIAL",
+    "dramp_ids": [
+      "DRAMP29053"
+    ]
+  },
+  {
+    "sequence": "AKRIVQRIKDFLR",
+    "dramp_ids": [
+      "DRAMP21282"
+    ]
+  },
+  {
+    "sequence": "ALGDFFRKSKEKIGKEFKRIVQRIKDFLRNLAKRHHGYKRKFHLEY",
+    "dramp_ids": [
+      "DRAMP20956"
+    ]
+  },
+  {
+    "sequence": "ALWKNMLKGIGKLAGQAALGAVKTLVGAE",
+    "dramp_ids": [
+      "DRAMP01650"
+    ]
+  },
+  {
+    "sequence": "ALWKNMLKGIGKLAGQAALGAVKTLVGAES",
+    "dramp_ids": [
+      "DRAMP01260"
+    ]
+  },
+  {
+    "sequence": "ALWKTLLKNVGKAAGKAALNAVTDMVNQ",
+    "dramp_ids": [
+      "DRAMP01258"
+    ]
+  },
+  {
+    "sequence": "ALWKTMLKKLGTMALHAGKAAFGAAADTISQ",
+    "dramp_ids": [
+      "DRAMP01259"
+    ]
+  },
+  {
+    "sequence": "ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ",
+    "dramp_ids": [
+      "DRAMP01668"
+    ]
+  },
+  {
+    "sequence": "ARTKQTARKSTGGKAPRKQLAT",
+    "dramp_ids": [
+      "DRAMP18391"
+    ]
+  },
+  {
+    "sequence": "ATYRTGRATRESLSGVEISGRLYRLR",
+    "dramp_ids": [
+      "DRAMP21029"
+    ]
+  },
+  {
+    "sequence": "AVKPKTAKPKTAKPKTA",
+    "dramp_ids": [
+      "DRAMP18393"
+    ]
+  },
+  {
+    "sequence": "AWKLFDDGV",
+    "dramp_ids": [
+      "DRAMP01064"
+    ]
+  },
+  {
+    "sequence": "DATPHAALFFTVKDHTAGDN",
+    "dramp_ids": [
+      "DRAMP21645"
+    ]
+  },
+  {
+    "sequence": "DIQIPGIKKPTHRDIIIPNWNPNVRTQPWQRFGGNKS",
+    "dramp_ids": [
+      "DRAMP03521"
+    ]
+  },
+  {
+    "sequence": "DLHIPPPDNKINWPQLSGGGGGSPKTGYDININAQQK",
+    "dramp_ids": [
+      "DRAMP03069"
+    ]
+  },
+  {
+    "sequence": "DLRDSWKVIGSDKK",
+    "dramp_ids": [
+      "DRAMP20804"
+    ]
+  },
+  {
+    "sequence": "EADEPLWLYKGDNIERAPTTADHPILPSIIDDVKLDPNRRYA",
+    "dramp_ids": [
+      "DRAMP03524"
+    ]
+  },
+  {
+    "sequence": "EIRLPEPFRFPSPTVPKPIDIDPILPHPWSPRQTYPIIARRS",
+    "dramp_ids": [
+      "DRAMP03526"
+    ]
+  },
+  {
+    "sequence": "ENFFKEIERAGQRIRDAIISAAPAVETLAQAQKIIKGGD",
+    "dramp_ids": [
+      "DRAMP03520"
+    ]
+  },
+  {
+    "sequence": "FFGHLFKLATKIIPSLFQ",
+    "dramp_ids": [
+      "DRAMP03751"
+    ]
+  },
+  {
+    "sequence": "FIAAIIGGLFSAGKAIHRLIRRRRR",
+    "dramp_ids": [
+      "DRAMP20892"
+    ]
+  },
+  {
+    "sequence": "FIFHIIKGLFHAGKMI",
+    "dramp_ids": [
+      "DRAMP21242"
+    ]
+  },
+  {
+    "sequence": "FIFPKKNIINSLFGR",
+    "dramp_ids": [
+      "DRAMP01195"
+    ]
+  },
+  {
+    "sequence": "FIHHAAGGLFSAGKAIHRLIRRRRR",
+    "dramp_ids": [
+      "DRAMP20899"
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLFSAGKAAHRLIRRRRR",
+    "dramp_ids": [
+      "DRAMP20893"
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLFSAGKAIHRHHRRRRR",
+    "dramp_ids": [
+      "DRAMP20894"
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLFSAGKAIHRLIR",
+    "dramp_ids": [
+      "DRAMP20905"
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLFSAGKAIHRLIRRR",
+    "dramp_ids": [
+      "DRAMP20903"
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLFSAGKAIHSLIHRRRR",
+    "dramp_ids": [
+      "DRAMP20904"
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLFSIGKIIHRLIRRRRR",
+    "dramp_ids": [
+      "DRAMP20900"
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLFSVGKHIHRLIRRRRR",
+    "dramp_ids": [
+      "DRAMP20901"
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLFSVGKHIHSLIHRRRR",
+    "dramp_ids": [
+      "DRAMP20902"
+    ]
+  },
+  {
+    "sequence": "FIHHIIGGLISVGKHIHGLIHGH",
+    "dramp_ids": [
+      "DRAMP18493"
+    ]
+  },
+  {
+    "sequence": "FKLGSFLKKAWKSKLAKKLRAKGKEMLKDYAKGLLEGGSEEVPGQ",
+    "dramp_ids": [
+      "DRAMP03734"
+    ]
+  },
+  {
+    "sequence": "FKRAVQRIKDFLR",
+    "dramp_ids": [
+      "DRAMP21283"
+    ]
+  },
+  {
+    "sequence": "FKRGVQRIKDFLR",
+    "dramp_ids": [
+      "DRAMP21288"
+    ]
+  },
+  {
+    "sequence": "FKRHVQRIKDFLR",
+    "dramp_ids": [
+      "DRAMP21292"
+    ]
+  },
+  {
+    "sequence": "FKRIAQRIKDFLR",
+    "dramp_ids": [
+      "DRAMP21284"
+    ]
+  },
+  {
+    "sequence": "FKRIGQRIKDFLR",
+    "dramp_ids": [
+      "DRAMP21293"
+    ]
+  },
+  {
+    "sequence": "FKRIHQRIKDFLR",
+    "dramp_ids": [
+      "DRAMP21297"
+    ]
+  },
+  {
+    "sequence": "FKRINQRIKDFLR",
+    "dramp_ids": [
+      "DRAMP21295"
+    ]
+  },
+  {
+    "sequence": "FKRIQQRIKDFLR",
+    "dramp_ids": [
+      "DRAMP21296"
+    ]
+  },
+  {
+    "sequence": "FKRISQRIKDFLR",
+    "dramp_ids": [
+      "DRAMP21294"
+    ]
+  },
+  {
+    "sequence": "FKRIVQRAKDFLR",
+    "dramp_ids": [
+      "DRAMP21285"
+    ]
+  },
+  {
+    "sequence": "FKRIVQRIKDALR",
+    "dramp_ids": [
+      "DRAMP21286"
+    ]
+  },
+  {
+    "sequence": "FKRIVQRIKDFAR",
+    "dramp_ids": [
+      "DRAMP21287"
+    ]
+  },
+  {
+    "sequence": "FKRIVQRIKDGLR",
+    "dramp_ids": [
+      "DRAMP21298"
+    ]
+  },
+  {
+    "sequence": "FKRIVQRIKDHLR",
+    "dramp_ids": [
+      "DRAMP21302"
+    ]
+  },
+  {
+    "sequence": "FKRIVQRIKDNLR",
+    "dramp_ids": [
+      "DRAMP21300"
+    ]
+  },
+  {
+    "sequence": "FKRIVQRIKDQLR",
+    "dramp_ids": [
+      "DRAMP21301"
+    ]
+  },
+  {
+    "sequence": "FKRIVQRIKDSLR",
+    "dramp_ids": [
+      "DRAMP21299"
+    ]
+  },
+  {
+    "sequence": "FKRNVQRIKDFLR",
+    "dramp_ids": [
+      "DRAMP21290"
+    ]
+  },
+  {
+    "sequence": "FKRQVQRIKDFLR",
+    "dramp_ids": [
+      "DRAMP21291"
+    ]
+  },
+  {
+    "sequence": "FKRSVQRIKDFLR",
+    "dramp_ids": [
+      "DRAMP21289"
+    ]
+  },
+  {
+    "sequence": "FLPKLFAKITKKNMAHIR",
+    "dramp_ids": [
+      "DRAMP01192"
+    ]
+  },
+  {
+    "sequence": "FLQRIIGALGRLF",
+    "dramp_ids": [
+      "DRAMP29059"
+    ]
+  },
+  {
+    "sequence": "FLQRIIGARGRLF",
+    "dramp_ids": [
+      "DRAMP29063"
+    ]
+  },
+  {
+    "sequence": "FLQRIIGAWGRLL",
+    "dramp_ids": [
+      "DRAMP29064"
+    ]
+  },
+  {
+    "sequence": "FLQRIIGRLGRLF",
+    "dramp_ids": [
+      "DRAMP29062"
+    ]
+  },
+  {
+    "sequence": "FLQRIIRALGRLF",
+    "dramp_ids": [
+      "DRAMP29061"
+    ]
+  },
+  {
+    "sequence": "FLQRIRGALGRLF",
+    "dramp_ids": [
+      "DRAMP29060"
+    ]
+  },
+  {
+    "sequence": "FLSLIPHIVSGVAALAKHLG",
+    "dramp_ids": [
+      "DRAMP01647"
+    ]
+  },
+  {
+    "sequence": "FMPIIGRLMSGSL",
+    "dramp_ids": [
+      "DRAMP03017"
+    ]
+  },
+  {
+    "sequence": "FRFGSFLKKVWKSKLAKKLRSKGKQLLKDYANKVLNGPEEEAAAPAE",
+    "dramp_ids": [
+      "DRAMP03748"
+    ]
+  },
+  {
+    "sequence": "FRGLAKLLKIGLKSFARVLKKVLPKAAKAGKALAKSMADENAIRQQNQ",
+    "dramp_ids": [
+      "DRAMP03217"
+    ]
+  },
+  {
+    "sequence": "FSTKTRNWFSEHFKKVKEKLKDTFA",
+    "dramp_ids": [
+      "DRAMP20805"
+    ]
+  },
+  {
+    "sequence": "FWGALAKGALKLIPSLFSSFSKKD",
+    "dramp_ids": [
+      "DRAMP03724"
+    ]
+  },
+  {
+    "sequence": "GAARKSIRLHRLYTWKATIYTR",
+    "dramp_ids": [
+      "DRAMP03052"
+    ]
+  },
+  {
+    "sequence": "GAKALTKAATAFTKFYKTIW",
+    "dramp_ids": [
+      "DRAMP21194"
+    ]
+  },
+  {
+    "sequence": "GAKYAKIIYNYLKKIANALW",
+    "dramp_ids": [
+      "DRAMP21193"
+    ]
+  },
+  {
+    "sequence": "GAKYAKYIYNFYKYIAKYIW",
+    "dramp_ids": [
+      "DRAMP21192"
+    ]
+  },
+  {
+    "sequence": "GANAAKKFANLIKKIFNYIW",
+    "dramp_ids": [
+      "DRAMP21199"
+    ]
+  },
+  {
+    "sequence": "GANAAKKFATIAKKFINYLW",
+    "dramp_ids": [
+      "DRAMP21189"
+    ]
+  },
+  {
+    "sequence": "GANAAKKLATFAKKIFTAYW",
+    "dramp_ids": [
+      "DRAMP21198"
+    ]
+  },
+  {
+    "sequence": "GANALKKYFTILKKFFKLAW",
+    "dramp_ids": [
+      "DRAMP21190"
+    ]
+  },
+  {
+    "sequence": "GANLAKKFYTYINKFINYAW",
+    "dramp_ids": [
+      "DRAMP21188"
+    ]
+  },
+  {
+    "sequence": "GATYAKKIIKTITKIATTAW",
+    "dramp_ids": [
+      "DRAMP21195"
+    ]
+  },
+  {
+    "sequence": "GAWKNFWSSLRKGFYDGEAGRAIRR",
+    "dramp_ids": [
+      "DRAMP00128"
+    ]
+  },
+  {
+    "sequence": "GFFALIPKIISSPLFKTLLSAVGSALS",
+    "dramp_ids": [
+      "DRAMP21243"
+    ]
+  },
+  {
+    "sequence": "GFIFHIIKGLFHAGKMIHGLV",
+    "dramp_ids": [
+      "DRAMP21241"
+    ]
+  },
+  {
+    "sequence": "GGLKKLGKKLEGVGKRVFKASEKALPVAVGIKALGK",
+    "dramp_ids": [
+      "DRAMP20791"
+    ]
+  },
+  {
+    "sequence": "GIGKFLHSAKKWGKAFVGEIMNS",
+    "dramp_ids": [
+      "DRAMP21201"
+    ]
+  },
+  {
+    "sequence": "GIHHILKYGKPS",
+    "dramp_ids": [
+      "DRAMP21143"
+    ]
+  },
+  {
+    "sequence": "GIKIAKKAITIAKKIAKIYW",
+    "dramp_ids": [
+      "DRAMP21191"
+    ]
+  },
+  {
+    "sequence": "GILDTLKQFAKGVGKFLVKGAAQ",
+    "dramp_ids": [
+      "DRAMP03816"
+    ]
+  },
+  {
+    "sequence": "GILDTLKQFAKGVGKWLVKGAAQ",
+    "dramp_ids": [
+      "DRAMP03815"
+    ]
+  },
+  {
+    "sequence": "GIMDTVKNAAKNLAGQLLDKLK",
+    "dramp_ids": [
+      "DRAMP21233"
+    ]
+  },
+  {
+    "sequence": "GKIPVKAIKKGGQIIGKALRGINIASTAHDIISQFKPKKKKNH",
+    "dramp_ids": [
+      "DRAMP03514"
+    ]
+  },
+  {
+    "sequence": "GKIPVKAIKQAGKVIGKGLRAINIAGTTHDVVSFFRPKKKKH",
+    "dramp_ids": [
+      "DRAMP03486"
+    ]
+  },
+  {
+    "sequence": "GKVWDWIKSAAKKIWSSEPVSQLKGQVLNAAKNYVAEKIGATPT",
+    "dramp_ids": [
+      "DRAMP03723"
+    ]
+  },
+  {
+    "sequence": "GKVWDWIKSTAKKLWNSEPVKELKNTALNAAKNLVAEKIGATPS",
+    "dramp_ids": [
+      "DRAMP03735"
+    ]
+  },
+  {
+    "sequence": "GKWGWIYITILFADVGGFKSSRHPEERRVQERRFKRITRGPD",
+    "dramp_ids": [
+      "DRAMP03054"
+    ]
+  },
+  {
+    "sequence": "GLFGKLIKKFGRKAISYAVKKARGKH",
+    "dramp_ids": [
+      "DRAMP03227"
+    ]
+  },
+  {
+    "sequence": "GLFKKLRRKIKKGFKKIFKRL",
+    "dramp_ids": [
+      "DRAMP20826"
+    ]
+  },
+  {
+    "sequence": "GLFKKLRRKIKKGFKKIFKRLPPIGVGVSIPLAGKR",
+    "dramp_ids": [
+      "DRAMP20824"
+    ]
+  },
+  {
+    "sequence": "GLFSKFAGKGIVNFLIEGVE",
+    "dramp_ids": [
+      "DRAMP01191"
+    ]
+  },
+  {
+    "sequence": "GLIGSIGKALGGLLVDVLKPKL",
+    "dramp_ids": [
+      "DRAMP01601"
+    ]
+  },
+  {
+    "sequence": "GLIGSIGKALGGLLVDVLKPKLQAAS",
+    "dramp_ids": [
+      "DRAMP01602"
+    ]
+  },
+  {
+    "sequence": "GLKEVAHSAKKFAKGFISGLTGS",
+    "dramp_ids": [
+      "DRAMP29141"
+    ]
+  },
+  {
+    "sequence": "GLKKLLGKLLKKLGKLLLK",
+    "dramp_ids": [
+      "DRAMP03829"
+    ]
+  },
+  {
+    "sequence": "GLLRKGGEKIGEKLKKIGQKIKNFFQKLVPQPE",
+    "dramp_ids": [
+      "DRAMP03405"
+    ]
+  },
+  {
+    "sequence": "GLLSFLPKVIGVIGHLIHPPS",
+    "dramp_ids": [
+      "DRAMP01204"
+    ]
+  },
+  {
+    "sequence": "GLLSGTSVRGSI",
+    "dramp_ids": [
+      "DRAMP01392"
+    ]
+  },
+  {
+    "sequence": "GLMSSIGKALGGLIVDVLKPKTPAS",
+    "dramp_ids": [
+      "DRAMP01620"
+    ]
+  },
+  {
+    "sequence": "GLMSVLGHAVGNVLGGLFKS",
+    "dramp_ids": [
+      "DRAMP01362"
+    ]
+  },
+  {
+    "sequence": "GLPGPLGPAGPK",
+    "dramp_ids": [
+      "DRAMP29096"
+    ]
+  },
+  {
+    "sequence": "GLRKRLRKFRNKIKEKLKKIGQKIQGFVPKLAPRTDY",
+    "dramp_ids": [
+      "DRAMP03797"
+    ]
+  },
+  {
+    "sequence": "GLRKRLRKFRNKIKEKLKKIGQKIQGLLPKLAPRTDY",
+    "dramp_ids": [
+      "DRAMP29099"
+    ]
+  },
+  {
+    "sequence": "GLSRLFTALK",
+    "dramp_ids": [
+      "DRAMP29098"
+    ]
+  },
+  {
+    "sequence": "GLTFLKKILNFAKKIYTAIW",
+    "dramp_ids": [
+      "DRAMP21197"
+    ]
+  },
+  {
+    "sequence": "GLTRLFSVIK",
+    "dramp_ids": [
+      "DRAMP20966"
+    ]
+  },
+  {
+    "sequence": "GLVRKGGEKFGEKLRKIGQKIKEFFQKLALEIEQ",
+    "dramp_ids": [
+      "DRAMP03463"
+    ]
+  },
+  {
+    "sequence": "GLVSSIGKALGGLLVDVVKSKGQPA",
+    "dramp_ids": [
+      "DRAMP01568"
+    ]
+  },
+  {
+    "sequence": "GLVSSIGKVLGGLLADVVKSKGQPA",
+    "dramp_ids": [
+      "DRAMP01567"
+    ]
+  },
+  {
+    "sequence": "GLVSSIGRALGGLLADVVKSKEQPA",
+    "dramp_ids": [
+      "DRAMP01563"
+    ]
+  },
+  {
+    "sequence": "GLVSSIGRALGGLLADVVKSKGQPA",
+    "dramp_ids": [
+      "DRAMP01562"
+    ]
+  },
+  {
+    "sequence": "GLVTSLIKGAGKLLGGLFGSVTGGQS",
+    "dramp_ids": [
+      "DRAMP01648"
+    ]
+  },
+  {
+    "sequence": "GLWNSIKIAGKKLFVNVLDKIRSKVAGGS",
+    "dramp_ids": [
+      "DRAMP03834"
+    ]
+  },
+  {
+    "sequence": "GLWSKIKAAGKEAAKAAAKAAGKAALNAVSEAV",
+    "dramp_ids": [
+      "DRAMP01257"
+    ]
+  },
+  {
+    "sequence": "GLWSKIKEAAKAAGKAALNAVTGLVNQGDQPS",
+    "dramp_ids": [
+      "DRAMP01638"
+    ]
+  },
+  {
+    "sequence": "GLWSKIKEAAKTAGLMAMGFVNDMV",
+    "dramp_ids": [
+      "DRAMP01261"
+    ]
+  },
+  {
+    "sequence": "GLWSKIKEVGKEAAKAAAKAAGKAALGAVSEAV",
+    "dramp_ids": [
+      "DRAMP01646"
+    ]
+  },
+  {
+    "sequence": "GNNRPVYIPQPRPPHPRL",
+    "dramp_ids": [
+      "DRAMP02997"
+    ]
+  },
+  {
+    "sequence": "GVLDILKGAAKDLAGH",
+    "dramp_ids": [
+      "DRAMP01185"
+    ]
+  },
+  {
+    "sequence": "GVLDILKGAAKDLAGHVATKVI",
+    "dramp_ids": [
+      "DRAMP01184"
+    ]
+  },
+  {
+    "sequence": "GWGSIFKTVGKMIAKAAVKAAPEAISAMASQNE",
+    "dramp_ids": [
+      "DRAMP21455"
+    ]
+  },
+  {
+    "sequence": "GYKYINNIIKYINKFFKYIW",
+    "dramp_ids": [
+      "DRAMP21200"
+    ]
+  },
+  {
+    "sequence": "GYNYAKKLANLAKKFANALW",
+    "dramp_ids": [
+      "DRAMP21196"
+    ]
+  },
+  {
+    "sequence": "HHIIGGLFSAGKAIHRLIRRRRR",
+    "dramp_ids": [
+      "DRAMP20906"
+    ]
+  },
+  {
+    "sequence": "HLLKRVQRELIGWLDWLK",
+    "dramp_ids": [
+      "DRAMP21207"
+    ]
+  },
+  {
+    "sequence": "HLLKRVQRELIRWLDWLK",
+    "dramp_ids": [
+      "DRAMP21211"
+    ]
+  },
+  {
+    "sequence": "HLLKRVQRLLIGWLDWLK",
+    "dramp_ids": [
+      "DRAMP21210"
+    ]
+  },
+  {
+    "sequence": "HLNKRVQRELIGWLDWLK",
+    "dramp_ids": [
+      "DRAMP21203"
+    ]
+  },
+  {
+    "sequence": "HLNKRVQRELIGWLRWLK",
+    "dramp_ids": [
+      "DRAMP21206"
+    ]
+  },
+  {
+    "sequence": "HLNKRVQRELIRWLDWLK",
+    "dramp_ids": [
+      "DRAMP21205"
+    ]
+  },
+  {
+    "sequence": "HLNKRVQRELRGWLDWLK",
+    "dramp_ids": [
+      "DRAMP21204"
+    ]
+  },
+  {
+    "sequence": "HLNKRVQRLLIGWLDWLK",
+    "dramp_ids": [
+      "DRAMP21208"
+    ]
+  },
+  {
+    "sequence": "HLNKRVQRLLIRWLDWLK",
+    "dramp_ids": [
+      "DRAMP21209"
+    ]
+  },
+  {
+    "sequence": "HRHQGPIFDTRPSPFNPNQPRPGPIY",
+    "dramp_ids": [
+      "DRAMP03098"
+    ]
+  },
+  {
+    "sequence": "HRVKRNGFRKFMRRLKKFFAGG",
+    "dramp_ids": [
+      "DRAMP20937"
+    ]
+  },
+  {
+    "sequence": "HVDKKVADKVLLLKQLRIMRLLTRL",
+    "dramp_ids": [
+      "DRAMP03181"
+    ]
+  },
+  {
+    "sequence": "IAPIIVAGLGYLVKDAWDHSDQIISGFKKGWNGGRRK",
+    "dramp_ids": [
+      "DRAMP00106"
+    ]
+  },
+  {
+    "sequence": "IHRDQQHESFLDARPEPGLTE",
+    "dramp_ids": [
+      "DRAMP21637"
+    ]
+  },
+  {
+    "sequence": "IIGGLFSAGKAIHRLIRRRRR",
+    "dramp_ids": [
+      "DRAMP20907"
+    ]
+  },
+  {
+    "sequence": "IIPLPLGYFAKKT",
+    "dramp_ids": [
+      "DRAMP01254"
+    ]
+  },
+  {
+    "sequence": "IRPVPFFPPVHAKKVFPLH",
+    "dramp_ids": [
+      "DRAMP29144"
+    ]
+  },
+  {
+    "sequence": "ISRLAGLLRKGGEKIGEKLKKIGQKIKNFFQKLVPQPE",
+    "dramp_ids": [
+      "DRAMP03406"
+    ]
+  },
+  {
+    "sequence": "ITEVITILLNRLTDRLEK",
+    "dramp_ids": [
+      "DRAMP21403"
+    ]
+  },
+  {
+    "sequence": "ITKVITKLLNRLTKILSK",
+    "dramp_ids": [
+      "DRAMP21404"
+    ]
+  },
+  {
+    "sequence": "KAAAAKKSPKKPKKPAAAKK",
+    "dramp_ids": [
+      "DRAMP18387"
+    ]
+  },
+  {
+    "sequence": "KFFKKLKKAVKKGFKKFAKV",
+    "dramp_ids": [
+      "DRAMP20975"
+    ]
+  },
+  {
+    "sequence": "KFFKRLLKSVRRAVKKFRKKPRLIGLSTLL",
+    "dramp_ids": [
+      "DRAMP29102"
+    ]
+  },
+  {
+    "sequence": "KFFRKLKKSVKKRAKKFFKKPRVIGVSIPF",
+    "dramp_ids": [
+      "DRAMP29044"
+    ]
+  },
+  {
+    "sequence": "KFKKLFKKLSPVFKRIVQRIKDFLR",
+    "dramp_ids": [
+      "DRAMP21402"
+    ]
+  },
+  {
+    "sequence": "KFKKLFKKLSPVIGKEFKRIVERIKRFLR",
+    "dramp_ids": [
+      "DRAMP20868"
+    ]
+  },
+  {
+    "sequence": "KFRSNGRHGSGSRLGGGSLIGRPGGGS",
+    "dramp_ids": [
+      "DRAMP20864"
+    ]
+  },
+  {
+    "sequence": "KFRTRRSKSSSNGGRKGSKG",
+    "dramp_ids": [
+      "DRAMP20859"
+    ]
+  },
+  {
+    "sequence": "KFRTRRSKSSSNGGRKGSKGGSKGRPGSGSSIAGA",
+    "dramp_ids": [
+      "DRAMP20860"
+    ]
+  },
+  {
+    "sequence": "KGIGSALKKGGKIIKGGLGALGAIGTGQQVYEHVQNRQ",
+    "dramp_ids": [
+      "DRAMP03519"
+    ]
+  },
+  {
+    "sequence": "KGLGKLIGIDWLLGQAKDAVKQYKKDYKRWH",
+    "dramp_ids": [
+      "DRAMP00189"
+    ]
+  },
+  {
+    "sequence": "KGLLRKWGKKWKEFLRRVW",
+    "dramp_ids": [
+      "DRAMP29058"
+    ]
+  },
+  {
+    "sequence": "KIKKGFKKIFKRLPPIGVGVSIPLAGKR",
+    "dramp_ids": [
+      "DRAMP20825"
+    ]
+  },
+  {
+    "sequence": "KIKWFKTMKSIAKFIAKEQMKKHLGGE",
+    "dramp_ids": [
+      "DRAMP03279"
+    ]
+  },
+  {
+    "sequence": "KIKWGKIFKKGGKLIGKTALEAAANAAASEAISAMASQNE",
+    "dramp_ids": [
+      "DRAMP21456"
+    ]
+  },
+  {
+    "sequence": "KIKWILKYWKWS",
+    "dramp_ids": [
+      "DRAMP21144"
+    ]
+  },
+  {
+    "sequence": "KIRTRRGKDSGGPKMGRKNSKGGWRGRPGSGSRPGFGSGI",
+    "dramp_ids": [
+      "DRAMP20863"
+    ]
+  },
+  {
+    "sequence": "KKKKPLFGLFFGLF",
+    "dramp_ids": [
+      "DRAMP20800"
+    ]
+  },
+  {
+    "sequence": "KLIPILSKTIPAGKNLFYKI",
+    "dramp_ids": [
+      "DRAMP20887"
+    ]
+  },
+  {
+    "sequence": "KLIWILSKTIPAGKNLFYKI",
+    "dramp_ids": [
+      "DRAMP20888"
+    ]
+  },
+  {
+    "sequence": "KLLKHKLLVTLA",
+    "dramp_ids": [
+      "DRAMP20969"
+    ]
+  },
+  {
+    "sequence": "KLLKKAGKLLKKAGKLLKKAG",
+    "dramp_ids": [
+      "DRAMP29028"
+    ]
+  },
+  {
+    "sequence": "KLLKKGGKLLKKGGKLLKKGG",
+    "dramp_ids": [
+      "DRAMP29029"
+    ]
+  },
+  {
+    "sequence": "KLLRHRLLVTLA",
+    "dramp_ids": [
+      "DRAMP20972"
+    ]
+  },
+  {
+    "sequence": "KLLSHSLLVTLA",
+    "dramp_ids": [
+      "DRAMP20971"
+    ]
+  },
+  {
+    "sequence": "KNLRRIIRKGIHIIKKYG",
+    "dramp_ids": [
+      "DRAMP03827"
+    ]
+  },
+  {
+    "sequence": "KNLRRIIRKIIHIIKKYG",
+    "dramp_ids": [
+      "DRAMP03826"
+    ]
+  },
+  {
+    "sequence": "KNLRRITRKIIHIIKKYG",
+    "dramp_ids": [
+      "DRAMP03828"
+    ]
+  },
+  {
+    "sequence": "KRFKKFFRKLKKSVKKRAKEFFKKPRVIGVSIPF",
+    "dramp_ids": [
+      "DRAMP20777"
+    ]
+  },
+  {
+    "sequence": "KRFKKFFRKLKKSVKKRKKEFKKKPRVIGVSIPF",
+    "dramp_ids": [
+      "DRAMP20884"
+    ]
+  },
+  {
+    "sequence": "KRFKKFFRKLKKSVKKRKKEFKKKPRVIKVSIPF",
+    "dramp_ids": [
+      "DRAMP20883"
+    ]
+  },
+  {
+    "sequence": "KRFWQLVPLAIKIYRAWKRR",
+    "dramp_ids": [
+      "DRAMP29074"
+    ]
+  },
+  {
+    "sequence": "KRIVQRIKDFLRNLVPRTES",
+    "dramp_ids": [
+      "DRAMP03567"
+    ]
+  },
+  {
+    "sequence": "KRVKRFKKFFRKIKKGFRKIFKKTKIFIGGT",
+    "dramp_ids": [
+      "DRAMP20837"
+    ]
+  },
+  {
+    "sequence": "KSKEKIGKEFKRIVQRIKDFLRNLVPRTES",
+    "dramp_ids": [
+      "DRAMP03569"
+    ]
+  },
+  {
+    "sequence": "KTMMQSGGTFGTFMAIGMGIR",
+    "dramp_ids": [
+      "DRAMP29065"
+    ]
+  },
+  {
+    "sequence": "KTRNWFSEHFKKVKEKLKDTFA",
+    "dramp_ids": [
+      "DRAMP20806"
+    ]
+  },
+  {
+    "sequence": "KVHGSLARAGK",
+    "dramp_ids": [
+      "DRAMP02344"
+    ]
+  },
+  {
+    "sequence": "KVNVNAIKKGGKAIGKGFKVISAASTAHDVYEHIKNRRH",
+    "dramp_ids": [
+      "DRAMP03513"
+    ]
+  },
+  {
+    "sequence": "KVPIGAIKKGGKIIKKGLGVIGAAGTAHEVYSHVKNRH",
+    "dramp_ids": [
+      "DRAMP03515"
+    ]
+  },
+  {
+    "sequence": "KVPIGAIKKGGKIIKKGLGVIGAAGTAHEVYSHVKNRQ",
+    "dramp_ids": [
+      "DRAMP03517"
+    ]
+  },
+  {
+    "sequence": "KVPIGAIKKGGKIIKKGLGVLGAAGTAHEVYNHVRNRQ",
+    "dramp_ids": [
+      "DRAMP03516"
+    ]
+  },
+  {
+    "sequence": "KVPVGAIKKGGKAIKTGLGVVGAAGTAHEVYSHIRNRH",
+    "dramp_ids": [
+      "DRAMP03518"
+    ]
+  },
+  {
+    "sequence": "KWKLFKKIFKRIVQRIKDFLRN",
+    "dramp_ids": [
+      "DRAMP20945",
+      "DRAMP20964"
+    ]
+  },
+  {
+    "sequence": "KWKLFKKIHKVGQNIRKGIIKAGPAVAVVGQAAQIAK",
+    "dramp_ids": [
+      "DRAMP29103"
+    ]
+  },
+  {
+    "sequence": "LGDFFRKSKEKIGKEFKRIVQRIKDFLRNLAKRHHGYKRKFH",
+    "dramp_ids": [
+      "DRAMP20955"
+    ]
+  },
+  {
+    "sequence": "LKGASKLIPHLLPSRQQ",
+    "dramp_ids": [
+      "DRAMP29142"
+    ]
+  },
+  {
+    "sequence": "LKKALKLLKKLLKLAG",
+    "dramp_ids": [
+      "DRAMP21266"
+    ]
+  },
+  {
+    "sequence": "LKKLAKLLKKLLKLAG",
+    "dramp_ids": [
+      "DRAMP21267"
+    ]
+  },
+  {
+    "sequence": "LKKLLKALKKLLKLAG",
+    "dramp_ids": [
+      "DRAMP21268"
+    ]
+  },
+  {
+    "sequence": "LKKLLKLAKKLLKLAG",
+    "dramp_ids": [
+      "DRAMP21269"
+    ]
+  },
+  {
+    "sequence": "LKKLLKLDKKLLKLAG",
+    "dramp_ids": [
+      "DRAMP21278"
+    ]
+  },
+  {
+    "sequence": "LKKLLKLEKKLLKLAG",
+    "dramp_ids": [
+      "DRAMP21279"
+    ]
+  },
+  {
+    "sequence": "LKKLLKLGKKLLKLAG",
+    "dramp_ids": [
+      "DRAMP21273"
+    ]
+  },
+  {
+    "sequence": "LKKLLKLHKKLLKLAG",
+    "dramp_ids": [
+      "DRAMP21281"
+    ]
+  },
+  {
+    "sequence": "LKKLLKLKKKLLKLAG",
+    "dramp_ids": [
+      "DRAMP21280"
+    ]
+  },
+  {
+    "sequence": "LKKLLKLLKKALKLAG",
+    "dramp_ids": [
+      "DRAMP21270"
+    ]
+  },
+  {
+    "sequence": "LKKLLKLLKKLAKLAG",
+    "dramp_ids": [
+      "DRAMP21271"
+    ]
+  },
+  {
+    "sequence": "LKKLLKLLKKLLKAAG",
+    "dramp_ids": [
+      "DRAMP21272"
+    ]
+  },
+  {
+    "sequence": "LKKLLKLLKKLLKLAG",
+    "dramp_ids": [
+      "DRAMP21264"
+    ]
+  },
+  {
+    "sequence": "LKKLLKLNKKLLKLAG",
+    "dramp_ids": [
+      "DRAMP21276"
+    ]
+  },
+  {
+    "sequence": "LKKLLKLPKKLLKLAG",
+    "dramp_ids": [
+      "DRAMP21275"
+    ]
+  },
+  {
+    "sequence": "LKKLLKLQKKLLKLAG",
+    "dramp_ids": [
+      "DRAMP21277"
+    ]
+  },
+  {
+    "sequence": "LKKLLKLSKKLLKLAG",
+    "dramp_ids": [
+      "DRAMP21274"
+    ]
+  },
+  {
+    "sequence": "LKKWWKTSKGLLGGLLGKVTSVIK",
+    "dramp_ids": [
+      "DRAMP21415"
+    ]
+  },
+  {
+    "sequence": "LLGDFFRKSKEKIGKEFKRIVQR",
+    "dramp_ids": [
+      "DRAMP03570"
+    ]
+  },
+  {
+    "sequence": "LSVDKRPVLHPEHIYGHNHY",
+    "dramp_ids": [
+      "DRAMP21636"
+    ]
+  },
+  {
+    "sequence": "MLAKIKAMIKKFPNPYTLAAKLTTYEINWYKQQYGRYPWERPVA",
+    "dramp_ids": [
+      "DRAMP00178"
+    ]
+  },
+  {
+    "sequence": "MMRVMRRKTKVIWEKKDFIGLYSID",
+    "dramp_ids": [
+      "DRAMP20968"
+    ]
+  },
+  {
+    "sequence": "MNKVKEWIKYLKSLFSM",
+    "dramp_ids": [
+      "DRAMP20965"
+    ]
+  },
+  {
+    "sequence": "PAQPFRFPKHPQGPQTRPPI",
+    "dramp_ids": [
+      "DRAMP03467"
+    ]
+  },
+  {
+    "sequence": "PDRAIDTYRTSPVADQRYNA",
+    "dramp_ids": [
+      "DRAMP20840"
+    ]
+  },
+  {
+    "sequence": "PIRNWWIRIWEWLNGIRKRLRQRSPFYVRGHLNVTSTPQP",
+    "dramp_ids": [
+      "DRAMP03647"
+    ]
+  },
+  {
+    "sequence": "PPPVIKFNRPFLMWIVERDTRSILFMGKIVNPKAP",
+    "dramp_ids": [
+      "DRAMP20807"
+    ]
+  },
+  {
+    "sequence": "PVVDTTGNNPLQQQEEYYV",
+    "dramp_ids": [
+      "DRAMP01066"
+    ]
+  },
+  {
+    "sequence": "RFIYMKGFGKPRFGKR",
+    "dramp_ids": [
+      "DRAMP01199"
+    ]
+  },
+  {
+    "sequence": "RIIDLLARVRRPQKPKFVTVWVR",
+    "dramp_ids": [
+      "DRAMP21303"
+    ]
+  },
+  {
+    "sequence": "RIIDLLWRVRRPQKPKFVTVAVR",
+    "dramp_ids": [
+      "DRAMP21304"
+    ]
+  },
+  {
+    "sequence": "RIIRPIIQIIKQKIR",
+    "dramp_ids": [
+      "DRAMP21138"
+    ]
+  },
+  {
+    "sequence": "RIRWILRYWRWS",
+    "dramp_ids": [
+      "DRAMP21145"
+    ]
+  },
+  {
+    "sequence": "RIVQRIKKWLLKWKKLGY",
+    "dramp_ids": [
+      "DRAMP29057"
+    ]
+  },
+  {
+    "sequence": "RKSKEKIGKEFKRIVQRIKDFLRNLVPRTES",
+    "dramp_ids": [
+      "DRAMP03568"
+    ]
+  },
+  {
+    "sequence": "RKYVRFLHRWVKYFRAYL",
+    "dramp_ids": [
+      "DRAMP20976"
+    ]
+  },
+  {
+    "sequence": "RLGNFFRKAKKKIGRGLKKIGQKIKDFLGNLVPRTES",
+    "dramp_ids": [
+      "DRAMP03190"
+    ]
+  },
+  {
+    "sequence": "RLLRKFFRKLKKSV",
+    "dramp_ids": [
+      "DRAMP20938"
+    ]
+  },
+  {
+    "sequence": "RLLRPLLQLLKQKLR",
+    "dramp_ids": [
+      "DRAMP21139"
+    ]
+  },
+  {
+    "sequence": "RLVRILVSKRPVAIKPYFRL",
+    "dramp_ids": [
+      "DRAMP21631"
+    ]
+  },
+  {
+    "sequence": "RRFKLLSHSLLVTLASHL",
+    "dramp_ids": [
+      "DRAMP20974"
+    ]
+  },
+  {
+    "sequence": "RRGKDSGGPKMGRKNSKGGWRGRPGSGRPGFGSGI",
+    "dramp_ids": [
+      "DRAMP20862"
+    ]
+  },
+  {
+    "sequence": "RRLRPRRPRLPRPRPRPRPRP",
+    "dramp_ids": [
+      "DRAMP20787"
+    ]
+  },
+  {
+    "sequence": "RRLRPRRPRLPRPRPRPRPRPR",
+    "dramp_ids": [
+      "DRAMP20786"
+    ]
+  },
+  {
+    "sequence": "RRQGPIFDTRPSPFNPNQPRPGPIY",
+    "dramp_ids": [
+      "DRAMP03096"
+    ]
+  },
+  {
+    "sequence": "RRSRKNGIGYAIGYAFGAVERAVLGGSRDYNK",
+    "dramp_ids": [
+      "DRAMP00129"
+    ]
+  },
+  {
+    "sequence": "RRSRRGRGGGRRGGSGGRGGRGGGGRSGAGSSIAGVGSRGGGGGRHYA",
+    "dramp_ids": [
+      "DRAMP01319"
+    ]
+  },
+  {
+    "sequence": "RVKRFKKFFRKIKKGFRKIFKKTKIFIG",
+    "dramp_ids": [
+      "DRAMP20936"
+    ]
+  },
+  {
+    "sequence": "RVKRFWPLVPVAINTVAAGINLYKAIRRK",
+    "dramp_ids": [
+      "DRAMP03646"
+    ]
+  },
+  {
+    "sequence": "RVVRPVVQVVKQKVR",
+    "dramp_ids": [
+      "DRAMP21137"
+    ]
+  },
+  {
+    "sequence": "RWKRHISEQLRRRDRLQR",
+    "dramp_ids": [
+      "DRAMP21390"
+    ]
+  },
+  {
+    "sequence": "RWKRHISEQLRRRDRLQRQAF",
+    "dramp_ids": [
+      "DRAMP21391"
+    ]
+  },
+  {
+    "sequence": "RWQWRWQWR",
+    "dramp_ids": [
+      "DRAMP20834"
+    ]
+  },
+  {
+    "sequence": "SAVGRHGRRFGLRKHRKH",
+    "dramp_ids": [
+      "DRAMP01255"
+    ]
+  },
+  {
+    "sequence": "SKVWRHWRRFW",
+    "dramp_ids": [
+      "DRAMP20842"
+    ]
+  },
+  {
+    "sequence": "SKVWRHWRRFWHR",
+    "dramp_ids": [
+      "DRAMP20843"
+    ]
+  },
+  {
+    "sequence": "SKVWRHWRRFWHRAHRKL",
+    "dramp_ids": [
+      "DRAMP20874"
+    ]
+  },
+  {
+    "sequence": "SKVWRHWRRFWHRAHRLH",
+    "dramp_ids": [
+      "DRAMP20841"
+    ]
+  },
+  {
+    "sequence": "SLGGVISGAKKVAKVAIPIGKAVLPVVAKLVG",
+    "dramp_ids": [
+      "DRAMP03116"
+    ]
+  },
+  {
+    "sequence": "SLWETIKNAGKGFIQNLDKIR",
+    "dramp_ids": [
+      "DRAMP01546"
+    ]
+  },
+  {
+    "sequence": "SMLAYVDKNDHINPPHSPRS",
+    "dramp_ids": [
+      "DRAMP21644"
+    ]
+  },
+  {
+    "sequence": "SMWSGMWRRKLKKLRNALKKKLKGE",
+    "dramp_ids": [
+      "DRAMP03226"
+    ]
+  },
+  {
+    "sequence": "SPKKTKPVKPKKVA",
+    "dramp_ids": [
+      "DRAMP18386"
+    ]
+  },
+  {
+    "sequence": "SQRKLAAKLTSKGGGRLLRPLLQLLKQKLR",
+    "dramp_ids": [
+      "DRAMP29045"
+    ]
+  },
+  {
+    "sequence": "SVAGRAQGM",
+    "dramp_ids": [
+      "DRAMP00929"
+    ]
+  },
+  {
+    "sequence": "SWLSKTAKKLENSAKKRISEGIAIAIQGGPR",
+    "dramp_ids": [
+      "DRAMP03176"
+    ]
+  },
+  {
+    "sequence": "TESYFVFSVGM",
+    "dramp_ids": [
+      "DRAMP00930"
+    ]
+  },
+  {
+    "sequence": "TIDFGVRNINQSNLVYDTER",
+    "dramp_ids": [
+      "DRAMP21638"
+    ]
+  },
+  {
+    "sequence": "TNYGNGVGVPDAIMAGIIKLIFIFNIRQGYNFGKKAT",
+    "dramp_ids": [
+      "DRAMP00107"
+    ]
+  },
+  {
+    "sequence": "TQQAFQKFLAAVTSALGKQYH",
+    "dramp_ids": [
+      "DRAMP29097"
+    ]
+  },
+  {
+    "sequence": "TRDTNDLISSRTAAPSMV",
+    "dramp_ids": [
+      "DRAMP21640"
+    ]
+  },
+  {
+    "sequence": "TRSRWRRFIRGAGRFARRYGWRIA",
+    "dramp_ids": [
+      "DRAMP20946"
+    ]
+  },
+  {
+    "sequence": "TRSRWRRFIRGAGRFARRYGWRIAL",
+    "dramp_ids": [
+      "DRAMP20838"
+    ]
+  },
+  {
+    "sequence": "TTSIRRRYQVSLIRRHRGKR",
+    "dramp_ids": [
+      "DRAMP21632"
+    ]
+  },
+  {
+    "sequence": "VDKPDYRPRPRPPNM",
+    "dramp_ids": [
+      "DRAMP03312"
+    ]
+  },
+  {
+    "sequence": "VFIDILDKVENAIHNAAQVGIGFAKPFEKLINPK",
+    "dramp_ids": [
+      "DRAMP03095"
+    ]
+  },
+  {
+    "sequence": "VNFKLLSHSLLVTLASHL",
+    "dramp_ids": [
+      "DRAMP20970"
+    ]
+  },
+  {
+    "sequence": "VRFKLLSHSLLVTLASHL",
+    "dramp_ids": [
+      "DRAMP20973"
+    ]
+  },
+  {
+    "sequence": "VWRHWRRFW",
+    "dramp_ids": [
+      "DRAMP20845"
+    ]
+  },
+  {
+    "sequence": "VWRHWRRFWH",
+    "dramp_ids": [
+      "DRAMP20846"
+    ]
+  },
+  {
+    "sequence": "VWRHWRRFWHR",
+    "dramp_ids": [
+      "DRAMP20844"
+    ]
+  },
+  {
+    "sequence": "VWRKWRRFW",
+    "dramp_ids": [
+      "DRAMP20848"
+    ]
+  },
+  {
+    "sequence": "VWRKWRRFWKR",
+    "dramp_ids": [
+      "DRAMP20850"
+    ]
+  },
+  {
+    "sequence": "VWRRWRRFW",
+    "dramp_ids": [
+      "DRAMP20849"
+    ]
+  },
+  {
+    "sequence": "VWRRWRRFWRR",
+    "dramp_ids": [
+      "DRAMP20851"
+    ]
+  },
+  {
+    "sequence": "WFYQGMNIAIYANIGGVANIIGYTEAAVATLLGAVVAVAPVVP",
+    "dramp_ids": [
+      "DRAMP00254"
+    ]
+  },
+  {
+    "sequence": "WRHWRRFWHR",
+    "dramp_ids": [
+      "DRAMP20847"
+    ]
+  },
+  {
+    "sequence": "YVPLPNVPQPGRRPFPTFPGQGPFNPKIKWPQGY",
+    "dramp_ids": [
+      "DRAMP02993"
+    ]
+  },
+  {
+    "sequence": "YVPPVQKPHPNGPKFPTFP",
+    "dramp_ids": [
+      "DRAMP03055"
+    ]
+  }
+]

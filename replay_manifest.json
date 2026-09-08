@@ -1,0 +1,157 @@
+{
+  "source_pools": {
+    "run-01": {
+      "count": 50000,
+      "ordered_sequence_sha256": "144d91814a216169d31f64a588a8b8b26424e3f34fbfcc624c91a172563357df",
+      "sha256": "5713c0a55327d2d27dde6da868689d5a39b6d5056db35aad5a025f93bbe336d6",
+      "source_note": "Necessary original library inference code and weights retained by explicit allowlist. Original source shortlist branches are superseded by consolidated selection."
+    },
+    "run-02": {
+      "count": 50000,
+      "ordered_sequence_sha256": "3770a3c298fb250e09738881b9546a60e882d3f21d4c65c5eb7db00bdf33076c",
+      "sha256": "78721e4a4ab92370975fd73e2f2265f9dc1406db9b05a645a0b886cfb5cf8f15",
+      "source_note": "Necessary original library inference code and weights retained by explicit allowlist. Original source shortlist branches are superseded by consolidated selection."
+    },
+    "run-03": {
+      "count": 50000,
+      "ordered_sequence_sha256": "a59b623997eb4560ecc97914f97b1b580c065d29b8c5353b7fd712c9d52319a8",
+      "sha256": "dc9b4543aea12d2cb82225081ce0d1921badaa38aa2e71b483527ac57ab082ec",
+      "source_note": "Necessary original library inference code and weights retained by explicit allowlist. Original source shortlist branches are superseded by consolidated selection."
+    },
+    "run-04": {
+      "count": 50000,
+      "ordered_sequence_sha256": "a731d36ed085d3bcb331b487afda82f9b9bc81fcb4daf7f7f435ebc200248324",
+      "sha256": "5e6423c8dcf62e4812b5249cd6158094d5379342e4479040649b0cabc56c0f9b",
+      "source_note": "Necessary original library inference code and weights retained by explicit allowlist. Original source shortlist branches are superseded by consolidated selection."
+    },
+    "run-05": {
+      "count": 50000,
+      "ordered_sequence_sha256": "7d4e594c234f6a83da868b84430679e7c1d149b5f823edb68789976bffaefe27",
+      "sha256": "bd6fce656dbc336898015d556ecde7aaa517309d07d3229ac1379b17b467fd15",
+      "source_note": "Necessary original library inference code and weights retained by explicit allowlist. Original source shortlist branches are superseded by consolidated selection."
+    },
+    "run-06": {
+      "count": 50000,
+      "ordered_sequence_sha256": "d42712ea91fdf14399cb514cf70df415563c3907c3eb9b71cd6ec0f7316a77e5",
+      "sha256": "5e67b83baf2f2f681fc70ba9b8e343b8c5a6d6151cdbcd6cdc50d3f550f2ff04",
+      "source_note": "Necessary original library inference code and weights retained by explicit allowlist. Original source shortlist branches are superseded by consolidated selection."
+    },
+    "run-07": {
+      "count": 50000,
+      "ordered_sequence_sha256": "65fe570edfe1650b6560a82b5b70e66d1b7bc40d31b7d372f422235216ade781",
+      "sha256": "386e8d819ccf4125652f8adad7e136aa2f7a643f86ea55e02575e755e6a8237c",
+      "source_note": "Necessary original library inference code and weights retained by explicit allowlist. Original source shortlist branches are superseded by consolidated selection."
+    },
+    "run-08": {
+      "count": 50000,
+      "ordered_sequence_sha256": "55175e5398a8685a257fe91e7bf7f066de12e4e0ae7d471570de8fdf2e9bfe21",
+      "sha256": "227c76ab8006b045d3efc83b4e7b10aeaee33759bce6ccd5dde6b78699dc33cf",
+      "source_note": "Necessary original library inference code and weights retained by explicit allowlist. Original source shortlist branches are superseded by consolidated selection."
+    },
+    "run-09": {
+      "count": 50000,
+      "ordered_sequence_sha256": "55c1e5cf9d9ab064898f09a9406849b0f0a19781a407d9e94d7ead5b467c11f4",
+      "sha256": "d6c15a3570d00197d11a3b8adb5f99da01dcc61b9e936f7ec0f734907a0c4d9f",
+      "source_note": "Necessary original library inference code and weights retained by explicit allowlist. Original source shortlist branches are superseded by consolidated selection."
+    },
+    "run-10": {
+      "count": 50000,
+      "ordered_sequence_sha256": "45fc4d43d132c2afac1659b4c281400fa219265da22d802d20adcf094ff828d0",
+      "sha256": "84e9a819946e8e33d5af653c143d299ace8b0f23d8b5f6c6517afcb286527ef9",
+      "source_note": "Necessary original library inference code and weights retained by explicit allowlist. Original source shortlist branches are superseded by consolidated selection."
+    }
+  },
+  "runtime_file_hashes": {
+    "source_methods/run-01/generator.py": "c43e65dead10d49337a3f927430a99de594f9edbf281d8bf3cafe29662c6f035",
+    "source_methods/run-01/config.json": "c23c7fb7ef6655483ddbeb04f2d72bda8929fa9ef14844769703996a7045e7a5",
+    "source_methods/run-01/assets/model.json": "9c77ae6bf7fbcb136eed0d6bf2e8a9a4edf63c55babbe2a2cd32d45e75b0ea0a",
+    "source_methods/run-01/assets/antibacterial.fasta": "cbbeac64ba95746d87961e8ad9dd0849ae8058d15a300b2e7f6990730ca521e9",
+    "source_methods/run-01/assets/study-mic.csv": "3da5adb7814f00b5f331eedd3dc909c55ee66cc1561e1bf33d5c1753d30eb82d",
+    "source_methods/run-01/assets/STUDY_KIT_LICENSE": "56ea4236312d84792db583fb2f3c1e54de18bf5b5d1728d923d47ab08f33e7b8",
+    "source_methods/run-01/assets/ORGANIZER_LICENSE": "379ed39eb24d07ae3e53af592d0392556dbe4ef530b8c4ba287c4ef447a98ab9",
+    "source_methods/run-01/LICENSE": "8af83e042383cedcd7f17dfacee01199c52ac3219d25417b40dbb2dbbdf70c38",
+    "source_methods/run-02/src/run02amp/__init__.py": "48de7b6c444192445d1d2fa46924954661aa05cba5787ec9e6cc7b2636776f68",
+    "source_methods/run-02/src/run02amp/core.py": "7c47ec6dee6e8120079c0007efb90c7a1003a8ffd7190f5a96ce9e4cb4152583",
+    "source_methods/run-02/src/run02amp/features.py": "ce067980afeb190e79a73098cd6f974b5ba398115cf12e606f5f46c33de3abff",
+    "source_methods/run-02/config.json": "fe1c9ba9ceffa8721202c3a1cc26b4bad1181c5aa1774ea4fcd1b373ca63ec06",
+    "source_methods/run-02/assets/generator.json": "e1c606f52e28b1ebafeaa8d659937becded5f45120ef61961033f01db4d2fef6",
+    "source_methods/run-02/assets/antibacterial.fasta": "cbbeac64ba95746d87961e8ad9dd0849ae8058d15a300b2e7f6990730ca521e9",
+    "source_methods/run-02/assets/known-assay-sequences.txt": "5d4265bc3ffbba1a51a991c6b222e2c35dfa7b972590bf3ff852d422d0a64fb3",
+    "source_methods/run-02/LICENSE": "4fef8d75efbca69754a783ac2560e881fc3d9e97b9bcee614c6fe56e1418e7b8",
+    "source_methods/run-02/licenses/organizer-BSD-3-Clause.txt": "379ed39eb24d07ae3e53af592d0392556dbe4ef530b8c4ba287c4ef447a98ab9",
+    "source_methods/run-03/generator.py": "19af03c001a2b4212a1c9805850aaabcbddb892e6716f2378e18f596f4ce80c6",
+    "source_methods/run-03/sequence_model.py": "705a669768085068004e6fa611ba7debe72ac4d88742a9b331052ef369b22c0c",
+    "source_methods/run-03/assets/weights.json": "8f37a69997deb7f266e472ed15b6eeaae1edf5d698397609aaf0b601310524b1",
+    "source_methods/run-03/assets/antibacterial.fasta": "cbbeac64ba95746d87961e8ad9dd0849ae8058d15a300b2e7f6990730ca521e9",
+    "source_methods/run-03/assets/training_records.json": "50dc38378b0a08a489d91873cee7c5933c274c0cef69b4dd119825dce674b85c",
+    "source_methods/run-03/assets/dramp-attribution.json": "6227bcf9152f65dabd919975197e65eb54ffe80158c11ee21a1da4204d7adcbd",
+    "source_methods/run-03/licenses/organizer-BSD-3-Clause.txt": "379ed39eb24d07ae3e53af592d0392556dbe4ef530b8c4ba287c4ef447a98ab9",
+    "source_methods/run-04/src/amp_run04/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_methods/run-04/src/amp_run04/generate.py": "fdaa5dd690479dfeaa7a44858cbe4d8ff2b731ed7d417a2044d18fcbeacd49af",
+    "source_methods/run-04/config.json": "9708f1db7146f47d2d23751e403b2d30d2867f8861e5087d07a16db8a9c51bfe",
+    "source_methods/run-04/assets/weights.json": "3f7525d87f0a61de6d014d91876dabc1c5af3dd1e038a19b7a4f02c835dc0771",
+    "source_methods/run-04/assets/training_rows.json": "327b4525a9f4732b829f768d2b3d1c7117a845ba3869daf15f67e15638346ca3",
+    "source_methods/run-04/assets/antibacterial.fasta": "cbbeac64ba95746d87961e8ad9dd0849ae8058d15a300b2e7f6990730ca521e9",
+    "source_methods/run-04/assets/ORGANIZER_LICENSE.txt": "379ed39eb24d07ae3e53af592d0392556dbe4ef530b8c4ba287c4ef447a98ab9",
+    "source_methods/run-04/LICENSE": "66fe2f8c7ccdd218462cba6ef9a24155510d54d412f8c4235e7450a2f9c928f0",
+    "source_methods/run-05/src/amp_run05/__init__.py": "28030c4af81abf4c46e539f331c21144d0b103c0b6d15a9b9502e8ec113e8ea9",
+    "source_methods/run-05/src/amp_run05/generate.py": "aadf8a5e4ab346a92c409bcea656df70ea9bade3b24f0161a61372e49fcf0e61",
+    "source_methods/run-05/src/amp_run05/config.json": "52cb31e9813c93e92785281da4f5757d4e5d6422b8b5cd00797e11a4bb20acda",
+    "source_methods/run-06/src/amp_run06/__init__.py": "7ca8a5ed7b3dfc43fa9454415c86da3c579a607b41a36943c21352840f6c25f4",
+    "source_methods/run-06/config.json": "5664c8d06667af9c14c843ddcedf872d3fa448c99289a754c5c2b233a279b4d4",
+    "source_methods/run-06/assets/context_model.json": "e8efff72c485dc6eca3aed61aa88e7ee3e808610ed2fb70c6b75aadc5597e986",
+    "source_methods/run-06/assets/teacher_library.fasta": "8a717e059d3b6d63cf0ca2a58a83d143a6202f97387b2180d9f7f906f3955c25",
+    "source_methods/run-06/assets/antibacterial.fasta": "cbbeac64ba95746d87961e8ad9dd0849ae8058d15a300b2e7f6990730ca521e9",
+    "source_methods/run-06/assets/ORGANIZER_LICENSE": "379ed39eb24d07ae3e53af592d0392556dbe4ef530b8c4ba287c4ef447a98ab9",
+    "source_methods/run-06/assets/TEACHER_LICENSE": "d9a93ffa60dcdbdf3711886c56b8c4189da42c7d69f8e36285e5fe8dcb79c2d2",
+    "source_methods/run-06/LICENSE": "b651d685a69601079809a5e58e28352b5ae01e184b14c550b1ff8ea3820672b1",
+    "source_methods/run-07/src/amp_run07/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_methods/run-07/src/amp_run07/gru_model.py": "b34f491ee1f92bb286a21a4cae88a95be44a96330c79dd8880fb26d8e5c5cc04",
+    "source_methods/run-07/assets/gru-weights.npz": "e938c8e572ffb3786711a27ed14149990442f1f50992ecf16bea882a271b927b",
+    "source_methods/run-07/assets/training.json": "bc33cf4f847908dd6e3918a84c53ca228e382f8cccd0e656e72b2bcad046f3c9",
+    "source_methods/run-07/assets/antibacterial.fasta": "cbbeac64ba95746d87961e8ad9dd0849ae8058d15a300b2e7f6990730ca521e9",
+    "source_methods/run-07/licenses/DRAMP-CC-BY-4.0.txt": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+    "source_methods/run-07/licenses/ORGANIZER-BSD-3-Clause.txt": "379ed39eb24d07ae3e53af592d0392556dbe4ef530b8c4ba287c4ef447a98ab9",
+    "source_methods/run-07/licenses/TensorFlow-2.2.1-LICENSE.txt": "37dbed59a6aef0803f24a7dac146679491c460faa8bc3834974d786acf56a40f",
+    "source_methods/run-08/src/amp_run08/__init__.py": "be5ef9ab7eb2adbdeda97f0cece5d5e03c43edd60d189f0c228a9bcfd0aa85a1",
+    "source_methods/run-08/src/amp_run08/generate.py": "e7940d4ff52309b192b0e3162d4715da9b97c925b340df4be1e476dcc4987d50",
+    "source_methods/run-08/src/amp_run08/assets/config.json": "df86f34fe7276b1c6207ca1e04178a64afb0fe0d139968d1a226308344538c87",
+    "source_methods/run-08/src/amp_run08/assets/model.json": "814250afb8387de4049dc78ee697cc878ab0fb767398e9226a438f69ab664ddb",
+    "source_methods/run-08/src/amp_run08/assets/excluded_sequence_sha256.txt": "87de81afef82d6cd75b5dddf74c7845770596f01af8596434b7b9b98987370f9",
+    "source_methods/run-08/LICENSE": "34fce190beed806db479017cb7384ec1f5c8345d822137de72795774bce6c2b9",
+    "source_methods/run-09/src/amp_run09/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_methods/run-09/src/amp_run09/generate.py": "f56fc693ebee04d8fb8e1a5272cccda657e800367be2a6087acfa87dbd02e341",
+    "source_methods/run-09/src/amp_run09/assets/model.json": "cec14f45c9978795c35e74bb63abf05abde657419193c8a59329fd43eaa8d02c",
+    "source_methods/run-09/src/amp_run09/assets/reference-sha256.txt": "40af1869b4c8067c7c09554774d4367f409d7458263011edd8f3c01ee5fef2d9",
+    "source_methods/run-09/LICENSE": "0c0c74c57218f7cc1e9163e2bca3d5ffa83393c1c9c14104be06d922cf049eba",
+    "source_methods/run-10/src/amp_run10/__init__.py": "7f9d97a579c86986ee74136cbe769c48f3623b9cd07b65517d375f3266418240",
+    "source_methods/run-10/src/amp_run10/generate.py": "9619ab9834b8bf2862972cf81cb61f90f2aee6559f1684334982c679998d13f1",
+    "source_methods/run-10/config.json": "c0090989ca7ecb0b9e7e8a0fdc097ebe9aa2200ca72ede6bd5cafb929c50c115",
+    "source_methods/run-10/filter_certificate.json": "4b7d87830ff13b5f6e403bcc8cf3dc74f51fd6b316f791190301ecd9695111fa",
+    "source_methods/run-10/LICENSE": "831ec3cb969591eef9e2d2ccc342d80e9581ea70320aa22367392e8afa3fae19",
+    "replay_sources.py": "159ef0fc83d027575739a8bd7f9e25ba3281a755ab61121198d9d18b9b78c674",
+    "frozen_selection.json": "739e0f1860d83b1aec05ed775311a2dcdfca1b1ebb03604ab6365e20a54bfc1d",
+    "consolidation.py": "e83bf6c81e8b9786ae6154d7e9ee1bb9bca00c4db6d5475575610c0c3aa7f19d",
+    "selection/replay_selection.py": "e5071dfac4a141f7a60897ea9bdb3c5c336ba9f6aa809af10112e84565da670b",
+    "selection/data_manifest.json": "43e5bc2548ec0baeefd84e6a57c9429096e3a309a87f3a05ff80bb2aba0f10d8",
+    "selection/panel_config.json": "ed83f4f525886afab95c2325d3b4655b0ef246beea47ae5c98da7682bf9646d9",
+    "selection/selection_config.json": "6e28484d1ab68e07a2c25fd7a3172b2ee433b540a4e9387ff33cc64b9aa3e1e2",
+    "selection/selection_record.json": "cfa389eac50e76b14f3706c0575d96ecbde5f239aff4630825a0b7eca29d1fdb",
+    "scripts/verify_submission.py": "3f2eb1bd61200abfccf07d86e9c226d57f3d12abcf25715af1d90f41531942cf",
+    "reference_manifest.json": "ddee9e8af5ee2984879c0c1fec4efdfd9ccaaa16ecdac2ed9bc8f58319cf9a9b",
+    "reference_assets.py": "56b5e8f0689011a4d17834b82dfb255c47390df82d5c8420342a951a777d0ec0",
+    "scripts/portable_sequence_checks.py": "62a45b997be74e3a2ad5004d6140465ebe2a134d10137ebf8d7edafc576a06b4"
+  },
+  "output_sha256": {
+    "library": "c7fe0d42580856f9531afe8be20dca22e6f275dbe466eba0f3dcffcb239ef0a3",
+    "top": "31cb2b9b81c89dd2a261cb5bbf7aeb208924577b1f5e2fd61c9c9b33ebfa3273"
+  },
+  "protocol": "Regenerate all ten complete source libraries; verify each ordered sequence hash; compare their exact N-to-C union to the full cached score population; recompute Borda ranks, MMR and proportional allocation using frozen cluster labels; validate output bytes and official sequence/reference checks. No predictor inference or model fitting is repeated. Full-tier v1.1 replaces the GPL ratio wrapper with the same RapidFuzz Indel operation; fetches the exact reference from its pinned public URL; preserves all source-pool/ranking/output hashes.",
+  "adapters": {
+    "run03/run04": "Execute AST of unchanged original main prefix through source library-generation while loop; stop before old top ranking; source hash pinned",
+    "run07": "Original GRUModel.library unchanged; unused profile model affects old selection only",
+    "run01/run05/run06/run10": "Original generator functions including existing ranking called; no fitting",
+    "run02/run08/run09": "Original library generation functions called; old top ranking superseded"
+  },
+  "local_execution_environment": "Python 3.12.3, numpy 2.4.3, Levenshtein .27.3, rapidfuzz 3.14.3, threadpoolctl 3.6.0; one numeric thread. Pool hashes fail closed on any version/platform drift."
+}

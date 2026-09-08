@@ -1,0 +1,32 @@
+{
+  "title": "Peptides data of DRAMP database",
+  "authors": [
+    {
+      "id": 19851105,
+      "full_name": "Ma Tianyue",
+      "first_name": "Ma",
+      "last_name": "Tianyue",
+      "is_active": true,
+      "url_name": "Ma_Tianyue",
+      "orcid_id": ""
+    },
+    {
+      "id": 447307,
+      "full_name": "Heng Zheng",
+      "first_name": "Heng",
+      "last_name": "Zheng",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    }
+  ],
+  "doi": "10.6084/m9.figshare.27233508.v2",
+  "url": "https://api.figshare.com/v2/articles/27233508",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "published_date": "2024-10-15T13:41:01Z",
+  "version": 2
+}

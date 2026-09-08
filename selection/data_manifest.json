@@ -1,0 +1,10 @@
+{
+  "data/cluster_labels.npy": "f7af363c7842f9253db7f152f5fcc6f36dc340758522f9b17999b9234af291c4",
+  "data/cluster_model.npz": "86f6be4f622a40adca722cc6420a0b600a5dd40fa577c0e934f3a72bb63e44f8",
+  "data/mmr_screen.npy": "95966bde52284baf2be995f7e99c95ed5e632b4c45abab721cb1b24c8ba3c4d4",
+  "data/pool_sequences.txt.gz": "bbe62c42294323c092ddd0fa33434bdbbdab05451c3aa1b69e1cf3c322be313a",
+  "data/rank_cache.npz": "5a8fd060931f25a7e5ed0112ca9132fae76c1fd121d0ce9c0707d47bc9f45f6a",
+  "data/raw_scores.npy": "35208f4a9861c08edc0362f49bb244828be2543aed1475c2a35eb2f0fa6c45e7",
+  "data/source_occurrences.csv.gz": "540d708a29e0376a37066d642359e30ed213b03a30cca87de0cab4058bb3729b",
+  "data/top_eligibility.csv.gz": "e7d830169ffa62ce81115a66ff144cebc55adb7ce284a0725fd14281297e7af9"
+}
